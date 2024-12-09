@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый HD
-http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5963.png" group-title="Общероссийские",Россия 1 HD
 http://s5.merlive.am:80/Rossia1/index.m3u8
 #EXTINF:-1 tvg-id="rossija-k-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/6216.png" group-title="Общероссийские",Россия Культура HD
@@ -32,7 +32,7 @@ http://dmi3y-tv.ru/hls/T2/CH_TNTHD.m3u8
 #EXTINF:-1 tvg-id="tnt4-hd" tvg-logo="http://pl.ottg.app/icon/5889.png" group-title="Общероссийские",ТНТ4 HD
 http://dmi3y-tv.ru/hls/CH_TNT4.m3u8
 #EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/8082.png" group-title="Общероссийские",РЕН ТВ HD
-http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
+https://edge02.odtv.az/o2/rentv/playlist.m3u8
 #EXTINF:-1 tvg-id="tvc-hd" tvg-logo="http://pl.ottg.app/icon/3655.png" group-title="Общероссийские",ТВЦ HD
 http://dmi3y-tv.ru/hls/T2/CH_TVC.m3u8
 #EXTINF:-1 tvg-id="otp" tvg-logo="http://pl.ottg.app/icon/2345.png" group-title="Общероссийские",ОТР
@@ -57,6 +57,16 @@ http://dmi3y-tv.ru/hls/T2/CH_TV3.m3u8
 http://s5.merlive.am:80/Nostalgia/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="http://pl.ottg.app/icon/8267.png" group-title="Общероссийские",Сарафан
 http://dmi3y-tv.ru/hls/CH_SARAFAN.m3u8
+#EXTINF:-1 tvg-id="vip-megahit-hd-orig" tvg-logo="http://pl.ottg.app/icon/7787.png" group-title="Кино",Viju+ megahit
+http://2.57.217.197:8080/play/a08j/index.m3u8
+#EXTINF:-1 tvg-id="vip-comedy-hd-orig" tvg-logo="http://pl.ottg.app/icon/9807.png" group-title="Кино",Viju+ comedy
+http://2.57.217.197:8080/play/a08i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Z3XvSP.png" group-title="Кино",Киносвидание
+http://2.57.217.197:8080/play/a090/index.m3u8
+#EXTINF:-1 tvg-id="kinomix-hd-orig" tvg-logo="http://pl.ottg.app/icon/1323.png" group-title="Кино",Киномикс
+http://2.57.217.197:8080/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AcN2pl0.png" group-title="Кино",Sci-Fi
+http://s5.merlive.am:80/Sci-Fi/index.m3u8
 #EXTINF:-1 tvg-id="star-cinema" tvg-logo="http://pl.ottg.app/icon/5109.png" group-title="Кино",Star Cinema
 http://s5.merlive.am:80/starsinema/index.m3u8
 #EXTINF:-1 tvg-id="amedia1-hd" tvg-logo="http://pl.ottg.app/icon/7386.png" group-title="Кино",Amedia 1
@@ -71,6 +81,8 @@ http://88.218.242.237:8000/play/a004
 http://s5.merlive.am:80/Domkino/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ovrgN5w.png" group-title="Кино",Bollywood HD
 http://s5.merlive.am:80/Bollywood/index.m3u8
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/7554.png" group-title="Новости",Москва 24
+https://player.smotrim.ru/iframe/stream/live_id/1661
 #EXTINF:-1 tvg-id="cnn" tvg-logo="http://pl.ottg.cc/icon/1797.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Новости",CNN
 http://dmi3y-tv.ru/hls/CH_CNNHD.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/2782.png" group-title="Новости",Настоящее время HD
@@ -169,6 +181,8 @@ http://s5.merlive.am:80/muztv/index.m3u8
 https://clck.ru/3F6Z2S
 #EXTINF:-1 tvg-id="5364" tvg-logo="http://epg.one/img/5364.png" group-title="Музыкальные",Первый Музыкальный Канал Россия HD
 https://clck.ru/3F6Z42
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/5291.png" group-title="Познавательные",DocuBox
+http://2.57.217.197:8080/play/a093/index.m3u8
 #EXTINF:-1 tvg-id="tlc-blk" tvg-logo="http://pl.ottg.app/icon/9012.png" group-title="Познавательные",TLC
 http://s5.merlive.am:80/tlc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1ZV5Iik.png" group-title="Познавательные",Love Nature 4k
@@ -249,6 +263,8 @@ http://ott-cdn.ucom.am/s42/index.m3u8
 http://ott-cdn.ucom.am/s10/index.m3u8
 #EXTINF:-1 tvg-id="TownTownik TV-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/2390.png" group-title="Армения",տունտունիկ
 http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9kUe9bf.png" group-title="Азербайджан",Az TV
+https://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:-1 tvg-id="cbc-hd-az" tvg-rec="7" tvg-logo="http://epg.one/img/2158.png" group-title="Азербайджан",CBC HD
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8?token=1733281436/0f2c4ddbf0a334e0f6b97412ecb7fbfa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v6tu3b4.png" group-title="Зарубежные",NDR HD DE
