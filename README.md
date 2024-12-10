@@ -58,7 +58,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="http://pl.ottg.app/icon/9997.png" group-title="Общероссийские",Ностальгия
 http://s5.merlive.am:80/Nostalgia/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="http://pl.ottg.app/icon/8267.png" group-title="Общероссийские",Сарафан
-http://dmi3y-tv.ru/hls/CH_SARAFAN.m3u8
+http://stream01.
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1411.png" group-title="Кино",viju TV1000
+http://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/9080.png" group-title="Кино",viju TV1000 action
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1502.png" group-title="Кино",viju TV1000 russkoe
+http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vip-megahit-hd-orig" tvg-logo="http://pl.ottg.app/icon/7787.png" group-title="Кино",Viju+ megahit
 http://2.57.217.197:8080/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy-hd-orig" tvg-logo="http://pl.ottg.app/icon/9807.png" group-title="Кино",Viju+ comedy
@@ -71,20 +77,24 @@ http://2.57.217.197:8080/play/a090/index.m3u8
 http://s5.merlive.am:80/Kinokomedia/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas-hd-orig" tvg-logo="http://pl.ottg.app/icon/1755.png" group-title="Кино",Киноужас HD
 http://s5.merlive.am:80/Kinoujas/index.m3u8
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/9754.png" group-title="Кино",Fox
+https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AcN2pl0.png" group-title="Кино",Sci-Fi
 http://s5.merlive.am:80/Sci-Fi/index.m3u8
 #EXTINF:-1 tvg-id="star-cinema" tvg-logo="http://pl.ottg.app/icon/5109.png" group-title="Кино",Star Cinema
 http://s5.merlive.am:80/starsinema/index.m3u8
 #EXTINF:-1 tvg-id="amedia1-hd" tvg-logo="http://pl.ottg.app/icon/7386.png" group-title="Кино",Amedia 1
 http://s5.merlive.am:80/Amedia1/index.m3u8
+#EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-logo="http://pl.ottg.app/icon/3610.png" group-title="Кино",Amedia Premium
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-logo="https://i.imgur.com/QieJesq.png" group-title="Кино",Romance
 http://88.218.242.237:8000/play/a004
 #EXTINF:-1 tvg-id="dom-kino" tvg-logo="http://pl.ottg.app/icon/2851.png" group-title="Кино",Дом Кино
 http://s5.merlive.am:80/Domkino/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ovrgN5w.png" group-title="Кино",Bollywood HD
 http://s5.merlive.am:80/Bollywood/index.m3u8
-#EXTINF:-1 tvg-id="cnn" tvg-logo="http://pl.ottg.cc/icon/1797.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Новости",CNN
-http://dmi3y-tv.ru/hls/CH_CNNHD.m3u8
+#EXTINF:-1 tvg-id="EURONEWS" tvg-logo="http://pl.ottg.app/icon/3882.png" group-title="Новости",Euronews
+http://stream01.vnet.am/Channel_119/mono.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/2782.png" group-title="Новости",Настоящее время HD
 https://clck.ru/3F6ZUq
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1751.png" group-title="Новости",Известия HD
@@ -191,6 +201,10 @@ https://clck.ru/3F6Z2S
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1 tvg-id="5364" tvg-logo="http://epg.one/img/5364.png" group-title="Музыкальные",Первый Музыкальный Канал Россия HD
 https://clck.ru/3F6Z42
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/3719.png" group-title="Познавательные",Телекафе
+http://stream01.vnet.am/Telekafe/mono.m3u8
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/9708.png" group-title="Познавательные",Кухня ТВ
+http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/5291.png" group-title="Познавательные",DocuBox
 http://2.57.217.197:8080/play/a093/index.m3u8
 #EXTINF:-1 tvg-id="tlc-blk" tvg-logo="http://pl.ottg.app/icon/9012.png" group-title="Познавательные",TLC
