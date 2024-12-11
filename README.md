@@ -133,8 +133,6 @@ http://s5.merlive.am:80/Karusel/index.m3u8
 http://ott-cdn.ucom.am/s59/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLeqe2o.png" group-title="Мультфильмы",Ani
 http://31.148.48.15/Ani/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPBg4wS.png" group-title="Музыкальные",MIXM TV HD
-http://hlss.goodgame.ru/hls/181490.m3u8
 #EXTINF:-1 tvg-id="6625" tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6627" tvg-logo="http://epg.one/img/6627.png" group-title="Музыкальные",Now 80s
