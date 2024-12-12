@@ -111,8 +111,6 @@ https://clck.ru/3F6ZUK
 http://dmi3y-tv.ru/hls/CH_RTDHD.m3u8
 #EXTINF:-1 tvg-id="dojd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/1238.png" group-title="Новости",ДОЖДЬ HD
 https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b8192000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v2fi0Dn.png" group-title="Мультфильмы",Ералаш ТВ
-http://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WkLAOY5.png" group-title="Мультфильмы",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="detskij-mir-hd" tvg-logo="http://pl.ottg.app/icon/9295.png" group-title="Мультфильмы",Детский мир
@@ -177,8 +175,6 @@ https://ssh101-fl.bozztv.com/ssh101/vivarussia/tracks-v1a1/mono.m3u8
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 #EXTINF:-1 tvg-id="beat-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5483.png" group-title="Музыкальные",Beat HD
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",1MUS
-http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="muzzikhiphop-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHHa3Os19a1ppnqQhHyJug_wlhh6TNCCMbGLRAurMnotjCtEXgjNuW1zPiIGEUh78k6QxgAs1rEGM-ZOSLW06c63DGowdqMrm5oE6CFy9_nm2Kj7VHDp8-hZHX2-0oDQNrZ20wwxf2ZN7mW9kK5auOVhFV0qiJ6HTWFmYyC_JXz4eLUR_Qurd3EiuKArXN/s1600-rw/21.png" group-title="Музыкальные",MUZZIK HIP-HOP
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 tvg-id="popstar-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixclB1UBuaRgoVnwGOKJm2Yz5Nq9pvt4Rtq_iMtRqXLxytLzbN-tMqq2bBM6LOxz7S5-PT_FHNMG1dWXHT8o7yEoHMXcovm4LHOpU5Y-JpSXc2Nclg52dqu3MC6c5CFSjwMNg1ryvuozgringjHEBuYujOXot_2Y9onpGUEjPDUO8dZylHh2U0e50NpcEo/s1600-rw/22.png" group-title="Музыкальные",POP STAR
@@ -193,6 +189,8 @@ http://s5.merlive.am:80/muztv/index.m3u8
 https://clck.ru/3F6Z2S
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXrxb9l.png" group-title="Музыкальные",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
+#EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",1MUS
+http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="5364" tvg-logo="http://epg.one/img/5364.png" group-title="Музыкальные",Первый Музыкальный Канал Россия HD
 https://clck.ru/3F6Z42
 #EXTINF:-1 tvg-id="BigAsia.ru" tvg-logo="http://pl.ottg.app/icon/6657.png" group-title="Познавательные",Большая Азия
@@ -291,6 +289,8 @@ http://ott-cdn.ucom.am/s42/index.m3u8
 http://ott-cdn.ucom.am/s10/index.m3u8
 #EXTINF:-1 tvg-id="TownTownik TV-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/2390.png" group-title="Армения",տունտունիկ
 http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 tvg-id="9144" tvg-logo="http://epg.one/img/9144.png" group-title="Азербайджан",Baku TV
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9kUe9bf.png" group-title="Азербайджан",Az TV
 https://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:-1 tvg-id="cbc-hd-az" tvg-rec="7" tvg-logo="http://epg.one/img/2158.png" group-title="Азербайджан",CBC HD
