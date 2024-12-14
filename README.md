@@ -97,8 +97,6 @@ http://dmi3y-tv.ru/hls/CH_IZVESTIYA.m3u8
 http://dmi3y-tv.ru/hls/CH_360TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8gC9tI8.png" group-title="Новости",РБК HD
 http://dmi3y-tv.ru/hls/CH_RBKHD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев Live
-https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6.m3u8?md5=MWgwsnKqwFitBN8uBrrESw&e=1734189723&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="http://pl.ottg.app/icon/1306.png" group-title="Новости",МИР-24 HD
 http://dmi3y-tv.ru/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="http://pl.ottg.app/icon/7146.png" group-title="Новости",Россия 24
@@ -133,6 +131,8 @@ http://s5.merlive.am:80/Karusel/index.m3u8
 http://ott-cdn.ucom.am/s59/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLeqe2o.png" group-title="Мультфильмы",Ani
 http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IjiQajc.png" group-title="Музыкальные",Clubbing TV
+https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:-1 tvg-id="mtv-hits" tvg-logo="http://pl.ottg.app/icon/5568.png" group-title="Музыкальные",MTV Hits
 https://cdn3.troya.one/ch019/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ2usPerTAqdrQs0mAAjXiyGeD9FK1NECOMDPrJU_Rki
 #EXTINF:-1 tvg-id="2235" tvg-logo="http://epg.one/img/2235.png" group-title="Музыкальные",MTV 90s
