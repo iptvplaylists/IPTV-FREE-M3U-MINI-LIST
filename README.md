@@ -103,8 +103,6 @@ https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6.m3u8?md5=MWgwsnKqwF
 http://dmi3y-tv.ru/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="http://pl.ottg.app/icon/7146.png" group-title="Новости",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/7554.png" group-title="Новости",Москва 24
-https://www.m24.ru/trans/air/480p.m3u8?e=1734177600&s=g378fqcuFHK-f2T6A-LeiA
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/7518.png" group-title="Новости",Беларусь 24 HD
 https://clck.ru/3F6ZUK
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/6969.png" group-title="Новости",Russia Today HD
@@ -135,6 +133,8 @@ http://s5.merlive.am:80/Karusel/index.m3u8
 http://ott-cdn.ucom.am/s59/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLeqe2o.png" group-title="Мультфильмы",Ani
 http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 tvg-id="mtv-hits" tvg-logo="http://pl.ottg.app/icon/5568.png" group-title="Музыкальные",MTV Hits
+https://cdn3.troya.one/ch019/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ2usPerTAqdrQs0mAAjXiyGeD9FK1NECOMDPrJU_Rki
 #EXTINF:-1 tvg-id="2235" tvg-logo="http://epg.one/img/2235.png" group-title="Музыкальные",MTV 90s
 http://cdn3.troya.one/ch594/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAHK1MuaUWu3yzxAfE5aGPTMOimlvQ9gjVPzmVvJkAN-
 #EXTINF:-1 tvg-id="4673" tvg-logo="http://epg.one/img/4673.png" group-title="Музыкальные",Deejay TV
@@ -195,6 +195,8 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 http://s5.merlive.am:80/muztv/index.m3u8
 #EXTINF:-1 tvg-id="680" tvg-logo="http://epg.one/img/680.png" group-title="Музыкальные",ТНТ MUSIC
 https://clck.ru/3F6Z2S
+#EXTINF:-1 tvg-id="musicbox" tvg-logo="http://pl.ottg.app/icon/8131.png" group-title="Музыкальные",Russian MusicBox
+https://msk2.peers.tv/streaming/musboxru/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzQyNzM3NzgsImlhdCI6MTczNDE4NzM3OCwiY2lkIjo4MSwidWlkIjo4NzAzMDIwNDQsInJlZyI6ZmFsc2UsImlwIjoxNjA0NTc4NjQxfQ.twfK5Ba3pKD3dURJeLkx2ycwYIiVoAf6xta4YVtIe6s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXrxb9l.png" group-title="Музыкальные",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",1MUS
@@ -247,10 +249,10 @@ https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/9550.png" group-title="Спортивные",Бокс ТВ
 http://stream01.vnet.am/BoksTv/mono.m3u8
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/WSB0k5v.png" group-title="Спортивные",NHL
-https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 #EXTINF:-1 tvg-id="avto-plus" tvg-logo="http://pl.ottg.app/icon/2339.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спортивные",Авто Плюс HD
 http://s5.merlive.am:80/Avtoplus/index.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/WSB0k5v.png" group-title="Спортивные",NHL Network
+https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 #EXTINF:-1 tvg-id="h1-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2060.png" group-title="Армения",Առաջին Ալիք
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="h2-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2062.png" group-title="Армения",Հ2
@@ -279,8 +281,6 @@ http://ott-cdn.ucom.am/s8/index.m3u8
 http://stream02.vnet.am/Kinoman/mono.m3u8
 #EXTINF:-1 tvg-id="atv-tava-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/7765.png" group-title="Армения",ԹԱՎԱ TV
 http://ott-cdn.ucom.am/s53/index.m3u8
-#EXTINF:-1 group-title="Армения",ԼԱՎՖՀԱՔ
-http://ott-cdn.ucom.am/s48/index.m3u8
 #EXTINF:-1 tvg-id="atv-cineman-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2394.png" group-title="Армения",սինեման
 http://ott-cdn.ucom.am/s66/index.m3u8
 #EXTINF:-1 tvg-id="erkir-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/5921.png" group-title="Армения",Երկիր մեդիա
