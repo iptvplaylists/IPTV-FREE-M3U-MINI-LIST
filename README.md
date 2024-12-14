@@ -111,6 +111,8 @@ https://clck.ru/3F6ZUK
 http://dmi3y-tv.ru/hls/CH_RTDHD.m3u8
 #EXTINF:-1 tvg-id="dojd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/1238.png" group-title="Новости",ДОЖДЬ HD
 https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b8192000.m3u8
+#EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/XXNN6It.png" group-title="Мультфильмы",Nicktoons
+https://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/gOfbuWJ.png" group-title="Мультфильмы",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WkLAOY5.png" group-title="Мультфильмы",Чип и Дейл
@@ -133,6 +135,10 @@ http://s5.merlive.am:80/Karusel/index.m3u8
 http://ott-cdn.ucom.am/s59/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLeqe2o.png" group-title="Мультфильмы",Ani
 http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 tvg-id="2235" tvg-logo="http://epg.one/img/2235.png" group-title="Музыкальные",MTV 90s
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=39803&token=79f179f68480069a1a2eddd772832c66
+#EXTINF:-1 tvg-id="4673" tvg-logo="http://epg.one/img/4673.png" group-title="Музыкальные",Deejay TV
+https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3285890.m3u8
 #EXTINF:-1 tvg-id="6625" tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6627" tvg-logo="http://epg.one/img/6627.png" group-title="Музыкальные",Now 80s
@@ -271,6 +277,8 @@ http://ott-cdn.ucom.am/s8/index.m3u8
 http://stream02.vnet.am/Kinoman/mono.m3u8
 #EXTINF:-1 tvg-id="atv-tava-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/7765.png" group-title="Армения",ԹԱՎԱ TV
 http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:-1 group-title="Армения",ԼԱՎՖՀԱՔ
+http://ott-cdn.ucom.am/s48/index.m3u8
 #EXTINF:-1 tvg-id="atv-cineman-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2394.png" group-title="Армения",սինեման
 http://ott-cdn.ucom.am/s66/index.m3u8
 #EXTINF:-1 tvg-id="erkir-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/5921.png" group-title="Армения",Երկիր մեդիա
