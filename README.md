@@ -98,13 +98,13 @@ http://dmi3y-tv.ru/hls/CH_360TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8gC9tI8.png" group-title="Новости",РБК HD
 http://dmi3y-tv.ru/hls/CH_RBKHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев Live
-http://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
+https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6.m3u8?md5=MWgwsnKqwFitBN8uBrrESw&e=1734189723&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="http://pl.ottg.app/icon/1306.png" group-title="Новости",МИР-24 HD
 http://dmi3y-tv.ru/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="http://pl.ottg.app/icon/7146.png" group-title="Новости",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/7554.png" group-title="Новости",Москва 24
-https://player.smotrim.ru/iframe/stream/live_id/1661
+https://www.m24.ru/trans/air/480p.m3u8?e=1734177600&s=g378fqcuFHK-f2T6A-LeiA
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/7518.png" group-title="Новости",Беларусь 24 HD
 https://clck.ru/3F6ZUK
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/6969.png" group-title="Новости",Russia Today HD
