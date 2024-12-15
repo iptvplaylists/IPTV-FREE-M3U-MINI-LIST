@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
-#EXTINF:-1 group-title="Телеграм 👉 @texnozonatv",TEXNO ZONA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ya2Hpxd.png" group-title="Телеграм 👉 @texnozonatv",TEXNO ZONA TV
 https://onlinetvalex.blogspot.com/
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
