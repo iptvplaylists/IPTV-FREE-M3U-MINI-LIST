@@ -208,7 +208,7 @@ http://s5.merlive.am:80/muztv/index.m3u8
 #EXTINF:-1 tvg-id="680" tvg-logo="http://epg.one/img/680.png" group-title="Музыкальные",ТНТ MUSIC
 https://clck.ru/3F6Z2S
 #EXTINF:-1 tvg-id="musicbox" tvg-logo="http://pl.ottg.app/icon/8131.png" group-title="Музыкальные",Russian MusicBox
-https://msk2.peers.tv/streaming/musboxru/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzQyNzM3NzgsImlhdCI6MTczNDE4NzM3OCwiY2lkIjo4MSwidWlkIjo4NzAzMDIwNDQsInJlZyI6ZmFsc2UsImlwIjoxNjA0NTc4NjQxfQ.twfK5Ba3pKD3dURJeLkx2ycwYIiVoAf6xta4YVtIe6s
+https://stream06.sputnik24.tv/russianmusicboxhd/index.m3u8?sig=1734303327_8373eeda3508600cfe82c5a206dd42c8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXrxb9l.png" group-title="Музыкальные",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",1MUS
