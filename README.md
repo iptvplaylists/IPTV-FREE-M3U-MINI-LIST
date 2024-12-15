@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ya2Hpxd.png" group-title="Телеграм 👉 @texnozonatv",TEXNO ZONA TV
-https://onlinetvalex.blogspot.com/
+http://ronaldo.tvfor.pro/FwvUiLwcqW/l6i55j264w9187bml44emph2
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5963.png" group-title="Общероссийские",Россия 1 HD
@@ -351,8 +351,6 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2563.png" group-title="Зарубежные",Imedi TV GE
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
-#EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="http://pl.ottg.cc/icon/6998.png" group-title="Зарубежные",9 Channel IL
-http://217.79.179.127:8082/rDs0/ts/tv9_id37175.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyNCA0OjM0OjQyIFBNJmhhc2hfdmFsdWU9SkpCTFI4Y3dad3VSQjR5UkF6blM2dz09JnZhbGlkbWludXRlcz0xODAmaXA9NDUuMTU5Ljc0LjY4JmNoZWNraXA9dHJ1ZQ==
 #EXTINF:-1 tvg-id="channel-11-il" tvg-logo="http://pl.ottg.app/icon/8247.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Зарубежные",11 Channel IL
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-id="channel-12-il" tvg-logo="http://pl.ottg.app/icon/5773.png" group-title="Зарубежные",12 Channel IL
