@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
+#EXTINF:-1 group-title="Телеграм 👉 @texnozonatv",TEXNO ZONA TV
+https://onlinetvalex.blogspot.com/
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5963.png" group-title="Общероссийские",Россия 1 HD
@@ -8,7 +10,7 @@ http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="ntv-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2017.png" group-title="Общероссийские",НТВ HD
 http://s5.merlive.am:80/ntvhd/index.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/7870.png" group-title="Общероссийские",НТВ Мир
-http://s5.merlive.am:80/NTVMir/index.m3u8
+http://stream02.vnet.am/HTB/mono.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1445.png" group-title="Общероссийские",НТВ Хит
 http://s5.merlive.am:80/ntvxit/index.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/8025.png" group-title="Общероссийские",НТВ Право
@@ -55,6 +57,10 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="tv3-hd" tvg-logo="http://pl.ottg.app/icon/1540.png" group-title="Общероссийские",ТВ3 HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oeYWfx0.png" group-title="Общероссийские",Беларусь 2
+https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2/chunklist_w486063721_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yI4iYrk.png" group-title="Общероссийские",Беларусь 3
+https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694951_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="http://pl.ottg.app/icon/9997.png" group-title="Общероссийские",Ностальгия
 http://s5.merlive.am:80/Nostalgia/index.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1502.png" group-title="Кино",viju TV1000 russkoe
@@ -245,6 +251,8 @@ http://s5.merlive.am:80/discovery/index.m3u8
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1223.png" group-title="Познавательные",Fashion TV HD
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2czroOb.png" group-title="Спортивные",Беларусь 5
+https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1049318557_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1949.png" group-title="Спортивные",FightBox
 http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/9550.png" group-title="Спортивные",Бокс ТВ
@@ -331,6 +339,8 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2563.png" group-title="Зарубежные",Imedi TV GE
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="http://pl.ottg.cc/icon/6998.png" group-title="Зарубежные",Канал 9 IL
+http://217.79.179.127:8082/rDs0/ts/tv9_id37175.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyNCAxMjowOTo1MCBQTSZoYXNoX3ZhbHVlPWkrYkMxVVlNOWE0NUNuZ1dENzg0Q3c9PSZ2YWxpZG1pbnV0ZXM9MTgwJmlwPTQ1LjE1OS43NC42OCZjaGVja2lwPXRydWU=
 #EXTINF:-1 tvg-id="channel-11-il" tvg-logo="http://pl.ottg.app/icon/8247.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Зарубежные",11 Channel IL
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-id="channel-12-il" tvg-logo="http://pl.ottg.app/icon/5773.png" group-title="Зарубежные",12 Channel IL
