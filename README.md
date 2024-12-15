@@ -57,6 +57,10 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="tv3-hd" tvg-logo="http://pl.ottg.app/icon/1540.png" group-title="Общероссийские",ТВ3 HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://pl.ottg.cc/icon/7017.png" group-title="Общероссийские",СТВ
+https://edge55.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1789650572.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YiV6WuC.png" group-title="Общероссийские",Беларусь 1
+https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1/chunklist_w749522209_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oeYWfx0.png" group-title="Общероссийские",Беларусь 2
 https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2/chunklist_w486063721_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yI4iYrk.png" group-title="Общероссийские",Беларусь 3
@@ -137,6 +141,8 @@ http://s5.merlive.am:80/Karusel/index.m3u8
 http://ott-cdn.ucom.am/s59/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLeqe2o.png" group-title="Мультфильмы",Ani
 http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PnwBe6B.png" group-title="Музыкальные",Baraza Music
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjiQajc.png" group-title="Музыкальные",Clubbing TV
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:-1 tvg-id="mtv-hits" tvg-logo="http://pl.ottg.app/icon/5568.png" group-title="Музыкальные",MTV Hits
@@ -339,7 +345,7 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2563.png" group-title="Зарубежные",Imedi TV GE
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
-#EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="http://pl.ottg.cc/icon/6998.png" group-title="Зарубежные",Канал 9 IL
+#EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="http://pl.ottg.cc/icon/6998.png" group-title="Зарубежные",9 Channel IL
 http://217.79.179.127:8082/rDs0/ts/tv9_id37175.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyNCAxMjowOTo1MCBQTSZoYXNoX3ZhbHVlPWkrYkMxVVlNOWE0NUNuZ1dENzg0Q3c9PSZ2YWxpZG1pbnV0ZXM9MTgwJmlwPTQ1LjE1OS43NC42OCZjaGVja2lwPXRydWU=
 #EXTINF:-1 tvg-id="channel-11-il" tvg-logo="http://pl.ottg.app/icon/8247.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Зарубежные",11 Channel IL
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
