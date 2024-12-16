@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ya2Hpxd.png" group-title="Телеграм 👉 @texnozonatv",TEXNO ZONA TV
-https://
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5963.png" group-title="Общероссийские",Россия 1 HD
@@ -323,12 +321,6 @@ http://ott-cdn.ucom.am/s42/index.m3u8
 http://ott-cdn.ucom.am/s10/index.m3u8
 #EXTINF:-1 tvg-id="TownTownik TV-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/2390.png" group-title="Армения",տունտունիկ
 http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:-1 tvg-id="9144" tvg-logo="http://epg.one/img/9144.png" group-title="Азербайджан",Baku TV
-https://rtmp.baku.tv/live/bakutv_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9kUe9bf.png" group-title="Азербайджан",Az TV
-https://str.yodacdn.net/aztv/index.m3u8
-#EXTINF:-1 tvg-id="cbc-hd-az" tvg-rec="7" tvg-logo="http://epg.one/img/2158.png" group-title="Азербайджан",CBC HD
-https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8?token=1733281436/0f2c4ddbf0a334e0f6b97412ecb7fbfa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v6tu3b4.png" group-title="Зарубежные",NDR HD DE
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8X08Fx.png" group-title="Зарубежные",WDR HD DE
@@ -349,6 +341,12 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="3858" tvg-logo="http://epg.one/img/3858.png" group-title="Зарубежные",TRT AVAZ TR
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9kUe9bf.png" group-title="Зарубежные",Az TV
+https://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:-1 tvg-id="9144" tvg-logo="http://epg.one/img/9144.png" group-title="Зарубежные",Baku TV
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+#EXTINF:-1 tvg-id="cbc-hd-az" tvg-logo="http://epg.one/img/2158.png" group-title="Зарубежные",CBC TV
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8?token=1733281436/0f2c4ddbf0a334e0f6b97412ecb7fbfa
 #EXTINF:-1 tvg-logo="http://epg.one/img/2560.png" group-title="Зарубежные",1TV Georgia GE
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2563.png" group-title="Зарубежные",Imedi TV GE
