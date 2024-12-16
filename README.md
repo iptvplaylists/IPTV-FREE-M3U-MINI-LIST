@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ya2Hpxd.png" group-title="Телеграм 👉 @texnozonatv",TEXNO ZONA TV
-http://ronaldo.tvfor.pro/FwvUiLwcqW/l6i55j264w9187bml44emph2
+http://
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5963.png" group-title="Общероссийские",Россия 1 HD
@@ -212,7 +212,7 @@ http://s5.merlive.am:80/muztv/index.m3u8
 #EXTINF:-1 tvg-id="680" tvg-logo="http://epg.one/img/680.png" group-title="Музыкальные",ТНТ MUSIC
 https://clck.ru/3F6Z2S
 #EXTINF:-1 tvg-id="musicbox" tvg-logo="http://pl.ottg.app/icon/8131.png" group-title="Музыкальные",Russian MusicBox
-https://stream06.sputnik24.tv/russianmusicboxhd/index.m3u8?sig=1734303327_8373eeda3508600cfe82c5a206dd42c8
+https://tvcdnpotok.com/lOR2P13LMfbIabYngE0gMQ/168/1734351934/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXrxb9l.png" group-title="Музыкальные",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",1MUS
