@@ -261,6 +261,8 @@ http://s5.merlive.am:80/discovery/index.m3u8
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1223.png" group-title="Познавательные",Fashion TV HD
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Fast Sports
+http://dmi3y-tv.ru/hls/CH_FASTSPORTSHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2czroOb.png" group-title="Спортивные",Беларусь 5
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1049318557_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1949.png" group-title="Спортивные",FightBox
@@ -269,6 +271,8 @@ http://stream01.vnet.am/Fightbox/mono.m3u8
 http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 tvg-id="avto-plus" tvg-logo="http://pl.ottg.app/icon/2339.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спортивные",Авто Плюс HD
 http://s5.merlive.am:80/Avtoplus/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QSR3kph.png" group-title="Спортивные",Red Bull TV
+http://dmi3y-tv.ru/hls/CH_REDBULLTVHD.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/WSB0k5v.png" group-title="Спортивные",NHL Network
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 #EXTINF:-1 tvg-id="h1-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2060.png" group-title="Армения",Առաջին Ալիք
