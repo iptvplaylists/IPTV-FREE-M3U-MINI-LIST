@@ -213,8 +213,6 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 http://s5.merlive.am:80/muztv/index.m3u8
 #EXTINF:-1 tvg-id="680" tvg-logo="http://epg.one/img/680.png" group-title="Музыкальные",ТНТ MUSIC
 https://clck.ru/3F6Z2S
-#EXTINF:-1 tvg-id="musicbox" tvg-logo="http://pl.ottg.app/icon/8131.png" group-title="Музыкальные",Russian MusicBox
-https://tvcdnpotok.com/lOR2P13LMfbIabYngE0gMQ/168/1734351934/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXrxb9l.png" group-title="Музыкальные",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",1MUS
@@ -303,6 +301,8 @@ http://ott-cdn.ucom.am/s8/index.m3u8
 http://stream02.vnet.am/Kinoman/mono.m3u8
 #EXTINF:-1 tvg-id="atv-tava-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/7765.png" group-title="Армения",ԹԱՎԱ TV
 http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybig9oZ.png" group-title="Армения",ԼԱՎՖՀԱՔ
+http://ott-cdn.ucom.am/s48/index.m3u8
 #EXTINF:-1 tvg-id="atv-cineman-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2394.png" group-title="Армения",սինեման
 http://ott-cdn.ucom.am/s66/index.m3u8
 #EXTINF:-1 tvg-id="erkir-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/5921.png" group-title="Армения",Երկիր մեդիա
