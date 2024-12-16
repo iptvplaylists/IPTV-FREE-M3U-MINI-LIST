@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ya2Hpxd.png" group-title="Телеграм 👉 @texnozonatv",TEXNO ZONA TV
-https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
+https://
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5963.png" group-title="Общероссийские",Россия 1 HD
@@ -145,6 +145,8 @@ http://s5.merlive.am:80/Karusel/index.m3u8
 http://ott-cdn.ucom.am/s59/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLeqe2o.png" group-title="Мультфильмы",Ani
 http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7hARI0.png" group-title="Музыкальные",Hits 360
+https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PnwBe6B.png" group-title="Музыкальные",Baraza Music
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjiQajc.png" group-title="Музыкальные",Clubbing TV
