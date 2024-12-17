@@ -276,7 +276,7 @@ http://dmi3y-tv.ru/hls/CH_REDBULLTVHD.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/WSB0k5v.png" group-title="Спортивные",NHL Network
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 #EXTINF:-1 tvg-id="h1-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2060.png" group-title="Армения",Առաջին Ալիք
-https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8?nimblesessionid=13589651
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 #EXTINF:-1 tvg-id="h2-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2062.png" group-title="Армения",Հ2
 http://ott-cdn.ucom.am/s2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5934.png" group-title="Армения",USA Armenia
