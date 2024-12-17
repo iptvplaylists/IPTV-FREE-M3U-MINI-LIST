@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5963.png" group-title="Общероссийские",Россия 1 HD
+#EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5963.png" group-title="Общероссийские",Россия 1
 http://s5.merlive.am:80/Rossia1/index.m3u8
-#EXTINF:-1 tvg-id="rossija-k-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/6216.png" group-title="Общероссийские",Россия Культура HD
+#EXTINF:-1 tvg-id="rossija-k-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/6216.png" group-title="Общероссийские",Россия Культура
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="ntv-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2017.png" group-title="Общероссийские",НТВ HD
 http://s5.merlive.am:80/ntvhd/index.m3u8
@@ -65,13 +65,11 @@ https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2/chunklist_w4860637
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694951_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="http://pl.ottg.app/icon/9997.png" group-title="Общероссийские",Ностальгия
 http://s5.merlive.am:80/Nostalgia/index.m3u8
-#EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://pl.ottg.cc/icon/2273.png" group-title="Кино",Арсенал
-http://ott-cdn.ucom.am/s68/index.m3u8
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1502.png" group-title="Кино",viju TV1000 russkoe
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1502.png" group-title="Кино",viju TV1000 Русское
 http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="vip-megahit-hd-orig" tvg-logo="http://pl.ottg.app/icon/7787.png" group-title="Кино",Viju+ megahit
+#EXTINF:-1 tvg-id="vip-megahit-hd-orig" tvg-logo="http://pl.ottg.app/icon/7787.png" group-title="Кино",viju+ Megahit
 http://2.57.217.197:8080/play/a08j/index.m3u8
-#EXTINF:-1 tvg-id="vip-comedy-hd-orig" tvg-logo="http://pl.ottg.app/icon/9807.png" group-title="Кино",Viju+ comedy
+#EXTINF:-1 tvg-id="vip-comedy-hd-orig" tvg-logo="http://pl.ottg.app/icon/9807.png" group-title="Кино",viju+ Comedy
 http://2.57.217.197:8080/play/a08i/index.m3u8
 #EXTINF:-1 tvg-id="kinomix-hd-orig" tvg-logo="http://pl.ottg.app/icon/1323.png" group-title="Кино",Киномикс
 http://2.57.217.197:8080/play/a08d/index.m3u8
@@ -79,7 +77,7 @@ http://2.57.217.197:8080/play/a08d/index.m3u8
 http://2.57.217.197:8080/play/a090/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DtVRyIp.png" group-title="Кино",Кинокомедия
 http://s5.merlive.am:80/Kinokomedia/index.m3u8
-#EXTINF:-1 tvg-id="kinouzhas-hd-orig" tvg-logo="http://pl.ottg.app/icon/1755.png" group-title="Кино",Киноужас HD
+#EXTINF:-1 tvg-id="kinouzhas-hd-orig" tvg-logo="http://pl.ottg.app/icon/1755.png" group-title="Кино",Киноужас
 http://s5.merlive.am:80/Kinoujas/index.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/9754.png" group-title="Кино",Fox
 https://stream01.vnet.am/Fox/mono.m3u8
@@ -95,7 +93,7 @@ http://stream01.vnet.am/AmediaPremium/mono.m3u8
 http://88.218.242.237:8000/play/a004
 #EXTINF:-1 tvg-id="dom-kino" tvg-logo="http://pl.ottg.app/icon/2851.png" group-title="Кино",Дом Кино
 http://s5.merlive.am:80/Domkino/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ovrgN5w.png" group-title="Кино",Bollywood HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ovrgN5w.png" group-title="Кино",Bollywood
 http://s5.merlive.am:80/Bollywood/index.m3u8
 #EXTINF:-1 tvg-id="EURONEWS" tvg-logo="http://pl.ottg.app/icon/3882.png" group-title="Новости",Euronews
 http://stream01.vnet.am/Channel_119/mono.m3u8
@@ -257,10 +255,10 @@ http://s5.merlive.am:80/NationalGeographic/index.m3u8
 https://clck.ru/3F6Yhe
 #EXTINF:-1 tvg-id="discovery-hd-orig" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/8979.png" group-title="Познавательные",Discovery Channel HD
 http://s5.merlive.am:80/discovery/index.m3u8
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1223.png" group-title="Познавательные",Fashion TV
+https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1223.png" group-title="Познавательные",Fashion TV HD
-https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Fast Sports
 http://dmi3y-tv.ru/hls/CH_FASTSPORTSHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2czroOb.png" group-title="Спортивные",Беларусь 5
