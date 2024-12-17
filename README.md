@@ -147,8 +147,6 @@ https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjiQajc.png" group-title="Музыкальные",Clubbing TV
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-#EXTINF:-1 tvg-id="mtv-hits" tvg-logo="http://pl.ottg.app/icon/5568.png" group-title="Музыкальные",MTV Hits
-https://cdn3.troya.one/ch019/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ2usPerTAqdrQs0mAAjXiyGeD9FK1NECOMDPrJU_Rki
 #EXTINF:-1 tvg-id="2235" tvg-logo="http://epg.one/img/2235.png" group-title="Музыкальные",MTV 90s
 http://cdn3.troya.one/ch594/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAHK1MuaUWu3yzxAfE5aGPTMOimlvQ9gjVPzmVvJkAN-
 #EXTINF:-1 tvg-id="4673" tvg-logo="http://epg.one/img/4673.png" group-title="Музыкальные",Deejay TV
