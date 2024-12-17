@@ -141,14 +141,14 @@ http://s5.merlive.am:80/Karusel/index.m3u8
 http://ott-cdn.ucom.am/s59/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLeqe2o.png" group-title="Мультфильмы",Ani
 http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mNWXIA7.png" group-title="Музыкальные",Piterpan TV
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist_w424198474.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7hARI0.png" group-title="Музыкальные",Hits 360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PnwBe6B.png" group-title="Музыкальные",Baraza Music
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjiQajc.png" group-title="Музыкальные",Clubbing TV
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-#EXTINF:-1 tvg-id="2235" tvg-logo="http://epg.one/img/2235.png" group-title="Музыкальные",MTV 90s
-http://cdn3.troya.one/ch594/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAHK1MuaUWu3yzxAfE5aGPTMOimlvQ9gjVPzmVvJkAN-
 #EXTINF:-1 tvg-id="4673" tvg-logo="http://epg.one/img/4673.png" group-title="Музыкальные",Deejay TV
 https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3285890.m3u8
 #EXTINF:-1 tvg-id="6625" tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
