@@ -205,6 +205,8 @@ http://195.9.195.3:8080/hls/201891.m3u8
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muz-tv" tvg-logo="http://pl.ottg.app/icon/1806.png" group-title="Музыкальные",МузТВ
 http://s5.merlive.am:80/muztv/index.m3u8
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="http://pl.ottg.cc/icon/3300.png" group-title="Музыкальные",RU TV
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-id="680" tvg-logo="http://epg.one/img/680.png" group-title="Музыкальные",ТНТ MUSIC
 https://clck.ru/3F6Z2S
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXrxb9l.png" group-title="Музыкальные",SONGTV Russia
