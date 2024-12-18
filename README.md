@@ -257,6 +257,10 @@ http://s5.merlive.am:80/discovery/index.m3u8
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://pl.ottg.cc/icon/1515.png" group-title="Спортивные",Eurosport 1
+http://s7.merlive.am/eurosport1/index.m3u8
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://pl.ottg.cc/icon/1525.png" group-title="Спортивные",Eurosport 2
+http://s7.merlive.am/eurosport2/index.m3u8
 #EXTINF:-1 tvg-id="konny-mir" tvg-logo="http://pl.ottg.cc/icon/8609.png" group-title="Спортивные",Конный мир
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Fast Sports
