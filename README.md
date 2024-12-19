@@ -261,7 +261,7 @@ https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Fast Sports
 http://dmi3y-tv.ru/hls/CH_FASTSPORTSHD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DneHIUT.png" group-title="Спортивные",Fc real madrid tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l0tGNEk.png" group-title="Спортивные",Fc real madrid tv
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://pl.ottg.cc/icon/1515.png" group-title="Спортивные",Eurosport 1
 http://s7.merlive.am/eurosport1/index.m3u8
