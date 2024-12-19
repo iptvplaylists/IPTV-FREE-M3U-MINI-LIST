@@ -159,8 +159,6 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://pl.ottg.app/icon/5216.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Kronehit HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2665.png" group-title="Музыкальные",Power TV
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8?nimblesessionid=2349150938
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m4IX3FR.png" group-title="Музыкальные",m2o TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4672.png" group-title="Музыкальные",4Fun TV
@@ -199,6 +197,8 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 tvg-id="popstar-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixclB1UBuaRgoVnwGOKJm2Yz5Nq9pvt4Rtq_iMtRqXLxytLzbN-tMqq2bBM6LOxz7S5-PT_FHNMG1dWXHT8o7yEoHMXcovm4LHOpU5Y-JpSXc2Nclg52dqu3MC6c5CFSjwMNg1ryvuozgringjHEBuYujOXot_2Y9onpGUEjPDUO8dZylHh2U0e50NpcEo/s1600-rw/22.png" group-title="Музыкальные",POP STAR
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pj09AJW.png" group-title="Музыкальные",Power Love
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgejt6WEbRIMF853GvDeY4ZRu7hR_AawYoNXsmBAdBKLNM10cDl5L_GvdpMocBk2bQIqA0jVCiQD-ffEIXfqKkQn5ED-fhzlkNmT9GzN6KV0q6ACvYUu-QhaIfZ4T5TNrgT8CAPwnrEnvz6jSlUcbEXQk02sPtmGePoa22BSvdjNQGYO2pbv-ja-zQ-tLQx/s1600-rw/20.png" group-title="Музыкальные",TMF MUSIC
 http://195.9.195.3:8080/hls/201891.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7I7mVMsudBtZ7HbUc0XUjOo_02LFH920Ag5z4Pmg355IdvZ5C2Pa6u-eH4wq5PZLpDjzgu-Vu7i8wn13lgeE_uBc2fwVRapzV4aWu4mSUf63Ifge2B8d17KyQ6k3hXaSgDEhUM5HL8OnZQ27LoGiJJJAcETmDdO0AVOXslkmf-KREeJdsq9BfKuhVOM7H/s1600-rw/02.png" group-title="Музыкальные",AFROBEATS HD
