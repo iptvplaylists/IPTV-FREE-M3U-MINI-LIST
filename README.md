@@ -160,7 +160,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://pl.ottg.app/icon/5216.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Kronehit HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2665.png" group-title="Музыкальные",Power TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8?nimblesessionid=2349150938
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m4IX3FR.png" group-title="Музыкальные",m2o TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4672.png" group-title="Музыкальные",4Fun TV
