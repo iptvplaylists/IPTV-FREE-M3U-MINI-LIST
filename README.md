@@ -214,7 +214,7 @@ https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",1MUS
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="5364" tvg-logo="http://epg.one/img/5364.png" group-title="Музыкальные",1MUS RU
-https://clck.ru/3F6Z42
+https://rpn.bozztv.com/inim03/live1/1muscom/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyNCA0OjI3OjE0IFBNJmhhc2hfdmFsdWU9bUhva2RNQytMN2JPNkx1MTNkRkpOQT09JnZhbGlkbWludXRlcz0xNDQw
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://pl.ottg.app/icon/5260.png" group-title="Музыкальные",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
 #EXTINF:-1 tvg-id="BigAsia.ru" tvg-logo="http://pl.ottg.app/icon/6657.png" group-title="Познавательные",Большая Азия
