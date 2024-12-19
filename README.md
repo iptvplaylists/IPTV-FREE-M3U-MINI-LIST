@@ -163,7 +163,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4672.png" group-title="Музыкальные",4Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/4650.png" group-title="Музыкальные",NRG HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/4650.png" group-title="Музыкальные",91 NRG
 https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w241461456.m3u8
 #EXTINF:-1 tvg-id="no_epg_music" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/6680.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
