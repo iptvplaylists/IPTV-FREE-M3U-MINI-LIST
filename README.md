@@ -10,11 +10,11 @@ http://s1.merlive.am:80/ntvhd/index.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/7870.png" group-title="Общероссийские",НТВ Мир
 http://stream02.vnet.am/HTB/mono.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1445.png" group-title="Общероссийские",НТВ Хит
-http://s1.merlive.am:80/ntvpravo/index.m3u8
+http://s1.merlive.am:80/ntvxit/index.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/8025.png" group-title="Общероссийские",НТВ Право
-http://s1.merlive.am:80/ntvstil/index.m3u8
+http://s1.merlive.am:80/ntvpravo/index.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/7069.png" group-title="Общероссийские",НТВ Стиль
-http://s1.merlive.am:80/8Kanal/index.m3u8
+http://s1.merlive.am:80/ntvstil/index.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/3213.png" group-title="Общероссийские",НТВ Сериал
 http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 #EXTINF:-1 tvg-id="mir-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5789.png" group-title="Общероссийские",Мир HD
@@ -210,9 +210,11 @@ https://clck.ru/3F6Z2S
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXrxb9l.png" group-title="Музыкальные",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2W4C5L3.png" group-title="Музыкальные",Музыка Первого
-https://stream1.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+http://31.148.48.15/Muzika_Pervogo/index.m3u8
 #EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",Первый Музыкальный HD
 http://rtmp.one.by:1300
+#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/jO3ZOfq.png" group-title="Музыкальные",Первый Музыкальный Россия HD
+http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://pl.ottg.app/icon/5260.png" group-title="Музыкальные",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
 #EXTINF:-1 tvg-id="BigAsia.ru" tvg-logo="http://pl.ottg.app/icon/6657.png" group-title="Познавательные",Большая Азия
