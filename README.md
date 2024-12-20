@@ -257,6 +257,10 @@ http://s5.merlive.am:80/discovery/index.m3u8
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://pl.ottg.cc/icon/2839.png" group-title="Спортивные",viju+ Sport
+http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="http://pl.ottg.cc/icon/7517.png" group-title="Спортивные",Матч! Премьер HD
+http://s1.merlive.am/matchpremier/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://pl.ottg.cc/icon/1515.png" group-title="Спортивные",Eurosport 1
 http://s1.merlive.am/eurosport1/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://pl.ottg.cc/icon/1525.png" group-title="Спортивные",Eurosport 2
