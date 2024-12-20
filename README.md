@@ -209,8 +209,6 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 https://clck.ru/3F6Z2S
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXrxb9l.png" group-title="Музыкальные",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2W4C5L3.png" group-title="Музыкальные",Музыка Первого
-http://31.148.48.15/Muzika_Pervogo/index.m3u8
 #EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",Первый Музыкальный HD
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/jO3ZOfq.png" group-title="Музыкальные",Первый Музыкальный Россия HD
