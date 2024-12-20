@@ -215,6 +215,8 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://pl.ottg.app/icon/5260.png" group-title="Музыкальные",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
+#EXTINF:-1 tvg-id="travel-adventure" tvg-logo="http://pl.ottg.cc/icon/4485.png" group-title="Познавательные",Travel+Adventure HD
+http://31.148.48.15/Travel_Adventure_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="BigAsia.ru" tvg-logo="http://pl.ottg.app/icon/6657.png" group-title="Познавательные",Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://pl.ottg.app/icon/5180.png" group-title="Познавательные",Загородный
