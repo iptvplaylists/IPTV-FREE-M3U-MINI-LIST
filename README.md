@@ -191,10 +191,10 @@ https://stream.vivotv.uy/hls/0/stream.m3u8
 https://ssh101-fl.bozztv.com/ssh101/vivarussia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2665.png" group-title="Музыкальные",Power Türk
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrCLuosgu9nVnCVvm3J2V-U_87wgN5HBbW0FiEfPyn443OEGldILI7oB14qX9aIfW70T5365PenTKoSTaDxMPlG4frBaGVG_WI3GIY3dNxTVnhedAelb6Xnj5cvAdtSsCpsmrgy0ipnvU2aGeV9jqrrnGq37VMxtos4xlj2ECO2CTlDMe_LbhmrW2mjqgE/s1600-rw/16.png" group-title="Музыкальные",Reload TV HD
-http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 #EXTINF:-1 tvg-id="beat-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5483.png" group-title="Музыкальные",Beat HD
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrCLuosgu9nVnCVvm3J2V-U_87wgN5HBbW0FiEfPyn443OEGldILI7oB14qX9aIfW70T5365PenTKoSTaDxMPlG4frBaGVG_WI3GIY3dNxTVnhedAelb6Xnj5cvAdtSsCpsmrgy0ipnvU2aGeV9jqrrnGq37VMxtos4xlj2ECO2CTlDMe_LbhmrW2mjqgE/s1600-rw/16.png" group-title="Музыкальные",Reload TV HD
+http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 #EXTINF:-1 tvg-id="muzzikhiphop-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHHa3Os19a1ppnqQhHyJug_wlhh6TNCCMbGLRAurMnotjCtEXgjNuW1zPiIGEUh78k6QxgAs1rEGM-ZOSLW06c63DGowdqMrm5oE6CFy9_nm2Kj7VHDp8-hZHX2-0oDQNrZ20wwxf2ZN7mW9kK5auOVhFV0qiJ6HTWFmYyC_JXz4eLUR_Qurd3EiuKArXN/s1600-rw/21.png" group-title="Музыкальные",MUZZIK HIP-HOP
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 tvg-id="popstar-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixclB1UBuaRgoVnwGOKJm2Yz5Nq9pvt4Rtq_iMtRqXLxytLzbN-tMqq2bBM6LOxz7S5-PT_FHNMG1dWXHT8o7yEoHMXcovm4LHOpU5Y-JpSXc2Nclg52dqu3MC6c5CFSjwMNg1ryvuozgringjHEBuYujOXot_2Y9onpGUEjPDUO8dZylHh2U0e50NpcEo/s1600-rw/22.png" group-title="Музыкальные",POP STAR
@@ -211,9 +211,9 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 https://clck.ru/3F6Z2S
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXrxb9l.png" group-title="Музыкальные",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
-#EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",1MUS
+#EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",Первый Музыкальный HD
 http://rtmp.one.by:1300
-#EXTINF:-1 tvg-id="5364" tvg-logo="http://epg.one/img/5364.png" group-title="Музыкальные",1MUS RU
+#EXTINF:-1 tvg-id="5364" tvg-logo="http://epg.one/img/5364.png" group-title="Музыкальные",Первый Музыкальный Россия HD
 https://rpn.bozztv.com/inim03/live1/1muscom/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyNCA0OjI3OjE0IFBNJmhhc2hfdmFsdWU9bUhva2RNQytMN2JPNkx1MTNkRkpOQT09JnZhbGlkbWludXRlcz0xNDQw
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://pl.ottg.app/icon/5260.png" group-title="Музыкальные",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
@@ -321,9 +321,9 @@ http://ott-cdn.ucom.am/s6/index.m3u8
 http://ott-cdn.ucom.am/s9/index.m3u8
 #EXTINF:-1 tvg-id="shoghakat-am" tvg-rec="7" tvg-logo="http://epg.one/img/2071.png" group-title="Армения",Շողակաթ
 http://ott-cdn.ucom.am/s13/index.m3u8
-#EXTINF:-1 tvg-id="song-tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/3360.png" group-title="Армения",SONGTV
+#EXTINF:-1 tvg-id="song-tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/3360.png" group-title="Армения",SONGTV Armenia
 https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
-#EXTINF:-1 tvg-id="fresh-tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/5606.png" group-title="Армения",Fresh
+#EXTINF:-1 tvg-id="fresh-tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/5606.png" group-title="Армения",Fresh Armenia
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 tvg-id="arm-music-am-hd" tvg-rec="0" tvg-logo="http://epg.one/img/2396.png" group-title="Армения",ջան tv
 http://ott-cdn.ucom.am/s42/index.m3u8
