@@ -65,6 +65,10 @@ https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2/chunklist_w4860637
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694951_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="http://pl.ottg.app/icon/9997.png" group-title="Общероссийские",Ностальгия
 http://s1.merlive.am:80/Nostalgia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UUhf8W6.png" group-title="Кино",1Filmax
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3U3HFgK.png" group-title="Кино",2Filmax
+http://195.9.195.3:8080/hls/204717.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1502.png" group-title="Кино",viju TV1000 Русское
 http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vip-megahit-hd-orig" tvg-logo="http://pl.ottg.app/icon/7787.png" group-title="Кино",viju+ Megahit
@@ -89,6 +93,8 @@ http://s1.merlive.am:80/Sci-Fi/index.m3u8
 http://s1.merlive.am:80/starsinema/index.m3u8
 #EXTINF:-1 tvg-id="amedia1-hd" tvg-logo="http://pl.ottg.app/icon/7386.png" group-title="Кино",Amedia 1
 http://s1.merlive.am:80/Amedia1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x6Ozt8o.png" group-title="Кино",Amedia hit
+http://stream01.vnet.am/Nauka/index.m3u8
 #EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-logo="http://pl.ottg.app/icon/3610.png" group-title="Кино",Amedia Premium
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-logo="https://i.imgur.com/QieJesq.png" group-title="Кино",Romance
@@ -131,6 +137,8 @@ http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94900.m3u8
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94899.m3u8
 #EXTINF:-1 tvg-id="bcu-action" tvg-logo="http://pl.ottg.cc/icon/7255.png" group-title="Кинозалы",BCU Action HD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94898.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyCGGmG.png" group-title="Новости",BBC
+http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="EURONEWS" tvg-logo="http://pl.ottg.app/icon/3882.png" group-title="Новости",Euronews
 http://stream01.vnet.am/Channel_119/mono.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/2782.png" group-title="Новости",Настоящее время HD
@@ -261,6 +269,8 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://pl.ottg.app/icon/5260.png" group-title="Музыкальные",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DML6qUV.png" group-title="Познавательные",Нано ТВ
+http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="http://pl.ottg.cc/icon/5138.png" group-title="Познавательные",Наука 2.0
 http://ott-cdn.ucom.am/s98/04.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru" tvg-logo="http://pl.ottg.app/icon/6657.png" group-title="Познавательные",Большая Азия
