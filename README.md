@@ -101,6 +101,26 @@ http://ott-cdn.ucom.am/s68/04.m3u8
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ovrgN5w.png" group-title="Кино",Bollywood
 http://s1.merlive.am:80/Bollywood/index.m3u8
+#EXTINF:-1 tvg-id="bcu-media" tvg-logo="http://pl.ottg.cc/icon/1861.png" group-title="Кинозалы",BCUMEDIA HD
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94917.m3u8
+#EXTINF:-1 tvg-id="bcu-vhs" tvg-logo="http://pl.ottg.cc/icon/3239.png" group-title="Кинозалы",BCU VHS HD
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94914.m3u8
+#EXTINF:-1 tvg-id="bcu-marvel" tvg-logo="http://pl.ottg.cc/icon/1740.png" group-title="Кинозалы",BCU Marvel HD
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94905.m3u8
+#EXTINF:-1 tvg-id="bcu-kinorating" tvg-logo="http://pl.ottg.cc/icon/2071.png" group-title="Кинозалы",BCU Kinorating HD
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94904.m3u8
+#EXTINF:-1 tvg-id="bcu-filmystic" tvg-logo="http://pl.ottg.cc/icon/6071.png" group-title="Кинозалы",BCU Filmystic HD
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94903.m3u8
+#EXTINF:-1 tvg-id="bcu-fantastic" tvg-logo="http://pl.ottg.cc/icon/7834.png" group-title="Кинозалы",BCU Fantastic HD
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94902.m3u8
+#EXTINF:-1 tvg-id="bcu-comedy" tvg-logo="http://pl.ottg.cc/icon/2718.png" group-title="Кинозалы",BCU Comedy HD
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94901.m3u8
+#EXTINF:-1 tvg-id="bcu-cinema" tvg-logo="http://pl.ottg.cc/icon/1086.png" group-title="Кинозалы",BCU Cinema HD
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94900.m3u8
+#EXTINF:-1 tvg-id="bcu-catastrophe" tvg-logo="http://pl.ottg.cc/icon/5577.png" group-title="Кинозалы",BCU Catastrophe HD
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94899.m3u8
+#EXTINF:-1 tvg-id="bcu-action" tvg-logo="http://pl.ottg.cc/icon/7255.png" group-title="Кинозалы",BCU Action HD
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94898.m3u8
 #EXTINF:-1 tvg-id="EURONEWS" tvg-logo="http://pl.ottg.app/icon/3882.png" group-title="Новости",Euronews
 http://stream01.vnet.am/Channel_119/mono.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/2782.png" group-title="Новости",Настоящее время HD
@@ -198,7 +218,7 @@ https://xite-samsung-de.amagi.tv/720p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="viva-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibTqz9Q3_ueDKdiC2KG6QLhXD1jpGD0HPT1CCNyL2hb5Qc1ksscXFu6Q8YASclimNKTKx2HK4454xN03x0wXKb8c8KFsVdsvidfrepCeU4mt2T53TlPAxunAjSgTy-z23GNQmruS0mEOha5m4rNzMdsD9j5BC2t70SuCbgMHzbjV7bGPRTzEIcRCGNJUOR/s1600-rw/15.png" group-title="Музыкальные",VIVO TV
 https://stream.vivotv.uy/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",VIVA Russia HD
-https://ssh101-fl.bozztv.com/ssh101/vivarussia/tracks-v1a1/mono.m3u8
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=185ft3LcwjpDt2XRvdsBtA&e=1734874847&scheme=https
 #EXTINF:-1 tvg-id="beat-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5483.png" group-title="Музыкальные",Beat HD
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrCLuosgu9nVnCVvm3J2V-U_87wgN5HBbW0FiEfPyn443OEGldILI7oB14qX9aIfW70T5365PenTKoSTaDxMPlG4frBaGVG_WI3GIY3dNxTVnhedAelb6Xnj5cvAdtSsCpsmrgy0ipnvU2aGeV9jqrrnGq37VMxtos4xlj2ECO2CTlDMe_LbhmrW2mjqgE/s1600-rw/16.png" group-title="Музыкальные",Reload TV HD
