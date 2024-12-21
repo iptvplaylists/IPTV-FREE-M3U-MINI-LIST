@@ -107,6 +107,8 @@ http://ott-cdn.ucom.am/s68/04.m3u8
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ovrgN5w.png" group-title="Кино",Bollywood
 http://s1.merlive.am:80/Bollywood/index.m3u8
+#EXTINF:-1 tvg-id="bcu-action" tvg-logo="http://pl.ottg.cc/icon/7255.png" group-title="Кинозалы",BCU Action HD
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94898.m3u8
 #EXTINF:-1 tvg-id="bcu-premiere" tvg-logo="http://pl.ottg.cc/icon/3078.png" group-title="Кинозалы",BCU Premiere HD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94906.m3u8
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-1" tvg-logo="http://pl.ottg.cc/icon/7167.png" group-title="Кинозалы",BCU Кинозал Premiere 1 HD
@@ -115,28 +117,26 @@ http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94907.m3u8
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94908.m3u8
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-3" tvg-logo="http://pl.ottg.cc/icon/7597.png" group-title="Кинозалы",BCU Кинозал Premiere 3 HD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94909.m3u8
-#EXTINF:-1 tvg-id="bcu-history" tvg-logo="http://pl.ottg.cc/icon/8129.png" group-title="Кинозалы",BCU History HD
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94912.m3u8
 #EXTINF:-1 tvg-id="bcu-ruserial" tvg-logo="http://pl.ottg.cc/icon/2420.png" group-title="Кинозалы",BCU RUSerial HD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94915.m3u8
 #EXTINF:-1 tvg-id="bcu-russian" tvg-logo="http://pl.ottg.cc/icon/4165.png" group-title="Кинозалы",BCU Russian HD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94913.m3u8
-#EXTINF:-1 tvg-id="bcu-media" tvg-logo="http://pl.ottg.cc/icon/1861.png" group-title="Кинозалы",BCUMEDIA HD
+#EXTINF:-1 tvg-id="bcu-media" tvg-logo="http://pl.ottg.cc/icon/1861.png" group-title="Кинозалы",BCU MEDIA HD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94917.m3u8
-#EXTINF:-1 tvg-id="bcu-vhs" tvg-logo="http://pl.ottg.cc/icon/3239.png" group-title="Кинозалы",BCU VHS HD
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94914.m3u8
+#EXTINF:-1 tvg-id="bcu-cinema" tvg-logo="http://pl.ottg.cc/icon/1086.png" group-title="Кинозалы",BCU Cinema HD
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94900.m3u8
+#EXTINF:-1 tvg-id="bcu-comedy" tvg-logo="http://pl.ottg.cc/icon/2718.png" group-title="Кинозалы",BCU Comedy HD
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94901.m3u8
 #EXTINF:-1 tvg-id="bcu-kinorating" tvg-logo="http://pl.ottg.cc/icon/2071.png" group-title="Кинозалы",BCU Kinorating HD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94904.m3u8
 #EXTINF:-1 tvg-id="bcu-fantastic" tvg-logo="http://pl.ottg.cc/icon/7834.png" group-title="Кинозалы",BCU Fantastic HD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94902.m3u8
-#EXTINF:-1 tvg-id="bcu-comedy" tvg-logo="http://pl.ottg.cc/icon/2718.png" group-title="Кинозалы",BCU Comedy HD
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94901.m3u8
-#EXTINF:-1 tvg-id="bcu-cinema" tvg-logo="http://pl.ottg.cc/icon/1086.png" group-title="Кинозалы",BCU Cinema HD
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94900.m3u8
 #EXTINF:-1 tvg-id="bcu-catastrophe" tvg-logo="http://pl.ottg.cc/icon/5577.png" group-title="Кинозалы",BCU Catastrophe HD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94899.m3u8
-#EXTINF:-1 tvg-id="bcu-action" tvg-logo="http://pl.ottg.cc/icon/7255.png" group-title="Кинозалы",BCU Action HD
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94898.m3u8
+#EXTINF:-1 tvg-id="bcu-history" tvg-logo="http://pl.ottg.cc/icon/8129.png" group-title="Кинозалы",BCU History HD
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94912.m3u8
+#EXTINF:-1 tvg-id="bcu-vhs" tvg-logo="http://pl.ottg.cc/icon/3239.png" group-title="Кинозалы",BCU VHS HD
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94914.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oyCGGmG.png" group-title="Новости",BBC
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="EURONEWS" tvg-logo="http://pl.ottg.app/icon/3882.png" group-title="Новости",Euronews
