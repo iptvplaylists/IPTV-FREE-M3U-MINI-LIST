@@ -95,8 +95,6 @@ http://stream01.vnet.am/AmediaPremium/mono.m3u8
 http://88.218.242.237:8000/play/a004
 #EXTINF:-1 tvg-id="dom-kino" tvg-logo="http://pl.ottg.app/icon/2851.png" group-title="Кино",Дом Кино
 http://s1.merlive.am:80/Domkino/index.m3u8
-#EXTINF:-1 tvg-id="pobeda" tvg-logo="http://pl.ottg.cc/icon/2988.png" group-title="Кино",Победа
-https://streaming.televizor-24-tochka.ru/live/43.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://pl.ottg.cc/icon/2273.png" group-title="Кино",Арсенал
 http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-logo="http://pl.ottg.cc/icon/4319.png" group-title="Кино",Индия
@@ -125,12 +123,14 @@ https://clck.ru/3F6ZUK
 http://dmi3y-tv.ru/hls/CH_RTDHD.m3u8
 #EXTINF:-1 tvg-id="dojd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/1238.png" group-title="Новости",ДОЖДЬ HD
 https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b8192000.m3u8
-#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="http://pl.ottg.cc/icon/5635.png" group-title="Мультфильмы",Cartoon network
-http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/XXNN6It.png" group-title="Мультфильмы",Nicktoons
 https://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tR9j2Qn.png" group-title="Мультфильмы",Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/gOfbuWJ.png" group-title="Мультфильмы",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="http://pl.ottg.cc/icon/5635.png" group-title="Мультфильмы",Cartoon network
+http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WkLAOY5.png" group-title="Мультфильмы",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="detskij-mir-hd" tvg-logo="http://pl.ottg.app/icon/9295.png" group-title="Мультфильмы",Детский мир
@@ -251,6 +251,8 @@ http://s5.merlive.am:80/tlc/index.m3u8
 http://s1.merlive.am:80/rtgtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6GB2Y92.png" group-title="Познавательные",Дикая Охота
 http://s5.merlive.am:80/dikayaoxota/index.m3u8
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="http://pl.ottg.cc/icon/5955.png" group-title="Познавательные",Охотник и рыболов HD
+http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zOI6QgY.png" group-title="Познавательные",Da Vinci
 http://s1.merlive.am:80/DaVinci/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://i.imgur.com/tpLO7Ja.png" group-title="Познавательные",Travel XP
@@ -275,8 +277,6 @@ http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
-#EXTINF:-1 tvg-id="кхл" tvg-logo="http://pl.ottg.cc/icon/2957.png" group-title="Спортивные",KHL
-http://stream01.vnet.am/Channel_113/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://pl.ottg.cc/icon/2839.png" group-title="Спортивные",viju+ Sport
 http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="http://pl.ottg.cc/icon/7517.png" group-title="Спортивные",Матч! Премьер HD
@@ -303,6 +303,10 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
 http://dmi3y-tv.ru/hls/CH_REDBULLTVHD.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/WSB0k5v.png" group-title="Спортивные",NHL Network
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
+#EXTINF:-1 tvg-id="кхл" tvg-logo="http://pl.ottg.cc/icon/2957.png" group-title="Спортивные",KHL
+http://stream01.vnet.am/Channel_113/mono.m3u8
+#EXTINF:-1 tvg-id="kxl-hd" tvg-logo="http://pl.ottg.cc/icon/9596.png" group-title="Спортивные",KHL Prime
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 tvg-id="h1-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2060.png" group-title="Армения",Առաջին Ալիք
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 #EXTINF:-1 tvg-id="h2-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2062.png" group-title="Армения",Հ2
@@ -327,7 +331,7 @@ http://ott-cdn.ucom.am/s5/index.m3u8
 http://ott-cdn.ucom.am/s22/index.m3u8
 #EXTINF:-1 tvg-id="atv-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2067.png" group-title="Армения",ATV
 http://ott-cdn.ucom.am/s8/index.m3u8
-#EXTINF:-1 group-title="Армения",ATV Bazmoc tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sDJL2DH.png" group-title="Армения",Բազմոց TV
 http://stream01.vnet.am/Channel_118/mono.m3u8
 #EXTINF:-1 tvg-id="atv-filmzone-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2393.png" group-title="Армения",ԿԻՆՈՄԱՆ
 http://stream02.vnet.am/Kinoman/mono.m3u8
@@ -335,7 +339,7 @@ http://stream02.vnet.am/Kinoman/mono.m3u8
 http://ott-cdn.ucom.am/s53/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybig9oZ.png" group-title="Армения",ԼԱՎՖՀԱՔ
 http://ott-cdn.ucom.am/s48/index.m3u8
-#EXTINF:-1 tvg-id="atv-cineman-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2394.png" group-title="Армения",սինեման
+#EXTINF:-1 tvg-id="atv-cineman-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2394.png" group-title="Армения",Սինեման
 http://ott-cdn.ucom.am/s66/index.m3u8
 #EXTINF:-1 tvg-id="erkir-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/5921.png" group-title="Армения",Երկիր մեդիա
 http://ott-cdn.ucom.am/s7/index.m3u8
