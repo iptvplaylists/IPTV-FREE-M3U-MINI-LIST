@@ -189,8 +189,6 @@ https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w241461456.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="deluxedance-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXz77UGspKEtmz4yF49vhT6bPMzkoVD7cHabx6Y3vgzOzE_oyRhlL0ZVhCWzsQgFgP425KOZa-dO4A1_2zzRUXUr3ilD6DrFXGS7gMXssXQR2umE-3tg27YRczvGVnDCMi3Bl37tlTr20YVrVH6B8Y4Sz9Sjz2CnMD5-xk2eHu8uADhMEHGM97q9kGuYK9/s1600-rw/10.png" group-title="Музыкальные",Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 group-title="Музыкальные",Deluxe Rap
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-id="inrating" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/7933.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",INRATING TV HD
 http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="trace-urban" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/7640.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Trace Urban HD
@@ -237,9 +235,9 @@ https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 http://stream01.vnet.am/Channel_115/mono.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="http://pl.ottg.cc/icon/9995.png" group-title="Музыкальные",Europa Plus TV
 http://135.181.115.81:8000/play/a01d/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",Первый Музыкальный HD
+#EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",Первый Музыкальный HD BY
 http://rtmp.one.by:1300
-#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/jO3ZOfq.png" group-title="Музыкальные",Первый Музыкальный Россия HD
+#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/jO3ZOfq.png" group-title="Музыкальные",Первый Музыкальный HD
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://pl.ottg.app/icon/5260.png" group-title="Музыкальные",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
