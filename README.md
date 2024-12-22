@@ -81,6 +81,8 @@ http://2.57.217.197:8080/play/a08d/index.m3u8
 http://2.57.217.197:8080/play/a090/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DtVRyIp.png" group-title="Кино",Кинокомедия
 http://s1.merlive.am:80/Kinokomedia/index.m3u8
+#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="http://pl.ottg.cc/icon/7998.png" group-title="Кино",Кинопремьера HD
+http://stream02.vnet.am/Kinopremera/mono.m3u8
 #EXTINF:-1 tvg-id="kinouzhas-hd-orig" tvg-logo="http://pl.ottg.app/icon/1755.png" group-title="Кино",Киноужас
 http://s1.merlive.am:80/Kinoujas/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="http://pl.ottg.cc/icon/9044.png" group-title="Кино",НСТ
@@ -137,7 +139,7 @@ http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94899.m3u8
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94912.m3u8
 #EXTINF:-1 tvg-id="bcu-vhs" tvg-logo="http://pl.ottg.cc/icon/3239.png" group-title="Кинозалы",BCU VHS HD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94914.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oyCGGmG.png" group-title="Новости",BBC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyCGGmG.png" group-title="Новости",BBC NEWS
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="EURONEWS" tvg-logo="http://pl.ottg.app/icon/3882.png" group-title="Новости",Euronews
 http://stream01.vnet.am/Channel_119/mono.m3u8
@@ -236,7 +238,7 @@ https://xite-samsung-de.amagi.tv/720p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="viva-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibTqz9Q3_ueDKdiC2KG6QLhXD1jpGD0HPT1CCNyL2hb5Qc1ksscXFu6Q8YASclimNKTKx2HK4454xN03x0wXKb8c8KFsVdsvidfrepCeU4mt2T53TlPAxunAjSgTy-z23GNQmruS0mEOha5m4rNzMdsD9j5BC2t70SuCbgMHzbjV7bGPRTzEIcRCGNJUOR/s1600-rw/15.png" group-title="Музыкальные",VIVO TV
 https://stream.vivotv.uy/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",VIVA Russia HD
-https://ssh101-fl.bozztv.com/ssh101/vivarussia/tracks-v1a1/mono.m3u8
+https://hls.goodgame.ru/hls/180805.m3u8
 #EXTINF:-1 tvg-id="beat-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5483.png" group-title="Музыкальные",Beat HD
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrCLuosgu9nVnCVvm3J2V-U_87wgN5HBbW0FiEfPyn443OEGldILI7oB14qX9aIfW70T5365PenTKoSTaDxMPlG4frBaGVG_WI3GIY3dNxTVnhedAelb6Xnj5cvAdtSsCpsmrgy0ipnvU2aGeV9jqrrnGq37VMxtos4xlj2ECO2CTlDMe_LbhmrW2mjqgE/s1600-rw/16.png" group-title="Музыкальные",Reload TV HD
