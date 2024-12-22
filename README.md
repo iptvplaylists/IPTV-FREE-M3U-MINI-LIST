@@ -65,6 +65,10 @@ https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2/chunklist_w4860637
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694951_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="http://pl.ottg.app/icon/9997.png" group-title="Общероссийские",Ностальгия
 http://s1.merlive.am:80/Nostalgia/index.m3u8
+#EXTINF:-1 group-title="Кино",Кошмар HD
+http://hlss.goodgame.ru/hls/204709.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J1WQkLr.png" group-title="Кино",Видеокассета VHS
+http://hls.goodgame.ru/hls/176975.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UUhf8W6.png" group-title="Кино",1Filmax
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3U3HFgK.png" group-title="Кино",2Filmax
@@ -102,7 +106,7 @@ http://stream01.vnet.am/AmediaPremium/mono.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-logo="https://i.imgur.com/QieJesq.png" group-title="Кино",Romance
 http://88.218.242.237:8000/play/a004
 #EXTINF:-1 tvg-id="dom-kino" tvg-logo="http://pl.ottg.app/icon/2851.png" group-title="Кино",Дом Кино
-http://s1.merlive.am:80/Domkino/index.m3u8
+https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://pl.ottg.cc/icon/2273.png" group-title="Кино",Арсенал
 http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-logo="http://pl.ottg.cc/icon/4319.png" group-title="Кино",Индия
@@ -150,7 +154,7 @@ http://ott-cdn.ucom.am/s57/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icMGRl0.png" group-title="Мультфильмы",Disney Channel
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-hd" tvg-logo="http://pl.ottg.app/icon/3240.png" group-title="Мультфильмы",Nickelodeon
-http://31.148.48.15/Nickelodeon/index.m3u8
+http://stream01.vnet.am/Channel_114/mono.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="http://pl.ottg.app/icon/9954.png" group-title="Мультфильмы",СТС Kids
 http://stream02.vnet.am/DisneyChannel/mono.m3u8
 #EXTINF:-1 tvg-id="mult-hd" tvg-logo="http://pl.ottg.app/icon/9985.png" group-title="Мультфильмы",Мульт
@@ -161,6 +165,8 @@ http://s1.merlive.am:80/Karusel/index.m3u8
 http://ott-cdn.ucom.am/s59/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLeqe2o.png" group-title="Мультфильмы",Ani
 http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mNWXIA7.png" group-title="Музыкальные",Piterpan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist_w424198474.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7hARI0.png" group-title="Музыкальные",Hits 360
