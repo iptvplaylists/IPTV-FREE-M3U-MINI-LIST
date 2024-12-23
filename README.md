@@ -119,8 +119,6 @@ http://ott-cdn.ucom.am/s68/04.m3u8
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ovrgN5w.png" group-title="Кино",Bollywood
 http://s1.merlive.am:80/Bollywood/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J1WQkLr.png" group-title="Кино",Видеокасета VHS
-http://hls.goodgame.ru/hls/176975.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oyCGGmG.png" group-title="Новости",BBC NEWS
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="EURONEWS" tvg-logo="http://pl.ottg.app/icon/3882.png" group-title="Новости",Euronews
@@ -168,7 +166,7 @@ http://stream02.vnet.am/DisneyChannel/mono.m3u8
 #EXTINF:-1 tvg-id="mult-hd" tvg-logo="http://pl.ottg.app/icon/9985.png" group-title="Мультфильмы",Мульт
 http://stream01.vnet.am/Mult/mono.m3u8
 #EXTINF:-1 tvg-id="karusel-hd" tvg-logo="http://epg.one/img/740.png" group-title="Мультфильмы",Карусель
-http://s1.merlive.am:80/Karusel/index.m3u8
+http://stream02.vnet.am/Karusel/mono.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/7521.png" group-title="Мультфильмы",Tiji
 http://ott-cdn.ucom.am/s59/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLeqe2o.png" group-title="Мультфильмы",Ani
@@ -317,10 +315,6 @@ http://s7.merlive.am/ktoestkto/index.m3u8
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
-#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://pl.ottg.cc/icon/2839.png" group-title="Спортивные",viju+ Sport
-http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-id="match-premier" tvg-logo="http://pl.ottg.cc/icon/7517.png" group-title="Спортивные",Матч! Премьер HD
-http://s1.merlive.am/matchpremier/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://pl.ottg.cc/icon/1515.png" group-title="Спортивные",Eurosport 1
 http://s1.merlive.am/eurosport1/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://pl.ottg.cc/icon/1525.png" group-title="Спортивные",Eurosport 2
@@ -335,6 +329,12 @@ http://stream01.vnet.am/BoksTv/mono.m3u8
 http://s1.merlive.am:80/Avtoplus/index.m3u8
 #EXTINF:-1 tvg-id="konny-mir" tvg-logo="http://pl.ottg.cc/icon/8609.png" group-title="Спортивные",Конный мир
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://pl.ottg.cc/icon/2839.png" group-title="Спортивные",viju+ Sport
+http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="http://pl.ottg.cc/icon/7517.png" group-title="Спортивные",Матч! Премьер HD
+http://s1.merlive.am/matchpremier/index.m3u8
+#EXTINF:-1 tvg-id="football-ru" tvg-logo="http://pl.ottg.cc/icon/2647.png" group-title="Спортивные",Футбол HD
+https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Fast Sports
 http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l0tGNEk.png" group-title="Спортивные",Fc real madrid tv
