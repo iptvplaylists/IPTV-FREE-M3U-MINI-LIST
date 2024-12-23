@@ -399,12 +399,6 @@ http://ott-cdn.ucom.am/s42/index.m3u8
 http://ott-cdn.ucom.am/s10/index.m3u8
 #EXTINF:-1 tvg-id="TownTownik TV-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/2390.png" group-title="Армения",տունտունիկ
 http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v6tu3b4.png" group-title="Зарубежные",NDR HD DE
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8X08Fx.png" group-title="Зарубежные",WDR HD DE
-https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8?
-#EXTINF:-1 tvg-id="5704" tvg-logo="http://epg.one/img/5704.png" group-title="Зарубежные",DMAX HD DE
-https://s6.hopslan.com/dmax1/tracks-v1a1/mono.m3u8?token=24fc252b313b665f051215c3940fccbc07f96323-d5733533fe71d1b08162316040624ef4-1731026291-1731015491
 #EXTINF:-1 tvg-id="4496" tvg-logo="http://epg.one/img/4496.png" group-title="Зарубежные",TVP 1 HD PL
 https://irylek.ct8.pl/stream/tvp1hd
 #EXTINF:-1 tvg-id="4497" tvg-logo="http://epg.one/img/4497.png" group-title="Зарубежные",TVP 2 HD PL
@@ -423,6 +417,12 @@ https://irylek.ct8.pl/stream/tvprozrywka
 https://irylek.ct8.pl/stream/tvphistoria
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yp5dCWT.png" group-title="Зарубежные",TVP Historia 2 PL
 https://irylek.ct8.pl/stream/tvphistoria2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v6tu3b4.png" group-title="Зарубежные",NDR HD DE
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8X08Fx.png" group-title="Зарубежные",WDR HD DE
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8?
+#EXTINF:-1 tvg-id="5704" tvg-logo="http://epg.one/img/5704.png" group-title="Зарубежные",DMAX HD DE
+https://s6.hopslan.com/dmax1/tracks-v1a1/mono.m3u8?token=24fc252b313b665f051215c3940fccbc07f96323-d5733533fe71d1b08162316040624ef4-1731026291-1731015491
 #EXTINF:-1 tvg-logo="http://epg.one/img/2593.png" group-title="Зарубежные",Star TV TR
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="2951" tvg-logo="http://epg.one/img/2951.png" group-title="Зарубежные",TRT TÜRK TR
