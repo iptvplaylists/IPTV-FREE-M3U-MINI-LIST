@@ -296,7 +296,7 @@ https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playl
 #EXTINF:-1 tvg-id="viasat-nature" tvg-logo="http://pl.ottg.cc/icon/5532.png" group-title="Познавательные",viju Nature HD
 http://s1.merlive.am:80/vijunature/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
-http://stream01.vnet.am/ZooTv/mono.m3u8
+http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/5474.png" group-title="Познавательные",Animal Planet HD
 http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="http://pl.ottg.cc/icon/9038.png" group-title="Познавательные",Nat Geo Wild
@@ -331,10 +331,10 @@ http://s1.merlive.am:80/Avtoplus/index.m3u8
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://pl.ottg.cc/icon/2839.png" group-title="Спортивные",viju+ Sport
 http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-id="match-planeta" tvg-logo="http://pl.ottg.cc/icon/2616.png" group-title="Спортивные",Матч! Планета
+http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="http://pl.ottg.cc/icon/7517.png" group-title="Спортивные",Матч! Премьер HD
 http://s1.merlive.am/matchpremier/index.m3u8
-#EXTINF:-1 tvg-id="football-ru" tvg-logo="http://pl.ottg.cc/icon/2647.png" group-title="Спортивные",Футбол HD
-https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Fast Sports
 http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l0tGNEk.png" group-title="Спортивные",Fc real madrid tv
