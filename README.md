@@ -28,7 +28,7 @@ http://s1.merlive.am:80/stslove/index.m3u8
 #EXTINF:-1 tvg-id="4e" tvg-logo="http://pl.ottg.app/icon/8708.png" group-title="Общероссийские",Че
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="perec" tvg-logo="http://pl.ottg.app/icon/5850.png" group-title="Общероссийские",Перец
-http://dmi3y-tv.ru/hls/CH_PERETZ_INT.m3u8
+http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 tvg-id="tnt-hd" tvg-logo="http://pl.ottg.app/icon/1337.png" group-title="Общероссийские",ТНТ HD
 https://s1.merlive.am/tnt/index.m3u8
 #EXTINF:-1 tvg-id="tnt4-hd" tvg-logo="http://pl.ottg.app/icon/5889.png" group-title="Общероссийские",ТНТ4 HD
@@ -121,8 +121,6 @@ https://stream01.vnet.am/ZeeTV/mono.m3u8
 http://s1.merlive.am:80/Bollywood/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YeWpktR.png" group-title="Новости",TVP Info
 https://irylek.ct8.pl/stream/tvpinfo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgQuSjR.png" group-title="Новости",TVP World
-https://irylek.ct8.pl/stream/tvpworld
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oyCGGmG.png" group-title="Новости",BBC NEWS
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="EURONEWS" tvg-logo="http://pl.ottg.app/icon/3882.png" group-title="Новости",Euronews
@@ -139,6 +137,8 @@ http://dmi3y-tv.ru/hls/CH_RBKHD.m3u8
 http://dmi3y-tv.ru/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="http://pl.ottg.app/icon/7146.png" group-title="Новости",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="moskva-24" tvg-logo="http://pl.ottg.cc/icon/7554.png" group-title="Новости",Москва24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/moscow_24/playlist_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vy0dMx9.png" group-title="Новости",КРЫМ 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/7518.png" group-title="Новости",Беларусь 24 HD
@@ -335,6 +335,8 @@ http://s1.merlive.am:80/Avtoplus/index.m3u8
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://pl.ottg.cc/icon/2839.png" group-title="Спортивные",viju+ Sport
 http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://pl.ottg.cc/icon/5292.png" group-title="Спортивные",Матч тв
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/video_800x450_avc1/variant.m3u8
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="http://pl.ottg.cc/icon/2616.png" group-title="Спортивные",Матч! Планета
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="http://pl.ottg.cc/icon/7517.png" group-title="Спортивные",Матч! Премьер HD
@@ -411,8 +413,6 @@ https://irylek.ct8.pl/stream/tvp1hd
 https://irylek.ct8.pl/stream/tvp2hd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rMCAjPR.png" group-title="Зарубежные",TVP 3 Warszawa PL
 https://irylek.ct8.pl/stream/tvp3warszawahd
-#EXTINF:-1 tvg-logo="http://epg.one/img/4487.png" group-title="Зарубежные",TVP Polonia PL
-https://irylek.ct8.pl/stream/tvppolonia
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dobFXNH.png" group-title="Зарубежные",TVP Historia PL
 https://irylek.ct8.pl/stream/tvphistoria
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v6tu3b4.png" group-title="Зарубежные",NDR HD DE
