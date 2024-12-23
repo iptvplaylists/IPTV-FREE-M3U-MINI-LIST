@@ -119,6 +119,10 @@ http://ott-cdn.ucom.am/s68/04.m3u8
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ovrgN5w.png" group-title="Кино",Bollywood
 http://s1.merlive.am:80/Bollywood/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YeWpktR.png" group-title="Новости",TVP Info
+https://irylek.ct8.pl/stream/tvpinfo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgQuSjR.png" group-title="Новости",TVP World
+https://irylek.ct8.pl/stream/tvpworld
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oyCGGmG.png" group-title="Новости",BBC NEWS
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="EURONEWS" tvg-logo="http://pl.ottg.app/icon/3882.png" group-title="Новости",Euronews
