@@ -300,7 +300,7 @@ http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="http://pl.ottg.cc/icon/9038.png" group-title="Познавательные",Nat Geo Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 tvg-id="nat-geo-hd-orig" tvg-logo="http://pl.ottg.app/icon/4998.png" group-title="Познавательные",National Geographic HD
-http://s1.merlive.am:80/NationalGeographic/index.m3u8
+http://stream02.vnet.am/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/5630.png" group-title="Познавательные",ID DISCOVERY
 http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
 #EXTINF:-1 tvg-id="discovery-hd-orig" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/8979.png" group-title="Познавательные",Discovery Channel HD
