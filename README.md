@@ -407,9 +407,9 @@ https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8?
 https://s6.hopslan.com/dmax1/tracks-v1a1/mono.m3u8?token=24fc252b313b665f051215c3940fccbc07f96323-d5733533fe71d1b08162316040624ef4-1731026291-1731015491
 #EXTINF:-1 tvg-logo="http://epg.one/img/4487.png" group-title="Зарубежные",TVP Polonia PL
 https://irylek.ct8.pl/stream/tvppolonia
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TuYoqxz.png" group-title="Зарубежные",TVP Nauka
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TuYoqxz.png" group-title="Зарубежные",TVP Nauka PL
 https://irylek.ct8.pl/stream/tvpnauka
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zfVtS7Y.png" group-title="Зарубежные",TVP Rozrywka
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfVtS7Y.png" group-title="Зарубежные",TVP Rozrywka PL
 https://irylek.ct8.pl/stream/tvprozrywka
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dobFXNH.png" group-title="Зарубежные",TVP Historia PL
 https://irylek.ct8.pl/stream/tvphistoria
