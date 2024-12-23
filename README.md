@@ -421,6 +421,8 @@ https://irylek.ct8.pl/stream/tvpnauka
 https://irylek.ct8.pl/stream/tvprozrywka
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dobFXNH.png" group-title="Зарубежные",TVP Historia PL
 https://irylek.ct8.pl/stream/tvphistoria
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yp5dCWT.png" group-title="Зарубежные",TVP Historia 2 PL
+https://irylek.ct8.pl/stream/tvphistoria2
 #EXTINF:-1 tvg-logo="http://epg.one/img/2593.png" group-title="Зарубежные",Star TV TR
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="2951" tvg-logo="http://epg.one/img/2951.png" group-title="Зарубежные",TRT TÜRK TR
