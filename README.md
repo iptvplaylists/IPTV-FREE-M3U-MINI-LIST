@@ -111,6 +111,8 @@ http://stream01.vnet.am/AmediaPremium/mono.m3u8
 http://88.218.242.237:8000/play/a004
 #EXTINF:-1 tvg-id="dom-kino" tvg-logo="http://pl.ottg.app/icon/2851.png" group-title="Кино",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
+#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="http://pl.ottg.cc/icon/6799.png" group-title="Кино",Дом кино Премиум HD
+http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://pl.ottg.cc/icon/2273.png" group-title="Кино",Арсенал
 http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-logo="http://pl.ottg.cc/icon/4319.png" group-title="Кино",Индия
@@ -181,6 +183,8 @@ https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:-1 tvg-id="4673" tvg-logo="http://epg.one/img/4673.png" group-title="Музыкальные",Deejay TV
 https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTdWSjO.png" group-title="Музыкальные",DANCE HITS 80s
+http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-id="6625" tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6627" tvg-logo="http://epg.one/img/6627.png" group-title="Музыкальные",Now 80s
@@ -307,6 +311,8 @@ http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="http://pl.ottg.cc/icon/8772.png" group-title="Познавательные",viju+ Planet HD
 http://s1.merlive.am:80/vijuplanet/index.m3u8
+#EXTINF:-1 tvg-id="kto-est-kto" tvg-logo="http://pl.ottg.cc/icon/7182.png" group-title="Познавательные",Кто есть кто
+http://s7.merlive.am/ktoestkto/index.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1223.png" group-title="Познавательные",Fashion TV
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion
