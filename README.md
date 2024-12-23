@@ -405,8 +405,16 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8?
 #EXTINF:-1 tvg-id="5704" tvg-logo="http://epg.one/img/5704.png" group-title="Зарубежные",DMAX HD DE
 https://s6.hopslan.com/dmax1/tracks-v1a1/mono.m3u8?token=24fc252b313b665f051215c3940fccbc07f96323-d5733533fe71d1b08162316040624ef4-1731026291-1731015491
+#EXTINF:-1 tvg-id="4496" tvg-logo="http://epg.one/img/4496.png" group-title="Зарубежные",TVP 1 HD PL
+https://irylek.ct8.pl/stream/tvp1hd
+#EXTINF:-1 tvg-id="4497" tvg-logo="http://epg.one/img/4497.png" group-title="Зарубежные",TVP 2 HD PL
+https://irylek.ct8.pl/stream/tvp2hd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMCAjPR.png" group-title="Зарубежные",TVP 3 Warszawa PL
+https://irylek.ct8.pl/stream/tvp3warszawahd
 #EXTINF:-1 tvg-logo="http://epg.one/img/4487.png" group-title="Зарубежные",TVP Polonia PL
 https://irylek.ct8.pl/stream/tvppolonia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NN8adZG.png" group-title="Зарубежные",TVP Wilno PL
+https://irylek.ct8.pl/stream/tvpwilno
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TuYoqxz.png" group-title="Зарубежные",TVP Nauka PL
 https://irylek.ct8.pl/stream/tvpnauka
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zfVtS7Y.png" group-title="Зарубежные",TVP Rozrywka PL
