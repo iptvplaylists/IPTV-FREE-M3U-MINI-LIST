@@ -339,6 +339,8 @@ http://s1.merlive.am/matchpremier/index.m3u8
 http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l0tGNEk.png" group-title="Спортивные",Fc real madrid tv
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
+#EXTINF:-1 tvg-id="2904" tvg-logo="http://epg.one/img/2904.png" group-title="Спортивные",TVP Sport HD
+https://irylek.ct8.pl/stream/tvpsport
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QSR3kph.png" group-title="Спортивные",Red Bull TV
 http://dmi3y-tv.ru/hls/CH_REDBULLTVHD.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/WSB0k5v.png" group-title="Спортивные",NHL Network
