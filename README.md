@@ -407,16 +407,8 @@ https://irylek.ct8.pl/stream/tvp2hd
 https://irylek.ct8.pl/stream/tvp3warszawahd
 #EXTINF:-1 tvg-logo="http://epg.one/img/4487.png" group-title="Зарубежные",TVP Polonia PL
 https://irylek.ct8.pl/stream/tvppolonia
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NN8adZG.png" group-title="Зарубежные",TVP Wilno PL
-https://irylek.ct8.pl/stream/tvpwilno
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TuYoqxz.png" group-title="Зарубежные",TVP Nauka PL
-https://irylek.ct8.pl/stream/tvpnauka
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zfVtS7Y.png" group-title="Зарубежные",TVP Rozrywka PL
-https://irylek.ct8.pl/stream/tvprozrywka
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dobFXNH.png" group-title="Зарубежные",TVP Historia PL
 https://irylek.ct8.pl/stream/tvphistoria
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yp5dCWT.png" group-title="Зарубежные",TVP Historia 2 PL
-https://irylek.ct8.pl/stream/tvphistoria2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v6tu3b4.png" group-title="Зарубежные",NDR HD DE
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8X08Fx.png" group-title="Зарубежные",WDR HD DE
