@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый HD
-http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+http://stream02.vnet.am/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5963.png" group-title="Общероссийские",Россия 1
-http://s1.merlive.am:80/Rossia1/index.m3u8
+http://stream02.vnet.am/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rossija-k-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/6216.png" group-title="Общероссийские",Россия Культура
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="ntv-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2017.png" group-title="Общероссийские",НТВ HD
@@ -22,7 +22,7 @@ http://s1.merlive.am:80/Mir/index.m3u8
 #EXTINF:-1 tvg-id="8-kanal" tvg-logo="http://pl.ottg.app/icon/2455.png" group-title="Общероссийские",8 канал
 http://s1.merlive.am:80/8Kanal/index.m3u8
 #EXTINF:-1 tvg-id="ctc-hd" tvg-logo="http://pl.ottg.app/icon/2990.png" group-title="Общероссийские",СТС HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
+https://s1.merlive.am/stshd/index.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="http://pl.ottg.app/icon/6621.png" group-title="Общероссийские",СТС Love
 http://s1.merlive.am:80/stslove/index.m3u8
 #EXTINF:-1 tvg-id="4e" tvg-logo="http://pl.ottg.app/icon/8708.png" group-title="Общероссийские",Че
@@ -30,11 +30,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="perec" tvg-logo="http://pl.ottg.app/icon/5850.png" group-title="Общероссийские",Перец
 http://dmi3y-tv.ru/hls/CH_PERETZ_INT.m3u8
 #EXTINF:-1 tvg-id="tnt-hd" tvg-logo="http://pl.ottg.app/icon/1337.png" group-title="Общероссийские",ТНТ HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
+https://s1.merlive.am/tnt/index.m3u8
 #EXTINF:-1 tvg-id="tnt4-hd" tvg-logo="http://pl.ottg.app/icon/5889.png" group-title="Общероссийские",ТНТ4 HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/8082.png" group-title="Общероссийские",РЕН ТВ HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2
+http://stream01.vnet.am/RenTv/mono.m3u8
 #EXTINF:-1 tvg-id="tvc-hd" tvg-logo="http://pl.ottg.app/icon/3655.png" group-title="Общероссийские",ТВЦ HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="otp" tvg-logo="http://pl.ottg.app/icon/2345.png" group-title="Общероссийские",ОТР
@@ -65,6 +65,12 @@ https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2/chunklist_w4860637
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694951_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="http://pl.ottg.app/icon/9997.png" group-title="Общероссийские",Ностальгия
 http://s1.merlive.am:80/Nostalgia/index.m3u8
+#EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://pl.ottg.cc/icon/8833.png" group-title="Кино",Русский роман
+http://stream01.vnet.am/RusskiyRoman/mono.m3u8
+#EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://pl.ottg.cc/icon/5595.png" group-title="Кино",Мужское кино
+http://stream01.vnet.am/MujskoeKino/index.m3u8
+#EXTINF:-1 tvg-id="flixsnip" tvg-logo="http://pl.ottg.cc/icon/4690.png" group-title="Кино",FlixSnip
+http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UUhf8W6.png" group-title="Кино",1Filmax
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3U3HFgK.png" group-title="Кино",2Filmax
@@ -75,6 +81,8 @@ http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 http://2.57.217.197:8080/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy-hd-orig" tvg-logo="http://pl.ottg.app/icon/9807.png" group-title="Кино",viju+ Comedy
 http://2.57.217.197:8080/play/a08i/index.m3u8
+#EXTINF:-1 tvg-id="vip-serial" tvg-logo="http://pl.ottg.cc/icon/1514.png" group-title="Кино",viju+ Serial HD
+https://s1.merlive.am/vijuserial/index.m3u8
 #EXTINF:-1 tvg-id="kinomix-hd-orig" tvg-logo="http://pl.ottg.app/icon/1323.png" group-title="Кино",Киномикс
 http://2.57.217.197:8080/play/a08d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Z3XvSP.png" group-title="Кино",Киносвидание
@@ -133,6 +141,8 @@ https://clck.ru/3F6ZUK
 http://dmi3y-tv.ru/hls/CH_RTDHD.m3u8
 #EXTINF:-1 tvg-id="dojd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/1238.png" group-title="Новости",ДОЖДЬ HD
 https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b8192000.m3u8
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="http://pl.ottg.cc/icon/2275.png" group-title="Мультфильмы",Cartoonito
+http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/XXNN6It.png" group-title="Мультфильмы",Nicktoons
 https://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tR9j2Qn.png" group-title="Мультфильмы",Мультимания
@@ -228,11 +238,13 @@ http://s1.merlive.am:80/muztv/index.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-logo="http://pl.ottg.cc/icon/5778.png" group-title="Музыкальные",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-id="680" tvg-logo="http://epg.one/img/680.png" group-title="Музыкальные",ТНТ MUSIC
-https://clck.ru/3F6Z2S
+http://stream01.vnet.am/Channel_122/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXrxb9l.png" group-title="Музыкальные",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="http://pl.ottg.cc/icon/5747.png" group-title="Музыкальные",BRIDGE Русский Хит
 http://stream01.vnet.am/Channel_115/mono.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-classic" tvg-logo="http://pl.ottg.cc/icon/9334.png" group-title="Музыкальные",Bridge TV Classic
+http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="http://pl.ottg.cc/icon/9995.png" group-title="Музыкальные",Europa Plus TV
 http://135.181.115.81:8000/play/a01d/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",Первый Музыкальный HD BY
@@ -241,6 +253,14 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://pl.ottg.app/icon/5260.png" group-title="Музыкальные",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
+#EXTINF:-1 tvg-id="ocean-tv" tvg-logo="http://pl.ottg.cc/icon/2605.png" group-title="Познавательные",Океан ТВ
+http://s1.merlive.am:80/oceantv/index.m3u8
+#EXTINF:-1 tvg-id="istoria" tvg-logo="http://pl.ottg.cc/icon/8719.png" group-title="Познавательные",История
+http://stream01.vnet.am/Istoria/mono.m3u8
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="http://pl.ottg.cc/icon/8772.png" group-title="Познавательные",viju+ Planet HD
+http://s1.merlive.am:80/vijuplanet/index.m3u8
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="http://pl.ottg.cc/icon/5532.png" group-title="Познавательные",viju Nature HD
+http://s1.merlive.am:80/vijunature/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DML6qUV.png" group-title="Познавательные",Нано ТВ
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="http://pl.ottg.cc/icon/5138.png" group-title="Познавательные",Наука 2.0
@@ -276,9 +296,9 @@ http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1ZV5Iik.png" group-title="Познавательные",Love Nature 4k
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
-http://31.148.48.15/Zoo_TV/index.m3u8
+http://stream01.vnet.am/ZooTv/mono.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/5474.png" group-title="Познавательные",Animal Planet HD
-http://s5.merlive.am:80/animalplanet/index.m3u8
+http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="http://pl.ottg.cc/icon/9038.png" group-title="Познавательные",Nat Geo Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 tvg-id="nat-geo-hd-orig" tvg-logo="http://pl.ottg.app/icon/4998.png" group-title="Познавательные",National Geographic HD
