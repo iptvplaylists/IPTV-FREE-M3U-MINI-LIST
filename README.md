@@ -69,6 +69,8 @@ http://s1.merlive.am:80/Nostalgia/index.m3u8
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3U3HFgK.png" group-title="Кино",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="http://pl.ottg.cc/icon/9080.png" group-title="Кино",viju TV1000 Action HD
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1502.png" group-title="Кино",viju TV1000 Русское
 http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vip-megahit-hd-orig" tvg-logo="http://pl.ottg.app/icon/7787.png" group-title="Кино",viju+ Megahit
@@ -91,6 +93,8 @@ http://stream01.vnet.am/MujskoeKino/index.m3u8
 http://stream02.vnet.am/Kinopremera/mono.m3u8
 #EXTINF:-1 tvg-id="kinouzhas-hd-orig" tvg-logo="http://pl.ottg.app/icon/1755.png" group-title="Кино",Киноужас
 http://s1.merlive.am:80/Kinoujas/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P6y2to8.png" group-title="Кино",Кошмар HD
+http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-logo="http://pl.ottg.cc/icon/4690.png" group-title="Кино",FlixSnip
 http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU
 #EXTINF:-1 tvg-id="nst" tvg-logo="http://pl.ottg.cc/icon/9044.png" group-title="Кино",НСТ
