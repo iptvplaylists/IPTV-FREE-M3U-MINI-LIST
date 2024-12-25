@@ -67,7 +67,7 @@ https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694
 http://s1.merlive.am:80/Nostalgia/index.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-logo="http://pl.ottg.cc/icon/8268.png" group-title="Кино",КИНЕКО
 http://s1.merlive.am:80/kineko/index.m3u8
-#EXTINF:-1 tvg-id="evrokino" tvg-logo="http://pl.ottg.cc/icon/5240.png" group-title="Кино",Еврокино HD
+#EXTINF:-1 tvg-id="evrokino" tvg-logo="http://pl.ottg.cc/icon/5240.png" group-title="Кино",Еврокино 
 http://s1.merlive.am:80/eurokino/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DtVRyIp.png" group-title="Кино",Кинокомедия
 http://s1.merlive.am:80/Kinokomedia/index.m3u8
