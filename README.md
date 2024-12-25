@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
-#EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый HD
+#EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый канал Европа
 http://stream02.vnet.am/PerviyKanal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый HD
+http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5963.png" group-title="Общероссийские",Россия 1
 http://stream02.vnet.am/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rossija-k-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/6216.png" group-title="Общероссийские",Россия Культура
