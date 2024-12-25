@@ -73,6 +73,8 @@ http://s1.merlive.am:80/eurokino/index.m3u8
 http://s1.merlive.am:80/Kinokomedia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Z3XvSP.png" group-title="Кино",Киносвидание
 http://2.57.217.197:8080/play/a090/index.m3u8
+#EXTINF:-1 tvg-id="kinoxit" tvg-logo="http://pl.ottg.cc/icon/3955.png" group-title="Кино",Кинохит
+http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://pl.ottg.cc/icon/5595.png" group-title="Кино",Мужское кино
 http://stream01.vnet.am/MujskoeKino/index.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="http://pl.ottg.cc/icon/7998.png" group-title="Кино",Кинопремьера HD
@@ -83,6 +85,8 @@ http://2.57.217.197:8080/play/a08d/index.m3u8
 http://s1.merlive.am:80/Kinoujas/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="http://pl.ottg.cc/icon/9044.png" group-title="Кино",НСТ
 http://stream01.vnet.am/Channel_125/mono.m3u8
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="http://pl.ottg.cc/icon/9080.png" group-title="Кино",viju TV1000 Action
+http://91.205.199.3/tv1000action/index.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1502.png" group-title="Кино",viju TV1000 Русское
 http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vip-megahit-hd-orig" tvg-logo="http://pl.ottg.app/icon/7787.png" group-title="Кино",viju+ Megahit
@@ -93,6 +97,8 @@ http://2.57.217.197:8080/play/a08i/index.m3u8
 https://s1.merlive.am/vijuserial/index.m3u8
 #EXTINF:-1 tvg-id="amedia1-hd" tvg-logo="http://pl.ottg.app/icon/7386.png" group-title="Кино",Amedia 1
 http://s1.merlive.am:80/Amedia1/index.m3u8
+#EXTINF:-1 tvg-id="amedia2" tvg-logo="http://pl.ottg.cc/icon/7515.png" group-title="Кино",Amedia 2
+http://stream01.vnet.am/Zagorodniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x6Ozt8o.png" group-title="Кино",Amedia hit
 http://stream01.vnet.am/Nauka/index.m3u8
 #EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-logo="http://pl.ottg.app/icon/3610.png" group-title="Кино",Amedia Premium
