@@ -301,8 +301,6 @@ http://2.57.217.197:8080/play/a093/index.m3u8
 http://s5.merlive.am:80/tlc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QZeAmbc.png" group-title="Познавательные",RTG HD
 http://s1.merlive.am:80/rtgtv/index.m3u8
-#EXTINF:-1 tvg-id="travel-adventure" tvg-logo="http://pl.ottg.cc/icon/4485.png" group-title="Познавательные",Travel+Adventure HD
-http://31.148.48.15/Travel_Adventure_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6GB2Y92.png" group-title="Познавательные",Дикая Охота
 http://s5.merlive.am:80/dikayaoxota/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Btffp.png" group-title="Познавательные",Дикая рыбалка HD
@@ -357,10 +355,6 @@ http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="http://pl.ottg.cc/icon/2321.png" group-title="Спортивные",Матч! Футбол 1 HD
 http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/index.m3u8
-#EXTINF:-1 tvg-id="match-football2" tvg-logo="http://pl.ottg.cc/icon/6026.png" group-title="Спортивные",Матч! Футбол 2 HD
-http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
-#EXTINF:-1 tvg-id="match-football3" tvg-logo="http://pl.ottg.cc/icon/6866.png" group-title="Спортивные",Матч! Футбол 3 HD
-http://str05.ottg.cc/6866/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="http://pl.ottg.cc/icon/2616.png" group-title="Спортивные",Матч! Планета
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="http://pl.ottg.cc/icon/7517.png" group-title="Спортивные",Матч! Премьер HD
