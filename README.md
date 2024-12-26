@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый HD
 https://tv.streams.baikal-telecom.net/PerviyHD/index.m3u8
-#EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.cc/icon/9664.png" group-title="Общероссийские",Первый канал +4
+#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="http://pl.ottg.cc/icon/9664.png" group-title="Общероссийские",Первый канал +4
 http://stream02.vnet.am/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5963.png" group-title="Общероссийские",Россия 1
 http://stream02.vnet.am/Rossia1/tracks-v1a1/mono.m3u8
@@ -33,7 +33,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
 http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 tvg-id="tnt-hd" tvg-logo="http://pl.ottg.app/icon/1337.png" group-title="Общероссийские",ТНТ HD
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
-#EXTINF:-1 tvg-id="tnt-hd" tvg-logo="http://pl.ottg.app/icon/1337.png" group-title="Общероссийские",ТНТ +4
+#EXTINF:-1 tvg-id="tnt-pl4" tvg-logo="http://pl.ottg.cc/icon/8594.png" group-title="Общероссийские",ТНТ +4
 https://s1.merlive.am/tnt/index.m3u8
 #EXTINF:-1 tvg-id="tnt4-hd" tvg-logo="http://pl.ottg.app/icon/5889.png" group-title="Общероссийские",ТНТ4 HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
@@ -67,11 +67,13 @@ https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1/chunklist_w7495222
 https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2/chunklist_w486063721_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yI4iYrk.png" group-title="Общероссийские",Беларусь 3
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694951_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-id="kvn-tv" tvg-logo="http://pl.ottg.cc/icon/7270.png" group-title="Общероссийские",КВН ТВ
+http://stream01.vnet.am/Bober/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="http://pl.ottg.app/icon/9997.png" group-title="Общероссийские",Ностальгия
 http://s1.merlive.am:80/Nostalgia/index.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-logo="http://pl.ottg.cc/icon/8268.png" group-title="Кино",КИНЕКО
 http://s1.merlive.am:80/kineko/index.m3u8
-#EXTINF:-1 tvg-id="evrokino" tvg-logo="http://pl.ottg.cc/icon/5240.png" group-title="Кино",Еврокино 
+#EXTINF:-1 tvg-id="evrokino" tvg-logo="http://pl.ottg.cc/icon/5240.png" group-title="Кино",Еврокино
 http://s1.merlive.am:80/eurokino/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DtVRyIp.png" group-title="Кино",Кинокомедия
 http://s1.merlive.am:80/Kinokomedia/index.m3u8
@@ -351,7 +353,7 @@ http://s1.merlive.am:80/Avtoplus/index.m3u8
 http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://pl.ottg.cc/icon/5292.png" group-title="Спортивные",Матч тв
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://pl.ottg.cc/icon/2321.png" group-title="Спортивные",Матч! Футбол 1 HD 
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="http://pl.ottg.cc/icon/2321.png" group-title="Спортивные",Матч! Футбол 1 HD
 http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/index.m3u8
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="http://pl.ottg.cc/icon/2616.png" group-title="Спортивные",Матч! Планета
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
