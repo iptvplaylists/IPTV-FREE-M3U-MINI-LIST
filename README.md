@@ -357,6 +357,8 @@ http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="http://pl.ottg.cc/icon/2321.png" group-title="Спортивные",Матч! Футбол 1 HD
 http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/index.m3u8
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="http://pl.ottg.cc/icon/3226.png" group-title="Спортивные",Матч! Арена
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="http://pl.ottg.cc/icon/2616.png" group-title="Спортивные",Матч! Планета
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="http://pl.ottg.cc/icon/7517.png" group-title="Спортивные",Матч! Премьер HD
