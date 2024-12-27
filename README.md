@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05oHCea.png" group-title="Информация",Мой блог 👉 onlinetvalex.blogspot.com
+https://onlinetvalex.blogspot.com/
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый HD
 https://tv.streams.baikal-telecom.net/PerviyHD/index.m3u8
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="http://pl.ottg.cc/icon/9664.png" group-title="Общероссийские",Первый канал +4
