@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/05oHCea.png" group-title="Информация",Мой блог 👉 onlinetvalex.blogspot.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05oHCea.png" group-title="Информация",Наш блог 👉 onlinetvalex.blogspot.com
 https://onlinetvalex.blogspot.com/
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый HD
 https://tv.streams.baikal-telecom.net/PerviyHD/index.m3u8
@@ -73,6 +73,12 @@ https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694
 http://stream01.vnet.am/Bober/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="http://pl.ottg.app/icon/9997.png" group-title="Общероссийские",Ностальгия
 http://s1.merlive.am:80/Nostalgia/index.m3u8
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="http://pl.ottg.cc/icon/2488.png" group-title="Кино",Мосфильм
+http://s3.merlive.am/mosfilm/index.m3u8
+#EXTINF:-1 tvg-id="tvxxi" tvg-logo="http://pl.ottg.cc/icon/3043.png" group-title="Кино",TV XXI Век
+http://s3.merlive.am/tvxxi/index.m3u8
+#EXTINF:-1 tvg-id="cinema-ru" tvg-logo="http://pl.ottg.cc/icon/5974.png" group-title="Кино",Cinema
+http://s3.merlive.am/sinema/index.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-logo="http://pl.ottg.cc/icon/8268.png" group-title="Кино",КИНЕКО
 http://s1.merlive.am:80/kineko/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="http://pl.ottg.cc/icon/5240.png" group-title="Кино",Еврокино
@@ -93,8 +99,12 @@ http://2.57.217.197:8080/play/a08d/index.m3u8
 http://s1.merlive.am:80/Kinoujas/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="http://pl.ottg.cc/icon/9044.png" group-title="Кино",НСТ
 http://stream01.vnet.am/Channel_125/mono.m3u8
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="http://pl.ottg.cc/icon/5930.png" group-title="Кино",Кино ТВ HD
+http://s3.merlive.am/kinotvhd/index.m3u8
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="http://pl.ottg.cc/icon/1411.png" group-title="Кино",viju TV1000 HD
+http://s3.merlive.am/tv1000/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="http://pl.ottg.cc/icon/9080.png" group-title="Кино",viju TV1000 Action
-http://91.205.199.3/tv1000action/index.m3u8
+http://s3.merlive.am/tv1000action/index.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1502.png" group-title="Кино",viju TV1000 Русское
 http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vip-megahit-hd-orig" tvg-logo="http://pl.ottg.app/icon/7787.png" group-title="Кино",viju+ Megahit
