@@ -81,8 +81,6 @@ http://s1.merlive.am:80/eurokino/index.m3u8
 http://s1.merlive.am:80/Kinokomedia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Z3XvSP.png" group-title="Кино",Киносвидание
 http://2.57.217.197:8080/play/a090/index.m3u8
-#EXTINF:-1 tvg-id="kinosemiya" tvg-logo="http://pl.ottg.cc/icon/9448.png" group-title="Кино",Киносемья
-http://stream01.vnet.am/Kinoseriya/mono.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="http://pl.ottg.cc/icon/3955.png" group-title="Кино",Кинохит
 http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://pl.ottg.cc/icon/5595.png" group-title="Кино",Мужское кино
