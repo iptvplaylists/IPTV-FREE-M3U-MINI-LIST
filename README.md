@@ -365,6 +365,10 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="http://pl.ottg.cc/icon/7517.png" group-title="Спортивные",Матч! Премьер HD
 http://s1.merlive.am/matchpremier/index.m3u8
+#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="http://pl.ottg.cc/icon/4652.png" group-title="Спортивные",Setanta Sports 1 HD
+http://194.26.229.213/TUDN_Setanta-Sports-1/index.m3u8?token=Panda
+#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="http://pl.ottg.cc/icon/1931.png" group-title="Спортивные",Setanta Sports 2 HD
+http://194.26.229.213/TUDN_Setanta-Sports-2/index.m3u8?token=Panda
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Fast Sports
 http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l0tGNEk.png" group-title="Спортивные",Fc real madrid tv
