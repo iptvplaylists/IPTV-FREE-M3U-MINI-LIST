@@ -1,7 +1,3 @@
-#EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/05oHCea.png" group-title="Информация",Мой блог 👉 onlinetvalex.blogspot.com
-https://onlinetvalex.blogspot.com/
-#EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый HD
 https://tv.streams.baikal-telecom.net/PerviyHD/index.m3u8
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="http://pl.ottg.cc/icon/9664.png" group-title="Общероссийские",Первый канал +4
 http://stream02.vnet.am/PerviyKanal/tracks-v1a1/mono.m3u8
@@ -337,9 +333,9 @@ http://s7.merlive.am/ktoestkto/index.m3u8
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://pl.ottg.cc/icon/1515.png" group-title="Спортивные",Eurosport 1
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://pl.ottg.cc/icon/1515.png" group-title="Спортивные",Eurosport 1 HD
 http://s1.merlive.am/eurosport1/index.m3u8
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://pl.ottg.cc/icon/1525.png" group-title="Спортивные",Eurosport 2
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://pl.ottg.cc/icon/1525.png" group-title="Спортивные",Eurosport 2 HD
 http://s1.merlive.am/eurosport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2czroOb.png" group-title="Спортивные",Беларусь 5
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1049318557_b2660000_sleng.m3u8
@@ -351,24 +347,12 @@ http://stream01.vnet.am/BoksTv/mono.m3u8
 http://s1.merlive.am:80/Avtoplus/index.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://pl.ottg.cc/icon/2839.png" group-title="Спортивные",viju+ Sport
 http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://pl.ottg.cc/icon/5292.png" group-title="Спортивные",Матч тв
-http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-#EXTINF:-1 tvg-id="match-football1" tvg-logo="http://pl.ottg.cc/icon/2321.png" group-title="Спортивные",Матч! Футбол 1 HD
-http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/index.m3u8
-#EXTINF:-1 tvg-id="match-football2" tvg-logo="http://pl.ottg.cc/icon/6026.png" group-title="Спортивные",Матч! Футбол 2 HD
-http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
-#EXTINF:-1 tvg-id="match-football3" tvg-logo="http://pl.ottg.cc/icon/6866.png" group-title="Спортивные",Матч! Футбол 3 HD
-http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="http://pl.ottg.cc/icon/3226.png" group-title="Спортивные",Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="http://pl.ottg.cc/icon/2616.png" group-title="Спортивные",Матч! Планета
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="http://pl.ottg.cc/icon/7517.png" group-title="Спортивные",Матч! Премьер HD
 http://s1.merlive.am/matchpremier/index.m3u8
-#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="http://pl.ottg.cc/icon/4652.png" group-title="Спортивные",Setanta Sports 1 HD
-http://194.26.229.213/TUDN_Setanta-Sports-1/index.m3u8?token=Panda
-#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="http://pl.ottg.cc/icon/1931.png" group-title="Спортивные",Setanta Sports 2 HD
-http://194.26.229.213/TUDN_Setanta-Sports-2/index.m3u8?token=Panda
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Fast Sports
 http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l0tGNEk.png" group-title="Спортивные",Fc real madrid tv
