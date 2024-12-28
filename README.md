@@ -73,6 +73,12 @@ https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694
 http://stream01.vnet.am/Bober/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="http://pl.ottg.app/icon/9997.png" group-title="Общероссийские",Ностальгия
 http://s1.merlive.am:80/Nostalgia/index.m3u8
+#EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://pl.ottg.cc/icon/4167.png" group-title="Кино",Русская комедия
+https://s1.merlive.am/Komedia/index.m3u8
+#EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="http://pl.ottg.cc/icon/6590.png" group-title="Кино",Русский детектив
+https://s3.merlive.am/ruskidetektiv/index.m3u8
+#EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="http://pl.ottg.cc/icon/9282.png" group-title="Кино",Русский иллюзион
+https://s3.merlive.am/ruskiiluzion/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="http://pl.ottg.cc/icon/8314.png" group-title="Кино",Любимое кино
 http://s3.merlive.am/lubimoekino/index.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="http://pl.ottg.cc/icon/1490.png" group-title="Кино",Black
@@ -84,7 +90,7 @@ http://s3.merlive.am/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="tvxxi" tvg-logo="http://pl.ottg.cc/icon/3043.png" group-title="Кино",TV XXI Век
 http://s3.merlive.am/tvxxi/index.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="http://pl.ottg.cc/icon/5974.png" group-title="Кино",Cinema
-http://s3.merlive.am/sinema/index.m3u8
+https://s1.merlive.am/sinemahd/index.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-logo="http://pl.ottg.cc/icon/8268.png" group-title="Кино",КИНЕКО
 http://s1.merlive.am:80/kineko/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="http://pl.ottg.cc/icon/5240.png" group-title="Кино",Еврокино
@@ -189,6 +195,8 @@ https://clck.ru/3F6ZUK
 http://dmi3y-tv.ru/hls/CH_RTDHD.m3u8
 #EXTINF:-1 tvg-id="dojd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/1238.png" group-title="Новости",ДОЖДЬ HD
 https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b8192000.m3u8
+#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="http://pl.ottg.cc/icon/9375.png" group-title="Мультфильмы",В гостях у сказки
+https://s3.merlive.am/kluchtv/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/gOfbuWJ.png" group-title="Мультфильмы",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/XXNN6It.png" group-title="Мультфильмы",Nicktoons
@@ -279,6 +287,8 @@ http://195.9.195.3:8080/hls/201891.m3u8
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="http://pl.ottg.cc/icon/8299.png" group-title="Музыкальные",MTV Live HD
 http://stream01.vnet.am/Channel_117/mono.m3u8
+#EXTINF:-1 tvg-id="o2tv" tvg-logo="http://pl.ottg.cc/icon/6802.png" group-title="Музыкальные",O2TV
+https://s3.merlive.am/o2tv/index.m3u8
 #EXTINF:-1 tvg-id="muz-tv" tvg-logo="http://pl.ottg.app/icon/1806.png" group-title="Музыкальные",МузТВ
 http://s1.merlive.am:80/muztv/index.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-logo="http://pl.ottg.cc/icon/5778.png" group-title="Музыкальные",RU TV
@@ -287,10 +297,12 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 http://stream01.vnet.am/Channel_122/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXrxb9l.png" group-title="Музыкальные",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="http://pl.ottg.cc/icon/5747.png" group-title="Музыкальные",BRIDGE Русский Хит
-http://stream01.vnet.am/Channel_115/mono.m3u8
+#EXTINF:-1 tvg-id="bridge-tv" tvg-logo="http://pl.ottg.cc/icon/1774.png" group-title="Музыкальные",Bridge TV
+https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-logo="http://pl.ottg.cc/icon/9334.png" group-title="Музыкальные",Bridge TV Classic
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="http://pl.ottg.cc/icon/5747.png" group-title="Музыкальные",BRIDGE Русский Хит
+http://stream01.vnet.am/Channel_115/mono.m3u8
 #EXTINF:-1 tvg-id="mtv-rocks" tvg-logo="http://pl.ottg.cc/icon/2922.png" group-title="Музыкальные",MTV 90s
 http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="http://pl.ottg.cc/icon/9995.png" group-title="Музыкальные",Europa Plus TV
@@ -303,6 +315,10 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://pl.ottg.app/icon/5260.png" group-title="Музыкальные",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
+#EXTINF:-1 tvg-id="365-dnej" tvg-logo="http://pl.ottg.cc/icon/2331.png" group-title="Познавательные",365 дней ТВ
+https://s1.merlive.am/365dnei/index.m3u8
+#EXTINF:-1 tvg-id="terra-ru" tvg-logo="http://pl.ottg.cc/icon/8661.png" group-title="Познавательные",TERRA
+https://s3.merlive.am/izvestiatv/index.m3u8
 #EXTINF:-1 tvg-id="zhivaya-priroda" tvg-logo="http://pl.ottg.cc/icon/7063.png" group-title="Познавательные",Живая природа HD
 http://s3.merlive.am/jivayaprirodahd/index.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" tvg-logo="http://pl.ottg.cc/icon/5590.png" group-title="Познавательные",Глазами туриста HD
@@ -395,6 +411,8 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="http://pl.ottg.cc/icon/7517.png" group-title="Спортивные",Матч! Премьер HD
 http://s1.merlive.am/matchpremier/index.m3u8
+#EXTINF:-1 tvg-id="football-ru" tvg-logo="http://pl.ottg.cc/icon/7976.png" group-title="Спортивные",Футбол
+https://s3.merlive.am/futboltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Fast Sports
 http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l0tGNEk.png" group-title="Спортивные",Fc real madrid tv
