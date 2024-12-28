@@ -111,7 +111,7 @@ http://s1.merlive.am:80/Kinoujas/index.m3u8
 http://stream01.vnet.am/Channel_125/mono.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="http://pl.ottg.cc/icon/5930.png" group-title="Кино",Кино ТВ HD
 http://s3.merlive.am/kinotvhd/index.m3u8
-#EXTINF:-1 tvg-id="tv1000" tvg-logo="http://pl.ottg.cc/icon/1411.png" group-title="Кино",viju TV1000 HD
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="http://pl.ottg.cc/icon/1411.png" group-title="Кино",viju TV1000
 http://s3.merlive.am/tv1000/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="http://pl.ottg.cc/icon/9080.png" group-title="Кино",viju TV1000 Action
 http://s3.merlive.am/tv1000action/index.m3u8
@@ -291,6 +291,8 @@ https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 http://stream01.vnet.am/Channel_115/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-logo="http://pl.ottg.cc/icon/9334.png" group-title="Музыкальные",Bridge TV Classic
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="mtv-rocks" tvg-logo="http://pl.ottg.cc/icon/2922.png" group-title="Музыкальные",MTV 90s
+http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="http://pl.ottg.cc/icon/9995.png" group-title="Музыкальные",Europa Plus TV
 http://135.181.115.81:8000/play/a01d/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="muzyka-pervogo" tvg-logo="http://pl.ottg.cc/icon/8805.png" group-title="Музыкальные",Музыка первого
@@ -353,7 +355,7 @@ http://s3.merlive.am/zoopark/index.m3u8
 http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="http://pl.ottg.cc/icon/9038.png" group-title="Познавательные",Nat Geo Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
-#EXTINF:-1 tvg-id="nat-geo-hd-orig" tvg-logo="http://pl.ottg.app/icon/4998.png" group-title="Познавательные",National Geographic HD
+#EXTINF:-1 tvg-id="nat-geo-hd-orig" tvg-logo="http://pl.ottg.app/icon/4998.png" group-title="Познавательные",National Geographic
 http://stream02.vnet.am/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/5630.png" group-title="Познавательные",ID DISCOVERY
 http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
@@ -361,7 +363,7 @@ http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="http://pl.ottg.cc/icon/8772.png" group-title="Познавательные",viju+ Planet HD
 http://s1.merlive.am:80/vijuplanet/index.m3u8
-#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="http://pl.ottg.cc/icon/3139.png" group-title="Познавательные",viju Explore HD
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="http://pl.ottg.cc/icon/3139.png" group-title="Познавательные",viju Explore
 http://s3.merlive.am/viasatexplorer/index.m3u8
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-logo="http://pl.ottg.cc/icon/7182.png" group-title="Познавательные",Кто есть кто
 http://s7.merlive.am/ktoestkto/index.m3u8
