@@ -352,9 +352,13 @@ http://s1.merlive.am:80/Avtoplus/index.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://pl.ottg.cc/icon/2839.png" group-title="Спортивные",viju+ Sport
 http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://pl.ottg.cc/icon/5292.png" group-title="Спортивные",Матч тв
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2
+http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="http://pl.ottg.cc/icon/2321.png" group-title="Спортивные",Матч! Футбол 1 HD
 http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/index.m3u8
+#EXTINF:-1 tvg-id="match-football2" tvg-logo="http://pl.ottg.cc/icon/6026.png" group-title="Спортивные",Матч! Футбол 2 HD
+http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
+#EXTINF:-1 tvg-id="match-football3" tvg-logo="http://pl.ottg.cc/icon/6866.png" group-title="Спортивные",Матч! Футбол 3 HD
+http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="http://pl.ottg.cc/icon/3226.png" group-title="Спортивные",Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="http://pl.ottg.cc/icon/2616.png" group-title="Спортивные",Матч! Планета
