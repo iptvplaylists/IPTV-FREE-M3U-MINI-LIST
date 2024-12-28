@@ -73,6 +73,12 @@ https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694
 http://stream01.vnet.am/Bober/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="http://pl.ottg.app/icon/9997.png" group-title="Общероссийские",Ностальгия
 http://s1.merlive.am:80/Nostalgia/index.m3u8
+#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="http://pl.ottg.cc/icon/3259.png" group-title="Кино",Наше новое кино
+http://s3.merlive.am/nashenovoekino/index.m3u8
+#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="http://pl.ottg.cc/icon/1490.png" group-title="Кино",Black
+http://s3.merlive.am/black/index.m3u8
+#EXTINF:-1 tvg-id="sony-tv" tvg-logo="http://pl.ottg.cc/icon/4830.png" group-title="Кино",Red HD
+http://s3.merlive.am/redhd/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="http://pl.ottg.cc/icon/2488.png" group-title="Кино",Мосфильм
 http://s3.merlive.am/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="tvxxi" tvg-logo="http://pl.ottg.cc/icon/3043.png" group-title="Кино",TV XXI Век
@@ -287,6 +293,10 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://pl.ottg.app/icon/5260.png" group-title="Музыкальные",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
+#EXTINF:-1 tvg-id="glazami-turista" tvg-logo="http://pl.ottg.cc/icon/5590.png" group-title="Познавательные",Глазами туриста HD
+http://s3.merlive.am/glazamituristahd/index.m3u8
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="http://pl.ottg.cc/icon/3139.png" group-title="Познавательные",viju Explore HD
+http://s3.merlive.am/viasatexplorer/index.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-logo="http://pl.ottg.cc/icon/2605.png" group-title="Познавательные",Океан ТВ
 http://s1.merlive.am:80/oceantv/index.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-logo="http://pl.ottg.cc/icon/8719.png" group-title="Познавательные",История
