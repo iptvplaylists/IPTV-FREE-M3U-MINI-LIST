@@ -61,8 +61,6 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="tv3-hd" tvg-logo="http://pl.ottg.app/icon/1540.png" group-title="Общероссийские",ТВ3 HD
 http://stream01.vnet.am/Channel_121/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iBxzjMJ.png" group-title="Общероссийские",Неизвестная россия
-https://cdn.ntv.ru:443/unknown_russia/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.cc/icon/7017.png" group-title="Общероссийские",СТВ
 https://edge55.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1789650572.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YiV6WuC.png" group-title="Общероссийские",Беларусь 1
