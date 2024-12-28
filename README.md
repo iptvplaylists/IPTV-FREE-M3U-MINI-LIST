@@ -111,6 +111,8 @@ http://stream02.vnet.am/Kinopremera/mono.m3u8
 http://s3.merlive.am/nashenovoekino/index.m3u8
 #EXTINF:-1 tvg-id="kinomix-hd-orig" tvg-logo="http://pl.ottg.app/icon/1323.png" group-title="Кино",Киномикс
 http://2.57.217.197:8080/play/a08d/index.m3u8
+#EXTINF:-1 tvg-id="indiyskoe-kino" tvg-logo="http://pl.ottg.cc/icon/6200.png" group-title="Кино",Индийское кино
+https://s1.merlive.am/Indiskoekino/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas-hd-orig" tvg-logo="http://pl.ottg.app/icon/1755.png" group-title="Кино",Киноужас
 http://s1.merlive.am:80/Kinoujas/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="http://pl.ottg.cc/icon/9044.png" group-title="Кино",НСТ
@@ -346,7 +348,7 @@ http://2.57.217.197:8080/play/a093/index.m3u8
 #EXTINF:-1 tvg-id="tlc-blk" tvg-logo="http://pl.ottg.app/icon/9012.png" group-title="Познавательные",TLC
 http://s5.merlive.am:80/tlc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QZeAmbc.png" group-title="Познавательные",RTG HD
-http://s1.merlive.am:80/rtgtv/index.m3u8
+http://s3.merlive.am/rtghd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6GB2Y92.png" group-title="Познавательные",Дикая Охота
 http://s5.merlive.am:80/dikayaoxota/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Btffp.png" group-title="Познавательные",Дикая рыбалка HD
