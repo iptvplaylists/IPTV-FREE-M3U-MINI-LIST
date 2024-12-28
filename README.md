@@ -73,8 +73,10 @@ https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694
 http://stream01.vnet.am/Bober/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="http://pl.ottg.app/icon/9997.png" group-title="Общероссийские",Ностальгия
 http://s1.merlive.am:80/Nostalgia/index.m3u8
-#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="http://pl.ottg.cc/icon/3259.png" group-title="Кино",Наше новое кино
-http://s3.merlive.am/nashenovoekino/index.m3u8
+#EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="http://pl.ottg.cc/icon/8314.png" group-title="Кино",Любимое кино
+http://s3.merlive.am/lubimoekino/index.m3u8
+#EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://pl.ottg.cc/icon/4167.png" group-title="Кино",Русская комедия
+http://s3.merlive.am/komedia/index.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="http://pl.ottg.cc/icon/1490.png" group-title="Кино",Black
 http://s3.merlive.am/black/index.m3u8
 #EXTINF:-1 tvg-id="sony-tv" tvg-logo="http://pl.ottg.cc/icon/4830.png" group-title="Кино",Red HD
@@ -94,11 +96,15 @@ http://s1.merlive.am:80/Kinokomedia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Z3XvSP.png" group-title="Кино",Киносвидание
 http://2.57.217.197:8080/play/a090/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="http://pl.ottg.cc/icon/3955.png" group-title="Кино",Кинохит
-http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
+http://s3.merlive.am/kinoxithd/index.m3u8
+#EXTINF:-1 tvg-id="kinosemiya" tvg-logo="http://pl.ottg.cc/icon/9448.png" group-title="Кино",Киносемья
+http://s3.merlive.am/kinosemyahd/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://pl.ottg.cc/icon/5595.png" group-title="Кино",Мужское кино
 http://stream01.vnet.am/MujskoeKino/index.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="http://pl.ottg.cc/icon/7998.png" group-title="Кино",Кинопремьера HD
 http://stream02.vnet.am/Kinopremera/mono.m3u8
+#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="http://pl.ottg.cc/icon/3259.png" group-title="Кино",Наше новое кино
+http://s3.merlive.am/nashenovoekino/index.m3u8
 #EXTINF:-1 tvg-id="kinomix-hd-orig" tvg-logo="http://pl.ottg.app/icon/1323.png" group-title="Кино",Киномикс
 http://2.57.217.197:8080/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas-hd-orig" tvg-logo="http://pl.ottg.app/icon/1755.png" group-title="Кино",Киноужас
@@ -293,6 +299,8 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://pl.ottg.app/icon/5260.png" group-title="Музыкальные",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
+#EXTINF:-1 tvg-id="zhivaya-priroda" tvg-logo="http://pl.ottg.cc/icon/7063.png" group-title="Познавательные",Живая природа HD
+http://s3.merlive.am/jivayaprirodahd/index.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" tvg-logo="http://pl.ottg.cc/icon/5590.png" group-title="Познавательные",Глазами туриста HD
 http://s3.merlive.am/glazamituristahd/index.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-logo="http://pl.ottg.cc/icon/3139.png" group-title="Познавательные",viju Explore HD
@@ -367,6 +375,8 @@ https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1049318
 http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/9550.png" group-title="Спортивные",Бокс ТВ
 http://stream01.vnet.am/BoksTv/mono.m3u8
+#EXTINF:-1 tvg-id="Auto24" tvg-logo="https://i.imgur.com/LP8OMKh.png" group-title="Спортивные",Авто 24
+http://s3.merlive.am/avto24/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus" tvg-logo="http://pl.ottg.app/icon/2339.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спортивные",Авто Плюс HD
 http://s1.merlive.am:80/Avtoplus/index.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://pl.ottg.cc/icon/2839.png" group-title="Спортивные",viju+ Sport
