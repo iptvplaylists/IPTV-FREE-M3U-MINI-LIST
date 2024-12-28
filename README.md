@@ -10,7 +10,7 @@ http://stream02.vnet.am/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rossija-k-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/6216.png" group-title="Общероссийские",Россия Культура
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="ntv-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2017.png" group-title="Общероссийские",НТВ HD
-http://s1.merlive.am:80/ntvhd/index.m3u8
+http://s3.merlive.am/ntvhd/index.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/7870.png" group-title="Общероссийские",НТВ Мир
 http://stream02.vnet.am/HTB/mono.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1445.png" group-title="Общероссийские",НТВ Хит
@@ -34,9 +34,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="perec" tvg-logo="http://pl.ottg.app/icon/5850.png" group-title="Общероссийские",Перец
 http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 tvg-id="tnt-hd" tvg-logo="http://pl.ottg.app/icon/1337.png" group-title="Общероссийские",ТНТ HD
-https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+https://s3.merlive.am/tnthd/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl4" tvg-logo="http://pl.ottg.cc/icon/8594.png" group-title="Общероссийские",ТНТ +4
-https://s1.merlive.am/tnt/index.m3u8
+https://s3.merlive.am/tnt4/index.m3u8
 #EXTINF:-1 tvg-id="tnt4-hd" tvg-logo="http://pl.ottg.app/icon/5889.png" group-title="Общероссийские",ТНТ4 HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/8082.png" group-title="Общероссийские",РЕН ТВ HD
@@ -227,6 +227,10 @@ http://ott-cdn.ucom.am/s59/index.m3u8
 http://31.148.48.15/Ani/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="http://pl.ottg.cc/icon/2275.png" group-title="Мультфильмы",Cartoonito
 http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="zhara" tvg-logo="http://pl.ottg.cc/icon/4248.png" group-title="Музыкальные",Жара TV
+https://s3.merlive.am/jaratv/index.m3u8
+#EXTINF:-1 tvg-id="mezzo" tvg-logo="http://pl.ottg.cc/icon/7506.png" group-title="Музыкальные",Mezzo
+https://s1.merlive.am/Mezzo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mNWXIA7.png" group-title="Музыкальные",Piterpan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist_w424198474.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7hARI0.png" group-title="Музыкальные",Hits 360
