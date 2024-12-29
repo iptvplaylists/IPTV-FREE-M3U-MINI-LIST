@@ -48,7 +48,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="yu-tv" tvg-logo="http://pl.ottg.app/icon/4785.png" group-title="Общероссийские",Ю ТВ
 https://tv.streams.baikal-telecom.net/U/index.m3u8
 #EXTINF:-1 tvg-id="5kanal" tvg-logo="http://pl.ottg.app/icon/4750.png" group-title="Общероссийские",5 канал
-http://beryl.ott.k-telecom.org/5_kanal/index.m3u8
+http://flu.ttk.mx:90/5kanal/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="domashnij-hd" tvg-logo="http://pl.ottg.app/icon/4131.png" group-title="Общероссийские",Домашний HD
 https://s3.merlive.am/domashni/index.m3u8
 #EXTINF:-1 tvg-id="piatnica-hd" tvg-logo="http://pl.ottg.app/icon/9657.png" group-title="Общероссийские",Пятница HD
@@ -198,7 +198,7 @@ https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b8192000.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="http://pl.ottg.cc/icon/9375.png" group-title="Мультфильмы",В гостях у сказки
 https://s1.merlive.am/vgostyaxuskazki/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/gOfbuWJ.png" group-title="Мультфильмы",2x2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2
+https://s1.merlive.am/2x2tv/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/XXNN6It.png" group-title="Мультфильмы",Nicktoons
 https://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tR9j2Qn.png" group-title="Мультфильмы",Мультимания
