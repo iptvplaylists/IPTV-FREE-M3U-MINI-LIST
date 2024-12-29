@@ -5,10 +5,10 @@ https://onlinetvalex.blogspot.com/
 https://tv.streams.baikal-telecom.net/PerviyHD/index.m3u8
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="http://pl.ottg.cc/icon/9664.png" group-title="Общероссийские",Первый канал +4
 http://stream02.vnet.am/PerviyKanal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5963.png" group-title="Общероссийские",Россия 1
+#EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5963.png" group-title="Общероссийские",Россия 1 HD
 http://stream02.vnet.am/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rossija-k-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/6216.png" group-title="Общероссийские",Россия Культура
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8?version=2
+http://flu.ttk.mx:90/Kultura/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="ntv-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2017.png" group-title="Общероссийские",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/7870.png" group-title="Общероссийские",НТВ Мир
@@ -44,7 +44,7 @@ http://185.23.80.28:8080/REN/index.m3u8
 #EXTINF:-1 tvg-id="tvc-hd" tvg-logo="http://pl.ottg.app/icon/3655.png" group-title="Общероссийские",ТВЦ HD
 http://flu.ttk.mx:90/TVC/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="otp" tvg-logo="http://pl.ottg.app/icon/2345.png" group-title="Общероссийские",ОТР
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2
+http://flu.ttk.mx:90/OTR/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="yu-tv" tvg-logo="http://pl.ottg.app/icon/4785.png" group-title="Общероссийские",Ю ТВ
 https://tv.streams.baikal-telecom.net/U/index.m3u8
 #EXTINF:-1 tvg-id="5kanal" tvg-logo="http://pl.ottg.app/icon/4750.png" group-title="Общероссийские",5 канал
