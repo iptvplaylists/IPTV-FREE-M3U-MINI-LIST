@@ -161,12 +161,14 @@ http://ott-cdn.ucom.am/s68/04.m3u8
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ovrgN5w.png" group-title="Кино",Bollywood
 http://s1.merlive.am:80/Bollywood/index.m3u8
+#EXTINF:-1 tvg-id="vhs-ка" tvg-logo="http://pl.ottg.cc/icon/7369.png" group-title="Кино",VHS-ка HD
+http://88.218.242.237:8000/play/a00x
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J1WQkLr.png" group-title="Кино",Видеокассета
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UUhf8W6.png" group-title="Кино",1Filmax
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3U3HFgK.png" group-title="Кино",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J1WQkLr.png" group-title="Кино",Видеокассета
-https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YeWpktR.png" group-title="Новости",TVP Info
 https://irylek.ct8.pl/stream/tvpinfo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oyCGGmG.png" group-title="Новости",BBC NEWS
