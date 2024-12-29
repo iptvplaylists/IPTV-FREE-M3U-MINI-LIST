@@ -311,8 +311,6 @@ https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="http://pl.ottg.cc/icon/5747.png" group-title="Музыкальные",BRIDGE Русский Хит
 http://stream01.vnet.am/Channel_115/mono.m3u8
-#EXTINF:-1 tvg-id="mtv-rocks" tvg-logo="http://pl.ottg.cc/icon/2922.png" group-title="Музыкальные",MTV 90s
-http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="http://pl.ottg.cc/icon/9995.png" group-title="Музыкальные",Europa Plus TV
 http://135.181.115.81:8000/play/a01d/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="muzyka-pervogo" tvg-logo="http://pl.ottg.cc/icon/8805.png" group-title="Музыкальные",Музыка первого
@@ -427,8 +425,6 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="http://pl.ottg.cc/icon/7517.png" group-title="Спортивные",Матч! Премьер HD
 http://s1.merlive.am/matchpremier/index.m3u8
-#EXTINF:-1 tvg-id="football-ru" tvg-logo="http://pl.ottg.cc/icon/7976.png" group-title="Спортивные",Футбол
-https://s3.merlive.am/futboltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Fast Sports
 http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l0tGNEk.png" group-title="Спортивные",Fc real madrid tv
