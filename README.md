@@ -315,32 +315,22 @@ http://rtmp.one.by:2300
 https://stream01.vnet.am/ShansonTv/index.m3u8
 #EXTINF:-1 tvg-id="mezzo" tvg-logo="http://pl.ottg.cc/icon/7506.png" group-title="Музыкальные",Mezzo
 https://s1.merlive.am/Mezzo/index.m3u8
-#EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="http://pl.ottg.cc/icon/6157.png" group-title="Познавательные",Galaxy
-https://s3.merlive.am/tainigalaktiki/index.m3u8
-#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="http://pl.ottg.cc/icon/1313.png" group-title="Познавательные",Живая планета
-https://s3.merlive.am/jivayaplaneta/index.m3u8
-#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://pl.ottg.cc/icon/7223.png" group-title="Познавательные",Моя планета HD
-https://stream01.vnet.am/365Dney/index.m3u8
-#EXTINF:-1 tvg-id="365-dnej" tvg-logo="http://pl.ottg.cc/icon/2331.png" group-title="Познавательные",365 дней ТВ
-https://s1.merlive.am/365dnei/index.m3u8
-#EXTINF:-1 tvg-id="terra-ru" tvg-logo="http://pl.ottg.cc/icon/8661.png" group-title="Познавательные",TERRA
-https://s3.merlive.am/izvestiatv/index.m3u8
-#EXTINF:-1 tvg-id="zhivaya-priroda" tvg-logo="http://pl.ottg.cc/icon/7063.png" group-title="Познавательные",Живая природа HD
-http://s3.merlive.am/jivayaprirodahd/index.m3u8
-#EXTINF:-1 tvg-id="glazami-turista" tvg-logo="http://pl.ottg.cc/icon/5590.png" group-title="Познавательные",Глазами туриста HD
-http://s3.merlive.am/glazamituristahd/index.m3u8
-#EXTINF:-1 tvg-id="ocean-tv" tvg-logo="http://pl.ottg.cc/icon/2605.png" group-title="Познавательные",Океан ТВ
-http://s1.merlive.am:80/oceantv/index.m3u8
-#EXTINF:-1 tvg-id="istoria" tvg-logo="http://pl.ottg.cc/icon/8719.png" group-title="Познавательные",История
-http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DML6qUV.png" group-title="Познавательные",Нано ТВ
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="http://pl.ottg.cc/icon/5138.png" group-title="Познавательные",Наука 2.0
 http://ott-cdn.ucom.am/s98/04.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru" tvg-logo="http://pl.ottg.app/icon/6657.png" group-title="Познавательные",Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://pl.ottg.cc/icon/7223.png" group-title="Познавательные",Моя планета HD
+https://stream01.vnet.am/365Dney/index.m3u8
+#EXTINF:-1 tvg-id="glazami-turista" tvg-logo="http://pl.ottg.cc/icon/5590.png" group-title="Познавательные",Глазами туриста HD
+http://s3.merlive.am/glazamituristahd/index.m3u8
 #EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://pl.ottg.app/icon/5180.png" group-title="Познавательные",Загородный
 http://ott-cdn.ucom.am/s31/index.m3u8
+#EXTINF:-1 tvg-id="ocean-tv" tvg-logo="http://pl.ottg.cc/icon/2605.png" group-title="Познавательные",Океан ТВ
+http://s1.merlive.am:80/oceantv/index.m3u8
+#EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="http://pl.ottg.cc/icon/6157.png" group-title="Познавательные",Galaxy
+https://s3.merlive.am/tainigalaktiki/index.m3u8
 #EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="http://pl.ottg.app/icon/3269.png" group-title="Познавательные",Первый космический
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/3719.png" group-title="Познавательные",Телекафе
@@ -351,8 +341,14 @@ http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 http://2.57.217.197:8080/play/a093/index.m3u8
 #EXTINF:-1 tvg-id="tlc-blk" tvg-logo="http://pl.ottg.app/icon/9012.png" group-title="Познавательные",TLC
 http://s5.merlive.am:80/tlc/index.m3u8
+#EXTINF:-1 tvg-id="terra-ru" tvg-logo="http://pl.ottg.cc/icon/8661.png" group-title="Познавательные",TERRA
+https://s3.merlive.am/izvestiatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QZeAmbc.png" group-title="Познавательные",RTG HD
 http://s3.merlive.am/rtghd/index.m3u8
+#EXTINF:-1 tvg-id="365-dnej" tvg-logo="http://pl.ottg.cc/icon/2331.png" group-title="Познавательные",365 дней ТВ
+https://s1.merlive.am/365dnei/index.m3u8
+#EXTINF:-1 tvg-id="istoria" tvg-logo="http://pl.ottg.cc/icon/8719.png" group-title="Познавательные",История
+http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6GB2Y92.png" group-title="Познавательные",Дикая Охота
 http://s5.merlive.am:80/dikayaoxota/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Btffp.png" group-title="Познавательные",Дикая рыбалка HD
@@ -365,10 +361,14 @@ https://s3.merlive.am/davinchi/index.m3u8
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="home-4k" tvg-logo="http://pl.ottg.app/icon/7533.png" group-title="Познавательные",Home 4K
 http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="zhivaya-priroda" tvg-logo="http://pl.ottg.cc/icon/7063.png" group-title="Познавательные",Живая природа HD
+http://s3.merlive.am/jivayaprirodahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1ZV5Iik.png" group-title="Познавательные",Love Nature 4k
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-logo="http://pl.ottg.cc/icon/5532.png" group-title="Познавательные",viju Nature HD
 http://s1.merlive.am:80/vijunature/index.m3u8
+#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="http://pl.ottg.cc/icon/1313.png" group-title="Познавательные",Живая планета
+https://s3.merlive.am/jivayaplaneta/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 tvg-id="zoopark" tvg-logo="http://pl.ottg.cc/icon/6767.png" group-title="Познавательные",Зоопарк
