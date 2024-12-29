@@ -36,7 +36,7 @@ http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 tvg-id="tnt-hd" tvg-logo="http://pl.ottg.app/icon/1337.png" group-title="Общероссийские",ТНТ HD
 https://s3.merlive.am/tnthd/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl4" tvg-logo="http://pl.ottg.cc/icon/8594.png" group-title="Общероссийские",ТНТ +4
-https://s3.merlive.am/tnt4/index.m3u8
+https://s1.merlive.am/tnt/index.m3u8
 #EXTINF:-1 tvg-id="tnt4-hd" tvg-logo="http://pl.ottg.app/icon/5889.png" group-title="Общероссийские",ТНТ4 HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/8082.png" group-title="Общероссийские",РЕН ТВ HD
