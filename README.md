@@ -93,6 +93,8 @@ https://s1.merlive.am/sinemahd/index.m3u8
 http://s1.merlive.am:80/kineko/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="http://pl.ottg.cc/icon/5240.png" group-title="Кино",Еврокино
 http://s1.merlive.am:80/eurokino/index.m3u8
+#EXTINF:-1 tvg-id="kinopokaz-hd" tvg-logo="http://pl.ottg.cc/icon/7736.png" group-title="Кино",Кинопоказ HD
+http://31.184.197.124/KinopokazHD/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DtVRyIp.png" group-title="Кино",Кинокомедия
 http://s3.merlive.am/komedia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Z3XvSP.png" group-title="Кино",Киносвидание
