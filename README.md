@@ -156,7 +156,7 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="http://pl.ottg.cc/icon/8934.png" group-title="Кино",Победа
 http://s3.merlive.am/pobeda/index.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://pl.ottg.cc/icon/2273.png" group-title="Кино",Арсенал
-http://ott-cdn.ucom.am/s68/04.m3u8
+http://stream01.vnet.am/Tekhno24/mono.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-logo="http://pl.ottg.cc/icon/4319.png" group-title="Кино",Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ovrgN5w.png" group-title="Кино",Bollywood
