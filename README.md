@@ -75,8 +75,6 @@ http://stream01.vnet.am/Bober/index.m3u8
 https://s3.merlive.am/gagsnetwork/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="http://pl.ottg.app/icon/9997.png" group-title="Общероссийские",Ностальгия
 http://s1.merlive.am:80/Nostalgia/index.m3u8
-#EXTINF:-1 tvg-id="mir-seriala" tvg-logo="http://pl.ottg.cc/icon/9667.png" group-title="Кино",Мир сериала
-http://s3.merlive.am/mirseriala/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://pl.ottg.cc/icon/4167.png" group-title="Кино",Русская комедия
 https://s1.merlive.am/Komedia/index.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="http://pl.ottg.cc/icon/6590.png" group-title="Кино",Русский детектив
