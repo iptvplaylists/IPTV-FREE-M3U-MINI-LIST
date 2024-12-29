@@ -79,10 +79,6 @@ http://s1.merlive.am:80/Nostalgia/index.m3u8
 https://s1.merlive.am/Komedia/index.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="http://pl.ottg.cc/icon/6590.png" group-title="Кино",Русский детектив
 https://s3.merlive.am/ruskidetektiv/index.m3u8
-#EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="http://pl.ottg.cc/icon/9282.png" group-title="Кино",Русский иллюзион
-https://s3.merlive.am/ruskiiluzion/index.m3u8
-#EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="http://pl.ottg.cc/icon/8314.png" group-title="Кино",Любимое кино
-http://s3.merlive.am/lubimoekino/index.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="http://pl.ottg.cc/icon/1490.png" group-title="Кино",Black
 http://s3.merlive.am/black/index.m3u8
 #EXTINF:-1 tvg-id="sony-tv" tvg-logo="http://pl.ottg.cc/icon/4830.png" group-title="Кино",Red HD
