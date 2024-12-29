@@ -293,8 +293,6 @@ http://195.9.195.3:8080/hls/201891.m3u8
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="http://pl.ottg.cc/icon/8299.png" group-title="Музыкальные",MTV Live HD
 http://stream01.vnet.am/Channel_117/mono.m3u8
-#EXTINF:-1 tvg-id="o2tv" tvg-logo="http://pl.ottg.cc/icon/6802.png" group-title="Музыкальные",O2TV
-https://s3.merlive.am/o2tv/index.m3u8
 #EXTINF:-1 tvg-id="muz-tv" tvg-logo="http://pl.ottg.app/icon/1806.png" group-title="Музыкальные",МузТВ
 http://s1.merlive.am:80/muztv/index.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-logo="http://pl.ottg.cc/icon/5778.png" group-title="Музыкальные",RU TV
