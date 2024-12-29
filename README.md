@@ -10,7 +10,7 @@ http://stream02.vnet.am/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rossija-k-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/6216.png" group-title="Общероссийские",Россия Культура
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="ntv-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2017.png" group-title="Общероссийские",НТВ HD
-http://s5.merlive.am:80/ntvhd/index.m3u8
+http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/7870.png" group-title="Общероссийские",НТВ Мир
 http://stream02.vnet.am/HTB/mono.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1445.png" group-title="Общероссийские",НТВ Хит
