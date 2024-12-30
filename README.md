@@ -443,7 +443,7 @@ https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 http://ott-cdn.ucom.am/s2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5934.png" group-title="Армения",USA Armenia HD
 https://usarmenia-tv.icdndhcp.com/hls/m3u8/USARMENIA_NET1080.m3u8
-#EXTINF:-1 tvg-id="armenia-tv" tvg-logo="http://pl.ottg.app/icon/8162.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Армения",Արմենիա TV HD
+#EXTINF:-1 tvg-id="armenia-tv" tvg-logo="https://i.imgur.com/ZaWExUo.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Армения",Արմենիա TV HD
 http://ott-cdn.ucom.am/s4/index.m3u8
 #EXTINF:-1 tvg-id="armenia-premium-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2384.png" group-title="Армения",Armenia Premium HD
 http://ott-cdn.ucom.am/s83/index.m3u8
