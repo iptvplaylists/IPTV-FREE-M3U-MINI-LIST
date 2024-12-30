@@ -349,51 +349,51 @@ http://s5.merlive.am:80/tlc/index.m3u8
 http://s3.merlive.am:80/Terrahd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/648.png" group-title="Познавательные",RTG HD
 http://s3.merlive.am/rtghd/index.m3u8
-#EXTINF:-1 tvg-id="365-dnej" tvg-logo="http://pl.ottg.cc/icon/2331.png" group-title="Познавательные",365 дней ТВ
+#EXTINF:-1 tvg-id="365-dnej" tvg-logo="http://epg.one/img/2423.png" group-title="Познавательные",365 дней ТВ
 https://s1.merlive.am/365dnei/index.m3u8
-#EXTINF:-1 tvg-id="istoria" tvg-logo="http://pl.ottg.cc/icon/8719.png" group-title="Познавательные",История
+#EXTINF:-1 tvg-id="istoria" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные",История
 http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6GB2Y92.png" group-title="Познавательные",Дикая Охота HD
 http://s5.merlive.am:80/dikayaoxota/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Btffp.png" group-title="Познавательные",Дикая рыбалка HD
 http://stream01.vnet.am/Channel_126/mono.m3u8
-#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="http://pl.ottg.cc/icon/5955.png" group-title="Познавательные",Охотник и рыболов HD
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zOI6QgY.png" group-title="Познавательные",Da Vinci
 https://s3.merlive.am/davinchi/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://i.imgur.com/tpLO7Ja.png" group-title="Познавательные",Travel XP
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="home-4k" tvg-logo="http://pl.ottg.app/icon/7533.png" group-title="Познавательные",Home 4K
+#EXTINF:-1 tvg-id="home-4k" tvg-logo="http://epg.one/img/2745.png" group-title="Познавательные",Home 4K
 http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="zhivaya-priroda" tvg-logo="http://pl.ottg.cc/icon/7063.png" group-title="Познавательные",Живая природа HD
+#EXTINF:-1 tvg-id="zhivaya-priroda" tvg-logo="http://epg.one/img/2495.png" group-title="Познавательные",Живая природа HD
 http://s3.merlive.am/jivayaprirodahd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1ZV5Iik.png" group-title="Познавательные",Love Nature 4k
+#EXTINF:-1 tvg-logo="http://epg.one/img/2801.png" group-title="Познавательные",Love Nature 4k
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
-#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="http://pl.ottg.cc/icon/5532.png" group-title="Познавательные",viju Nature
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные",viju Nature
 http://s1.merlive.am:80/vijunature/index.m3u8
-#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="http://pl.ottg.cc/icon/1313.png" group-title="Познавательные",Живая планета
+#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="http://epg.one/img/2432.png" group-title="Познавательные",Живая планета
 https://s3.merlive.am/jivayaplaneta/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
-#EXTINF:-1 tvg-id="zoopark" tvg-logo="http://pl.ottg.cc/icon/6767.png" group-title="Познавательные",Зоопарк
+#EXTINF:-1 tvg-id="zoopark" tvg-logo="http://epg.one/img/367.png" group-title="Познавательные",Зоопарк
 http://s3.merlive.am/zoopark/index.m3u8
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/5474.png" group-title="Познавательные",Animal Planet HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet HD
 http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="http://pl.ottg.cc/icon/9038.png" group-title="Познавательные",Nat Geo Wild
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные",Nat Geo Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
-#EXTINF:-1 tvg-id="nat-geo-hd-orig" tvg-logo="http://pl.ottg.app/icon/4998.png" group-title="Познавательные",National Geographic
+#EXTINF:-1 tvg-id="nat-geo-hd-orig" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные",National Geographic
 http://stream02.vnet.am/NationalGeographic/index.m3u8
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/5630.png" group-title="Познавательные",ID DISCOVERY
+#EXTINF:-1 tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные",ID DISCOVERY
 http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
-#EXTINF:-1 tvg-id="discovery-hd-orig" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/8979.png" group-title="Познавательные",Discovery Channel HD
+#EXTINF:-1 tvg-id="discovery-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные",Discovery Channel HD
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="http://pl.ottg.cc/icon/8772.png" group-title="Познавательные",viju+ Planet HD
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="http://epg.one/img/2012.png" group-title="Познавательные",viju+ Planet HD
 http://s1.merlive.am:80/vijuplanet/index.m3u8
-#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="http://pl.ottg.cc/icon/3139.png" group-title="Познавательные",viju Explore
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="http://epg.one/img/521.png" group-title="Познавательные",viju Explore
 http://s3.merlive.am/viasatexplorer/index.m3u8
-#EXTINF:-1 tvg-id="kto-est-kto" tvg-logo="http://pl.ottg.cc/icon/7182.png" group-title="Познавательные",Кто есть кто
+#EXTINF:-1 tvg-id="kto-est-kto" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные",Кто есть кто
 http://s7.merlive.am/ktoestkto/index.m3u8
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1223.png" group-title="Познавательные",Fashion TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v0goaGa.png" group-title="Познавательные",Fashion TV HD
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
