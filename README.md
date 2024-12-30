@@ -175,9 +175,9 @@ http://195.9.195.3:8080/hls/204717.m3u8
 https://irylek.ct8.pl/stream/tvpinfo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oyCGGmG.png" group-title="Новости",BBC NEWS
 http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1 tvg-id="EURONEWS" tvg-logo="http://pl.ottg.app/icon/3882.png" group-title="Новости",Euronews HD
+#EXTINF:-1 tvg-id="EURONEWS" tvg-logo="https://i.imgur.com/Vi0hTdU.png" group-title="Новости",Euronews HD
 http://stream01.vnet.am/Channel_119/mono.m3u8
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/2782.png" group-title="Новости",Настоящее время HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6JhhLfq.png" group-title="Новости",Настоящее время HD
 https://clck.ru/3F6ZUq
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1751.png" group-title="Новости",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
