@@ -319,35 +319,35 @@ http://rtmp.one.by:2300
 https://stream01.vnet.am/ShansonTv/index.m3u8
 #EXTINF:-1 tvg-id="mezzo" tvg-logo="http://pl.ottg.cc/icon/7506.png" group-title="Музыкальные",Mezzo
 https://s1.merlive.am/Mezzo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DML6qUV.png" group-title="Познавательные",Нано ТВ
+#EXTINF:-1 tvg-logo="http://epg.one/img/2521.png" group-title="Познавательные",Нано ТВ
 http://s1.tv-nano.com/Nano_rec/index.m3u8
-#EXTINF:-1 tvg-id="nauka-20" tvg-logo="http://pl.ottg.cc/icon/5138.png" group-title="Познавательные",Наука 2.0
+#EXTINF:-1 tvg-id="nauka-20" tvg-logo="http://epg.one/img/723.png" group-title="Познавательные",Наука 2.0
 http://ott-cdn.ucom.am/s98/04.m3u8
-#EXTINF:-1 tvg-id="BigAsia.ru" tvg-logo="http://pl.ottg.app/icon/6657.png" group-title="Познавательные",Большая Азия
+#EXTINF:-1 tvg-id="BigAsia.ru" tvg-logo="http://epg.one/img/2417.png" group-title="Познавательные",Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://pl.ottg.cc/icon/7223.png" group-title="Познавательные",Моя планета HD
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://epg.one/img/675.png" group-title="Познавательные",Моя планета HD
 https://stream01.vnet.am/365Dney/index.m3u8
-#EXTINF:-1 tvg-id="glazami-turista" tvg-logo="http://pl.ottg.cc/icon/5590.png" group-title="Познавательные",Глазами туриста HD
+#EXTINF:-1 tvg-id="glazami-turista" tvg-logo="http://epg.one/img/2508.png" group-title="Познавательные",Глазами туриста HD
 http://s3.merlive.am/glazamituristahd/index.m3u8
-#EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://pl.ottg.app/icon/5180.png" group-title="Познавательные",Загородный
+#EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.one/img/2463.png" group-title="Познавательные",Загородный
 http://ott-cdn.ucom.am/s31/index.m3u8
-#EXTINF:-1 tvg-id="ocean-tv" tvg-logo="http://pl.ottg.cc/icon/2605.png" group-title="Познавательные",Океан ТВ
+#EXTINF:-1 tvg-id="ocean-tv" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные",Океан ТВ
 http://s1.merlive.am:80/oceantv/index.m3u8
-#EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="http://pl.ottg.cc/icon/6157.png" group-title="Познавательные",Galaxy
+#EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="http://epg.one/img/2418.png" group-title="Познавательные",Galaxy
 https://s3.merlive.am/tainigalaktiki/index.m3u8
-#EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="http://pl.ottg.app/icon/3269.png" group-title="Познавательные",Первый космический HD
+#EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные",Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/3719.png" group-title="Познавательные",Телекафе
+#EXTINF:-1 tvg-logo="http://epg.one/img/2304.png" group-title="Познавательные",Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/9708.png" group-title="Познавательные",Кухня ТВ
+#EXTINF:-1 tvg-logo="http://epg.one/img/614.png" group-title="Познавательные",Кухня ТВ
 http://stream01.vnet.am/KukhnyaTv/mono.m3u8
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/5291.png" group-title="Познавательные",DocuBox HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HtTBZLF.png" group-title="Познавательные",DocuBox HD
 http://2.57.217.197:8080/play/a093/index.m3u8
-#EXTINF:-1 tvg-id="tlc-blk" tvg-logo="http://pl.ottg.app/icon/9012.png" group-title="Познавательные",TLC
+#EXTINF:-1 tvg-id="tlc-blk" tvg-logo="https://i.imgur.com/eCXHL6H.png" group-title="Познавательные",TLC
 http://s5.merlive.am:80/tlc/index.m3u8
-#EXTINF:-1 tvg-id="terra-ru" tvg-logo="http://pl.ottg.cc/icon/8661.png" group-title="Познавательные",TERRA HD
+#EXTINF:-1 tvg-id="terra-ru" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные",TERRA HD
 http://s3.merlive.am:80/Terrahd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QZeAmbc.png" group-title="Познавательные",RTG HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/648.png" group-title="Познавательные",RTG HD
 http://s3.merlive.am/rtghd/index.m3u8
 #EXTINF:-1 tvg-id="365-dnej" tvg-logo="http://pl.ottg.cc/icon/2331.png" group-title="Познавательные",365 дней ТВ
 https://s1.merlive.am/365dnei/index.m3u8
