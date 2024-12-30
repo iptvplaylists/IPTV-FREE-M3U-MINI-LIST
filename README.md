@@ -255,7 +255,7 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w241461456.m3u8
 #EXTINF:-1 tvg-id="no_epg_music" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/6680.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-id="deluxedance-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXz77UGspKEtmz4yF49vhT6bPMzkoVD7cHabx6Y3vgzOzE_oyRhlL0ZVhCWzsQgFgP425KOZa-dO4A1_2zzRUXUr3ilD6DrFXGS7gMXssXQR2umE-3tg27YRczvGVnDCMi3Bl37tlTr20YVrVH6B8Y4Sz9Sjz2CnMD5-xk2eHu8uADhMEHGM97q9kGuYK9/s1600-rw/10.png" group-title="Музыкальные",Deluxe Dance HD
+#EXTINF:-1 tvg-id="deluxedance-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/7z0eU41.png" group-title="Музыкальные",Deluxe Dance HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-id="inrating" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/7933.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",INRATING TV HD
 http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
