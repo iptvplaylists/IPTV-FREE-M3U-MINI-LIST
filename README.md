@@ -493,7 +493,7 @@ http://ott-cdn.ucom.am/s46/index.m3u8
 https://irylek.ct8.pl/stream/tvp1hd
 #EXTINF:-1 tvg-id="4497" tvg-logo="http://epg.one/img/4497.png" group-title="Зарубежные",TVP 2 HD PL
 https://irylek.ct8.pl/stream/tvp2hd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rMCAjPR.png" group-title="Зарубежные",TVP 3 HD PL
+#EXTINF:-1 tvg-logo="http://epg.one/img/4489.png" group-title="Зарубежные",TVP 3 HD PL
 https://irylek.ct8.pl/stream/tvp3warszawahd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dobFXNH.png" group-title="Зарубежные",TVP Historia HD PL
 https://irylek.ct8.pl/stream/tvphistoria
