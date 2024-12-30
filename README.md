@@ -183,21 +183,21 @@ https://clck.ru/3F6ZUq
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrUGF7I.png" group-title="Новости",360
 http://dmi3y-tv.ru/hls/CH_360TV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8gC9tI8.png" group-title="Новости",РБК HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/743.png" group-title="Новости",РБК HD
 http://dmi3y-tv.ru/hls/CH_RBKHD.m3u8
-#EXTINF:-1 tvg-id="mir-24" tvg-logo="http://pl.ottg.app/icon/1306.png" group-title="Новости",МИР-24 HD
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="http://epg.one/img/2078.png" group-title="Новости",МИР-24 HD
 http://dmi3y-tv.ru/hls/CH_MIR24HD.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="http://pl.ottg.app/icon/7146.png" group-title="Новости",Россия 24
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="http://epg.one/img/1683.png" group-title="Новости",Россия 24
 http://stream01.vnet.am/Rossia24/mono.m3u8
-#EXTINF:-1 tvg-id="moskva-24" tvg-logo="http://pl.ottg.cc/icon/7554.png" group-title="Новости",Москва24
+#EXTINF:-1 tvg-id="moskva-24" tvg-logo="http://epg.one/img/334.png" group-title="Новости",Москва24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/moscow_24/playlist_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vy0dMx9.png" group-title="Новости",КРЫМ 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/7518.png" group-title="Новости",Беларусь 24 HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/2170.png" group-title="Новости",Беларусь 24 HD
 https://clck.ru/3F6ZUK
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/6969.png" group-title="Новости",Russia Today HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/2269.png" group-title="Новости",Russia Today HD
 http://dmi3y-tv.ru/hls/CH_RTDHD.m3u8
-#EXTINF:-1 tvg-id="dojd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/1238.png" group-title="Новости",ДОЖДЬ HD
+#EXTINF:-1 tvg-id="dojd" tvg-rec="7" tvg-logo="http://epg.one/img/2399.png" group-title="Новости",ДОЖДЬ HD
 https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b8192000.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="http://pl.ottg.cc/icon/9375.png" group-title="Мультфильмы",В гостях у сказки
 https://s1.merlive.am/vgostyaxuskazki/index.m3u8
