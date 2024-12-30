@@ -285,7 +285,7 @@ http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 tvg-id="popstar-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixclB1UBuaRgoVnwGOKJm2Yz5Nq9pvt4Rtq_iMtRqXLxytLzbN-tMqq2bBM6LOxz7S5-PT_FHNMG1dWXHT8o7yEoHMXcovm4LHOpU5Y-JpSXc2Nclg52dqu3MC6c5CFSjwMNg1ryvuozgringjHEBuYujOXot_2Y9onpGUEjPDUO8dZylHh2U0e50NpcEo/s1600-rw/22.png" group-title="Музыкальные",POP STAR
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgejt6WEbRIMF853GvDeY4ZRu7hR_AawYoNXsmBAdBKLNM10cDl5L_GvdpMocBk2bQIqA0jVCiQD-ffEIXfqKkQn5ED-fhzlkNmT9GzN6KV0q6ACvYUu-QhaIfZ4T5TNrgT8CAPwnrEnvz6jSlUcbEXQk02sPtmGePoa22BSvdjNQGYO2pbv-ja-zQ-tLQx/s1600-rw/20.png" group-title="Музыкальные",TMF MUSIC HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ctm2c0.png" group-title="Музыкальные",TMF MUSIC HD
 http://195.9.195.3:8080/hls/201891.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7I7mVMsudBtZ7HbUc0XUjOo_02LFH920Ag5z4Pmg355IdvZ5C2Pa6u-eH4wq5PZLpDjzgu-Vu7i8wn13lgeE_uBc2fwVRapzV4aWu4mSUf63Ifge2B8d17KyQ6k3hXaSgDEhUM5HL8OnZQ27LoGiJJJAcETmDdO0AVOXslkmf-KREeJdsq9BfKuhVOM7H/s1600-rw/02.png" group-title="Музыкальные",AFROBEATS HD
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
