@@ -397,29 +397,29 @@ http://s7.merlive.am/ktoestkto/index.m3u8
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://pl.ottg.cc/icon/1515.png" group-title="Спортивные",Eurosport 1 HD
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://epg.one/img/2052.png" group-title="Спортивные",Eurosport 1 HD
 http://s1.merlive.am/eurosport1/index.m3u8
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://pl.ottg.cc/icon/1525.png" group-title="Спортивные",Eurosport 2 HD
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://epg.one/img/4313.png" group-title="Спортивные",Eurosport 2 HD
 http://s1.merlive.am/eurosport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2czroOb.png" group-title="Спортивные",Беларусь 5 HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/2541.png" group-title="Спортивные",Беларусь 5 HD
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1049318557_b2660000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1949.png" group-title="Спортивные",FightBox
+#EXTINF:-1 tvg-logo="http://epg.one/img/3792.png" group-title="Спортивные",FightBox
 http://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/9550.png" group-title="Спортивные",Бокс ТВ HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/2285.png" group-title="Спортивные",Бокс ТВ HD
 http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 tvg-id="Auto24" tvg-logo="https://i.imgur.com/LP8OMKh.png" group-title="Спортивные",Авто 24
 http://s3.merlive.am/avto24/index.m3u8
-#EXTINF:-1 tvg-id="avto-plus" tvg-logo="http://pl.ottg.app/icon/2339.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спортивные",Авто Плюс
+#EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://i.imgur.com/HU7SaRd.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спортивные",Авто Плюс
 http://s1.merlive.am:80/Avtoplus/index.m3u8
-#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://pl.ottg.cc/icon/2839.png" group-title="Спортивные",viju+ Sport
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спортивные",viju+ Sport
 http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://pl.ottg.cc/icon/5292.png" group-title="Спортивные",Матч! HD
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2051.png" group-title="Спортивные",Матч! HD
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="http://pl.ottg.cc/icon/3226.png" group-title="Спортивные",Матч! Арена
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="http://epg.one/img/2003.png" group-title="Спортивные",Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-#EXTINF:-1 tvg-id="match-planeta" tvg-logo="http://pl.ottg.cc/icon/2616.png" group-title="Спортивные",Матч! Планета
+#EXTINF:-1 tvg-id="match-planeta" tvg-logo="http://epg.one/img/2043.png" group-title="Спортивные",Матч! Планета
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="match-premier" tvg-logo="http://pl.ottg.cc/icon/7517.png" group-title="Спортивные",Матч! Премьер
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="http://epg.one/img/2250.png" group-title="Спортивные",Матч! Премьер
 http://s1.merlive.am/matchpremier/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Fast Sports HD
 http://stream01.vnet.am/Channel_131/mono.m3u8
@@ -427,15 +427,15 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
 #EXTINF:-1 tvg-id="2904" tvg-logo="http://epg.one/img/2904.png" group-title="Спортивные",TVP Sport HD
 https://irylek.ct8.pl/stream/tvpsport
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QSR3kph.png" group-title="Спортивные",Red Bull TV HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/6039.png" group-title="Спортивные",Red Bull TV HD
 http://dmi3y-tv.ru/hls/CH_REDBULLTVHD.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/WSB0k5v.png" group-title="Спортивные",NHL Network
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
-#EXTINF:-1 tvg-id="кхл" tvg-logo="http://pl.ottg.cc/icon/2957.png" group-title="Спортивные",KHL
+#EXTINF:-1 tvg-id="кхл" tvg-logo="http://epg.one/img/2048.png" group-title="Спортивные",KHL
 http://stream01.vnet.am/Channel_113/mono.m3u8
-#EXTINF:-1 tvg-id="kxl-hd" tvg-logo="http://pl.ottg.cc/icon/9596.png" group-title="Спортивные",KHL Prime HD
+#EXTINF:-1 tvg-id="kxl-hd" tvg-logo="http://epg.one/img/1038.png" group-title="Спортивные",KHL Prime HD
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
-#EXTINF:-1 tvg-id="konny-mir" tvg-logo="http://pl.ottg.cc/icon/8609.png" group-title="Спортивные",Конный мир
+#EXTINF:-1 tvg-id="konny-mir" tvg-logo="http://epg.one/img/1679.png" group-title="Спортивные",Конный мир
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="h1-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2060.png" group-title="Армения",Առաջին Ալիք HD
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
