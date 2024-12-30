@@ -131,23 +131,23 @@ http://2.57.217.197:8080/play/a08j/index.m3u8
 http://2.57.217.197:8080/play/a08i/index.m3u8
 #EXTINF:-1 tvg-id="vip-serial" tvg-logo="http://epg.one/img/2838.png" group-title="Кино",viju+ Serial HD
 https://s3.merlive.am/vipserialhd/index.m3u8
-#EXTINF:-1 tvg-id="amedia1-hd" tvg-logo="http://pl.ottg.app/icon/7386.png" group-title="Кино",Amedia 1
+#EXTINF:-1 tvg-id="amedia1-hd" tvg-logo="http://epg.one/img/1371.png" group-title="Кино",Amedia 1
 http://s1.merlive.am:80/Amedia1/index.m3u8
-#EXTINF:-1 tvg-id="amedia2" tvg-logo="http://pl.ottg.cc/icon/7515.png" group-title="Кино",Amedia 2
+#EXTINF:-1 tvg-id="amedia2" tvg-logo="http://epg.one/img/2492.png" group-title="Кино",Amedia 2
 http://stream01.vnet.am/Zagorodniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x6Ozt8o.png" group-title="Кино",Amedia hit HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/2007.png" group-title="Кино",Amedia hit HD
 http://stream01.vnet.am/Nauka/index.m3u8
-#EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-logo="http://pl.ottg.app/icon/3610.png" group-title="Кино",Amedia Premium HD
+#EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-logo="http://epg.one/img/1372.png" group-title="Кино",Amedia Premium HD
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
-#EXTINF:-1 tvg-id="flixsnip" tvg-logo="http://pl.ottg.cc/icon/4690.png" group-title="Кино",FlixSnip
+#EXTINF:-1 tvg-id="flixsnip" tvg-logo="http://epg.one/img/774.png" group-title="Кино",FlixSnip
 http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/9754.png" group-title="Кино",Fox
+#EXTINF:-1 tvg-logo="http://epg.one/img/1031.png" group-title="Кино",Fox
 https://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AcN2pl0.png" group-title="Кино",Sci-Fi
+#EXTINF:-1 tvg-logo="http://epg.one/img/516.png" group-title="Кино",Sci-Fi
 http://s1.merlive.am:80/Sci-Fi/index.m3u8
 #EXTINF:-1 tvg-id="star-cinema" tvg-logo="http://pl.ottg.app/icon/5109.png" group-title="Кино",Star Cinema
 http://s1.merlive.am:80/starsinema/index.m3u8
-#EXTINF:-1 tvg-id="romance" tvg-logo="https://i.imgur.com/QieJesq.png" group-title="Кино",Romance HD
+#EXTINF:-1 tvg-id="romance" tvg-logo="http://epg.one/img/9179.png" group-title="Кино",Romance HD
 http://88.218.242.237:8000/play/a004
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://pl.ottg.cc/icon/8833.png" group-title="Кино",Русский роман
 http://stream01.vnet.am/RusskiyRoman/mono.m3u8
