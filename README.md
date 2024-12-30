@@ -36,7 +36,7 @@ http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 tvg-id="tnt-hd" tvg-logo="http://pl.ottg.app/icon/1337.png" group-title="Общероссийские",ТНТ HD
 https://s3.merlive.am/tnthd/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl4" tvg-logo="http://pl.ottg.cc/icon/8594.png" group-title="Общероссийские",ТНТ +4
-https://s1.merlive.am/tnt/index.m3u8
+https://s3.merlive.am/tntplus4/index.m3u8
 #EXTINF:-1 tvg-id="tnt4-hd" tvg-logo="http://pl.ottg.app/icon/5889.png" group-title="Общероссийские",ТНТ4 HD
 https://s3.merlive.am/tnt4/index.m3u8
 #EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/8082.png" group-title="Общероссийские",РЕН ТВ HD
@@ -346,7 +346,7 @@ http://2.57.217.197:8080/play/a093/index.m3u8
 #EXTINF:-1 tvg-id="tlc-blk" tvg-logo="http://pl.ottg.app/icon/9012.png" group-title="Познавательные",TLC
 http://s5.merlive.am:80/tlc/index.m3u8
 #EXTINF:-1 tvg-id="terra-ru" tvg-logo="http://pl.ottg.cc/icon/8661.png" group-title="Познавательные",TERRA
-https://s3.merlive.am/izvestiatv/index.m3u8
+http://s3.merlive.am:80/Terrahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QZeAmbc.png" group-title="Познавательные",RTG HD
 http://s3.merlive.am/rtghd/index.m3u8
 #EXTINF:-1 tvg-id="365-dnej" tvg-logo="http://pl.ottg.cc/icon/2331.png" group-title="Познавательные",365 дней ТВ
