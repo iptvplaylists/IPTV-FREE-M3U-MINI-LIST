@@ -267,27 +267,27 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/chunklist_w891012176.m3u8
 #EXTINF:-1 tvg-id="retroplus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5380.png" group-title="Музыкальные",RETRO PLUS TV
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1570192527.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLJ6w_MdGJynu6TvKaGg-PNuIUeueNpJ_CjQCp22yvC54VoVlByxdZ7yvnryDp5EP7riaMJbNf7fTu-2jHA_gUFDGz0Dh-8S5bMJhDU0Dg8KD_ksYWDipZL60XzAKFnGt9vpuV0QZdv0F-BrSuUwYPyW4XJeXBEF2dvg2TKwZCBNnjzepB6tz8IpeGMB_B/s1600-rw/12.png" group-title="Музыкальные",PMC TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hX7t09l.png" group-title="Музыкальные",PMC TV
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="pulse-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGe7tzS-WjTfIBH4X3cqWxXgw7dPHVz4H9S4hynk1lLKa-LiE6dmMq_Wm7Q4VyWrxHkKCjC6V6oCqUkgFbOn_mW0dEnQqkHUQRDjyfmEEohYP6RiCnW3PMEZQGk2DZ1GijZVz7dosR0sePyZ2rlW7eOuLr3C0GIE0SHhGs6VYL5ZzZm37v2hS3Y9ebCn2C/s1600-rw/13.png" group-title="Музыкальные",PMC Royale
+#EXTINF:-1 tvg-id="pulse-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/6C0wRq7.png" group-title="Музыкальные",PMC Royale
 https://rohls.pmc.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="xite-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjprq8K7kR0LYRJAiPWmAhr7fPbcDkcrkUzEwbE2gaef4c6mvNIOLIAZJoroSxjAMCk9aWE-qg_5rn2u-G-bsvI6HF0iPQbJKn6HqcT7SFpTTM98RnsElVdkOGXm9ZgmFk0KlmbrIMZ7hzpiAnAO1Kc81im6_5Xa7xNhcw7sdKNV4pVQeGaO1fQ0_Jd-aNo/s1600-rw/14.png" group-title="Музыкальные",XITE
+#EXTINF:-1 tvg-id="xite-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/qlQ0mTG.png" group-title="Музыкальные",XITE
 https://xite-samsung-de.amagi.tv/720p-vtt/index.m3u8
-#EXTINF:-1 tvg-id="viva-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibTqz9Q3_ueDKdiC2KG6QLhXD1jpGD0HPT1CCNyL2hb5Qc1ksscXFu6Q8YASclimNKTKx2HK4454xN03x0wXKb8c8KFsVdsvidfrepCeU4mt2T53TlPAxunAjSgTy-z23GNQmruS0mEOha5m4rNzMdsD9j5BC2t70SuCbgMHzbjV7bGPRTzEIcRCGNJUOR/s1600-rw/15.png" group-title="Музыкальные",VIVO TV
+#EXTINF:-1 tvg-id="viva-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/dd3y0R9.png" group-title="Музыкальные",VIVO TV
 https://stream.vivotv.uy/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",VIVA Russia HD
 https://ssh101-fl.bozztv.com/ssh101/vivarussia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="beat-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5483.png" group-title="Музыкальные",Beat HD
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrCLuosgu9nVnCVvm3J2V-U_87wgN5HBbW0FiEfPyn443OEGldILI7oB14qX9aIfW70T5365PenTKoSTaDxMPlG4frBaGVG_WI3GIY3dNxTVnhedAelb6Xnj5cvAdtSsCpsmrgy0ipnvU2aGeV9jqrrnGq37VMxtos4xlj2ECO2CTlDMe_LbhmrW2mjqgE/s1600-rw/16.png" group-title="Музыкальные",Reload TV
+#EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/O8hhoYD.png" group-title="Музыкальные",Reload TV
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
-#EXTINF:-1 tvg-id="muzzikhiphop-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHHa3Os19a1ppnqQhHyJug_wlhh6TNCCMbGLRAurMnotjCtEXgjNuW1zPiIGEUh78k6QxgAs1rEGM-ZOSLW06c63DGowdqMrm5oE6CFy9_nm2Kj7VHDp8-hZHX2-0oDQNrZ20wwxf2ZN7mW9kK5auOVhFV0qiJ6HTWFmYyC_JXz4eLUR_Qurd3EiuKArXN/s1600-rw/21.png" group-title="Музыкальные",MUZZIK HIP-HOP
+#EXTINF:-1 tvg-id="muzzikhiphop-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/4155q09.png" group-title="Музыкальные",MUZZIK HIP-HOP
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 tvg-id="popstar-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixclB1UBuaRgoVnwGOKJm2Yz5Nq9pvt4Rtq_iMtRqXLxytLzbN-tMqq2bBM6LOxz7S5-PT_FHNMG1dWXHT8o7yEoHMXcovm4LHOpU5Y-JpSXc2Nclg52dqu3MC6c5CFSjwMNg1ryvuozgringjHEBuYujOXot_2Y9onpGUEjPDUO8dZylHh2U0e50NpcEo/s1600-rw/22.png" group-title="Музыкальные",POP STAR
+#EXTINF:-1 tvg-id="popstar-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/47bZSqo.png" group-title="Музыкальные",POP STAR
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ctm2c0.png" group-title="Музыкальные",TMF MUSIC HD
 http://195.9.195.3:8080/hls/201891.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7I7mVMsudBtZ7HbUc0XUjOo_02LFH920Ag5z4Pmg355IdvZ5C2Pa6u-eH4wq5PZLpDjzgu-Vu7i8wn13lgeE_uBc2fwVRapzV4aWu4mSUf63Ifge2B8d17KyQ6k3hXaSgDEhUM5HL8OnZQ27LoGiJJJAcETmDdO0AVOXslkmf-KREeJdsq9BfKuhVOM7H/s1600-rw/02.png" group-title="Музыкальные",AFROBEATS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PYrGe5s.png" group-title="Музыкальные",AFROBEATS HD
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="http://pl.ottg.cc/icon/8299.png" group-title="Музыкальные",MTV Live HD
 http://stream01.vnet.am/Channel_117/mono.m3u8
