@@ -1,65 +1,65 @@
 #EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/05oHCea.png" group-title="Информация",Наш блог 👉 onlinetvalex.blogspot.com
 https://onlinetvalex.blogspot.com/
-#EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый HD
+#EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://epg.one/img/983.png" group-title="Общероссийские",Первый HD
 https://tv.streams.baikal-telecom.net/PerviyHD/index.m3u8
-#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="http://pl.ottg.cc/icon/9664.png" group-title="Общероссийские",Первый канал +4
+#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="http://epg.one/img/3025.png" group-title="Общероссийские",Первый канал +4
 http://stream02.vnet.am/PerviyKanal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5963.png" group-title="Общероссийские",Россия 1 HD
+#EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://epg.one/img/984.png" group-title="Общероссийские",Россия 1 HD
 http://stream02.vnet.am/Rossia1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="rossija-k-hd" tvg-rec="7" tvg-logo="http://pl.ottg.cc/icon/4539.png" group-title="Общероссийские",Россия Культура
+#EXTINF:-1 tvg-id="rossija-k-hd" tvg-rec="7" tvg-logo="http://epg.one/img/187.png" group-title="Общероссийские",Россия Культура
 http://flu.ttk.mx:90/Kultura/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-id="ntv-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2017.png" group-title="Общероссийские",НТВ HD
+#EXTINF:-1 tvg-id="ntv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/2001.png" group-title="Общероссийские",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 tvg-id="ntv-mir" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/7870.png" group-title="Общероссийские",НТВ Мир
+#EXTINF:-1 tvg-id="ntv-mir" tvg-rec="7" tvg-logo="http://epg.one/img/7258.png" group-title="Общероссийские",НТВ Мир
 http://stream02.vnet.am/HTB/mono.m3u8
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1445.png" group-title="Общероссийские",НТВ Хит
+#EXTINF:-1 tvg-logo="http://epg.one/img/2041.png" group-title="Общероссийские",НТВ Хит
 http://s1.merlive.am:80/ntvxit/index.m3u8
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/8025.png" group-title="Общероссийские",НТВ Право
+#EXTINF:-1 tvg-logo="http://epg.one/img/1753.png" group-title="Общероссийские",НТВ Право
 http://s1.merlive.am:80/ntvpravo/index.m3u8
-#EXTINF:-1 tvg-logo="http://pl.ottg.cc/icon/6190.png" group-title="Общероссийские",НТВ Стиль
+#EXTINF:-1 tvg-logo="http://epg.one/img/1755.png" group-title="Общероссийские",НТВ Стиль
 http://s1.merlive.am:80/ntvstil/index.m3u8
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/3213.png" group-title="Общероссийские",НТВ Сериал
+#EXTINF:-1 tvg-logo="http://epg.one/img/1754.png" group-title="Общероссийские",НТВ Сериал
 https://cdn.ntv.ru/th_serial/index.m3u8
-#EXTINF:-1 tvg-id="mir-hd" tvg-rec="7" tvg-logo="http://pl.ottg.cc/icon/2810.png" group-title="Общероссийские",Мир
+#EXTINF:-1 tvg-id="mir-hd" tvg-rec="7" tvg-logo="http://epg.one/img/726.png" group-title="Общероссийские",Мир
 http://s1.merlive.am:80/Mir/index.m3u8
-#EXTINF:-1 tvg-id="8-kanal" tvg-logo="http://pl.ottg.app/icon/2455.png" group-title="Общероссийские",8 канал
+#EXTINF:-1 tvg-id="8-kanal" tvg-logo="http://epg.one/img/4659.png" group-title="Общероссийские",8 канал
 http://s1.merlive.am:80/8Kanal/index.m3u8
-#EXTINF:-1 tvg-id="ctc-hd" tvg-logo="http://pl.ottg.app/icon/2990.png" group-title="Общероссийские",СТС HD
+#EXTINF:-1 tvg-id="ctc-hd" tvg-logo="http://epg.one/img/79.png" group-title="Общероссийские",СТС HD
 https://s1.merlive.am/stshd/index.m3u8
-#EXTINF:-1 tvg-id="sts-love" tvg-logo="http://pl.ottg.app/icon/6621.png" group-title="Общероссийские",СТС Love
+#EXTINF:-1 tvg-id="sts-love" tvg-logo="http://epg.one/img/1322.png" group-title="Общероссийские",СТС Love
 http://s1.merlive.am:80/stslove/index.m3u8
-#EXTINF:-1 tvg-id="4e" tvg-logo="http://pl.ottg.app/icon/8708.png" group-title="Общероссийские",Че
+#EXTINF:-1 tvg-id="4e" tvg-logo="http://epg.one/img/1598.png" group-title="Общероссийские",Че
 https://s1.merlive.am/chetv/index.m3u8
-#EXTINF:-1 tvg-id="perec" tvg-logo="http://pl.ottg.app/icon/5850.png" group-title="Общероссийские",Перец
+#EXTINF:-1 tvg-id="perec" tvg-logo="http://epg.one/img/5651.png" group-title="Общероссийские",Перец
 http://stream01.vnet.am/Perec/mono.m3u8
-#EXTINF:-1 tvg-id="tnt-hd" tvg-logo="http://pl.ottg.app/icon/1337.png" group-title="Общероссийские",ТНТ HD
+#EXTINF:-1 tvg-id="tnt-hd" tvg-logo="http://epg.one/img/1767.png" group-title="Общероссийские",ТНТ HD
 https://s3.merlive.am/tnthd/index.m3u8
-#EXTINF:-1 tvg-id="tnt-pl4" tvg-logo="http://pl.ottg.cc/icon/8594.png" group-title="Общероссийские",ТНТ +4
+#EXTINF:-1 tvg-id="tnt-pl4" tvg-logo="http://epg.one/img/3023.png" group-title="Общероссийские",ТНТ +4
 https://s3.merlive.am/tntplus4/index.m3u8
-#EXTINF:-1 tvg-id="tnt4-hd" tvg-logo="http://pl.ottg.cc/icon/4848.png" group-title="Общероссийские",ТНТ4
+#EXTINF:-1 tvg-id="tnt4-hd" tvg-logo="http://epg.one/img/1649.png" group-title="Общероссийские",ТНТ4
 https://s3.merlive.am/tnt4/index.m3u8
-#EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://pl.ottg.cc/icon/6401.png" group-title="Общероссийские",РЕН ТВ
+#EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/18.png" group-title="Общероссийские",РЕН ТВ
 http://185.23.80.28:8080/REN/index.m3u8
-#EXTINF:-1 tvg-id="tvc-hd" tvg-logo="http://pl.ottg.cc/icon/7846.png" group-title="Общероссийские",ТВЦ
+#EXTINF:-1 tvg-id="tvc-hd" tvg-logo="http://epg.one/img/649.png" group-title="Общероссийские",ТВЦ
 http://flu.ttk.mx:90/TVC/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-id="otp" tvg-logo="http://pl.ottg.app/icon/2345.png" group-title="Общероссийские",ОТР
+#EXTINF:-1 tvg-id="otp" tvg-logo="http://epg.one/img/1000.png" group-title="Общероссийские",ОТР
 http://flu.ttk.mx:90/OTR/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-id="yu-tv" tvg-logo="http://pl.ottg.app/icon/4785.png" group-title="Общероссийские",Ю ТВ
+#EXTINF:-1 tvg-id="yu-tv" tvg-logo="http://epg.one/img/898.png" group-title="Общероссийские",Ю ТВ
 https://tv.streams.baikal-telecom.net/U/index.m3u8
-#EXTINF:-1 tvg-id="5kanal" tvg-logo="http://pl.ottg.app/icon/4750.png" group-title="Общероссийские",5 канал
+#EXTINF:-1 tvg-id="5kanal" tvg-logo="http://epg.one/img/427.png" group-title="Общероссийские",5 канал
 http://flu.ttk.mx:90/5kanal/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-id="domashnij-hd" tvg-logo="http://pl.ottg.cc/icon/9505.png" group-title="Общероссийские",Домашний
+#EXTINF:-1 tvg-id="domashnij-hd" tvg-logo="http://epg.one/img/304.png" group-title="Общероссийские",Домашний
 https://s3.merlive.am/domashni/index.m3u8
-#EXTINF:-1 tvg-id="piatnica-hd" tvg-logo="http://pl.ottg.cc/icon/3755.png" group-title="Общероссийские",Пятница
+#EXTINF:-1 tvg-id="piatnica-hd" tvg-logo="http://epg.one/img/1003.png" group-title="Общероссийские",Пятница
 http://s1.merlive.am:80/Pyatnica/index.m3u8
-#EXTINF:-1 tvg-id="super-hd" tvg-logo="http://pl.ottg.app/icon/3894.png" group-title="Общероссийские",Суббота HD
+#EXTINF:-1 tvg-id="super-hd" tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота HD
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
-#EXTINF:-1 tvg-id="zvezda-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/9348.png" group-title="Общероссийские",Звезда HD
+#EXTINF:-1 tvg-id="zvezda-hd" tvg-rec="7" tvg-logo="http://epg.one/img/405.png" group-title="Общероссийские",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="zvezda-plus-hd" tvg-rec="7" tvg-logo="http://pl.ottg.cc/icon/6511.png" group-title="Общероссийские",Звезда Плюс
+#EXTINF:-1 tvg-id="zvezda-plus-hd" tvg-rec="7" tvg-logo="http://epg.one/img/6669.png" group-title="Общероссийские",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-id="tv3-hd" tvg-logo="http://pl.ottg.cc/icon/7473.png" group-title="Общероссийские",ТВ3
+#EXTINF:-1 tvg-id="tv3-hd" tvg-logo="http://epg.one/img/698.png" group-title="Общероссийские",ТВ3
 http://stream01.vnet.am/Channel_121/mono.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.cc/icon/7017.png" group-title="Общероссийские",СТВ
 https://edge55.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1789650572.m3u8
