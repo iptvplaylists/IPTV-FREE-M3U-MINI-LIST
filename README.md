@@ -149,23 +149,23 @@ http://s1.merlive.am:80/Sci-Fi/index.m3u8
 http://s1.merlive.am:80/starsinema/index.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-logo="http://epg.one/img/9179.png" group-title="Кино",Romance HD
 http://88.218.242.237:8000/play/a004
-#EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://pl.ottg.cc/icon/8833.png" group-title="Кино",Русский роман
+#EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://epg.one/img/401.png" group-title="Кино",Русский роман
 http://stream01.vnet.am/RusskiyRoman/mono.m3u8
-#EXTINF:-1 tvg-id="dom-kino" tvg-logo="http://pl.ottg.app/icon/2851.png" group-title="Кино",Дом Кино
+#EXTINF:-1 tvg-id="dom-kino" tvg-logo="http://epg.one/img/834.png" group-title="Кино",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
-#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="http://pl.ottg.cc/icon/6799.png" group-title="Кино",Дом кино Премиум
+#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="http://epg.one/img/2020.png" group-title="Кино",Дом кино Премиум
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="pobeda" tvg-logo="http://pl.ottg.cc/icon/8934.png" group-title="Кино",Победа
+#EXTINF:-1 tvg-id="pobeda" tvg-logo="http://epg.one/img/2447.png" group-title="Кино",Победа
 http://s3.merlive.am/pobeda/index.m3u8
-#EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://pl.ottg.cc/icon/2273.png" group-title="Кино",Арсенал HD
+#EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD
 http://stream01.vnet.am/Tekhno24/mono.m3u8
-#EXTINF:-1 tvg-id="zee-tv" tvg-logo="http://pl.ottg.cc/icon/4319.png" group-title="Кино",Индия
+#EXTINF:-1 tvg-id="zee-tv" tvg-logo="http://epg.one/img/2233.png" group-title="Кино",Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ovrgN5w.png" group-title="Кино",Bollywood HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/1395.png" group-title="Кино",Bollywood HD
 http://s1.merlive.am:80/Bollywood/index.m3u8
-#EXTINF:-1 tvg-id="vhs-ка" tvg-logo="http://pl.ottg.cc/icon/7369.png" group-title="Кино",VHS-ка HD
+#EXTINF:-1 tvg-id="vhs-ка" tvg-logo="http://epg.one/img/9065.png" group-title="Кино",VHS-ка HD
 http://88.218.242.237:8000/play/a00x
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J1WQkLr.png" group-title="Кино",Видеокассета HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кино",Видеокассета HD
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UUhf8W6.png" group-title="Кино",1Filmax
 http://195.9.195.3:8080/hls/204708.m3u8
