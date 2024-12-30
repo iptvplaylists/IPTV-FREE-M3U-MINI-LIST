@@ -199,7 +199,7 @@ https://clck.ru/3F6ZUK
 http://dmi3y-tv.ru/hls/CH_RTDHD.m3u8
 #EXTINF:-1 tvg-id="dojd" tvg-rec="7" tvg-logo="http://epg.one/img/2399.png" group-title="Новости",ДОЖДЬ HD
 https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b8192000.m3u8
-#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="http://pl.ottg.cc/icon/9375.png" group-title="Мультфильмы",В гостях у сказки
+#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="http://epg.one/img/2027.png" group-title="Мультфильмы",В гостях у сказки
 https://s1.merlive.am/vgostyaxuskazki/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/gOfbuWJ.png" group-title="Мультфильмы",2x2
 https://s1.merlive.am/2x2tv/index.m3u8
@@ -207,19 +207,19 @@ https://s1.merlive.am/2x2tv/index.m3u8
 https://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tR9j2Qn.png" group-title="Мультфильмы",Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
-#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="http://pl.ottg.cc/icon/5635.png" group-title="Мультфильмы",Cartoon network
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="http://epg.one/img/601.png" group-title="Мультфильмы",Cartoon network
 http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="detskij-mir-hd" tvg-logo="http://pl.ottg.app/icon/9295.png" group-title="Мультфильмы",Детский мир
+#EXTINF:-1 tvg-id="detskij-mir-hd" tvg-logo="http://epg.one/img/923.png" group-title="Мультфильмы",Детский мир
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
-#EXTINF:-1 tvg-id="ryzhij" tvg-logo="http://pl.ottg.app/icon/5672.png" group-title="Мультфильмы",Рыжий
+#EXTINF:-1 tvg-id="ryzhij" tvg-logo="http://epg.one/img/2437.png" group-title="Мультфильмы",Рыжий
 http://ott-cdn.ucom.am/s57/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icMGRl0.png" group-title="Мультфильмы",Disney Channel
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="nickelodeon-hd" tvg-logo="http://pl.ottg.app/icon/3240.png" group-title="Мультфильмы",Nickelodeon HD
+#EXTINF:-1 tvg-id="nickelodeon-hd" tvg-logo="http://epg.one/img/423.png" group-title="Мультфильмы",Nickelodeon HD
 http://stream01.vnet.am/Channel_114/mono.m3u8
-#EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="http://pl.ottg.app/icon/9954.png" group-title="Мультфильмы",СТС Kids
+#EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="http://epg.one/img/2481.png" group-title="Мультфильмы",СТС Kids
 http://stream02.vnet.am/DisneyChannel/mono.m3u8
-#EXTINF:-1 tvg-id="mult-hd" tvg-logo="http://pl.ottg.app/icon/9985.png" group-title="Мультфильмы",Мульт HD
+#EXTINF:-1 tvg-id="mult-hd" tvg-logo="http://epg.one/img/1332.png" group-title="Мультфильмы",Мульт HD
 http://stream01.vnet.am/Mult/mono.m3u8
 #EXTINF:-1 tvg-id="karusel-hd" tvg-logo="http://epg.one/img/740.png" group-title="Мультфильмы",Карусель
 http://stream02.vnet.am/Karusel/mono.m3u8
