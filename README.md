@@ -253,13 +253,13 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4650.png" group-title="Музыкальные",91 NRG
 https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w241461456.m3u8
-#EXTINF:-1 tvg-id="no_epg_music" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/6680.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Deluxe Music
+#EXTINF:-1 tvg-id="no_epg_music" tvg-rec="0" tvg-logo="http://epg.one/img/8044.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="deluxedance-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/7z0eU41.png" group-title="Музыкальные",Deluxe Dance HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-id="inrating" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/7933.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",INRATING TV HD
+#EXTINF:-1 tvg-id="inrating" tvg-rec="0" tvg-logo="http://epg.one/img/6011.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",INRATING TV HD
 http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="trace-urban" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/7640.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Trace Urban HD
+#EXTINF:-1 tvg-id="trace-urban" tvg-rec="0" tvg-logo="http://epg.one/img/5597.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="spirit-tv" tvg-rec="0" tvg-logo="http://epg.one/img/4657.png" group-title="Музыкальные",SPIRIT TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
