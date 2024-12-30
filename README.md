@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
+#EXTM3U url-tvg="http://epg.it999.ru/ru.xml.gz" catchup-type="shift"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/05oHCea.png" group-title="Информация",Наш блог 👉 onlinetvalex.blogspot.com
 https://onlinetvalex.blogspot.com/
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://epg.one/img/983.png" group-title="Общероссийские",Первый HD
