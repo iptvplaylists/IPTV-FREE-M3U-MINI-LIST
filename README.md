@@ -145,7 +145,7 @@ http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/516.png" group-title="Кино",Sci-Fi
 http://s1.merlive.am:80/Sci-Fi/index.m3u8
-#EXTINF:-1 tvg-id="star-cinema" tvg-logo="http://pl.ottg.app/icon/5109.png" group-title="Кино",Star Cinema
+#EXTINF:-1 tvg-id="star-cinema" tvg-logo="https://i.imgur.com/nkSUoYw.png" group-title="Кино",Star Cinema
 http://s1.merlive.am:80/starsinema/index.m3u8
 #EXTINF:-1 tvg-id="romance" tvg-logo="http://epg.one/img/9179.png" group-title="Кино",Romance HD
 http://88.218.242.237:8000/play/a004
