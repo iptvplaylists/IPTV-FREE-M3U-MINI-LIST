@@ -17,7 +17,7 @@ http://stream02.vnet.am/HTB/mono.m3u8
 http://s1.merlive.am:80/ntvxit/index.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/8025.png" group-title="Общероссийские",НТВ Право
 http://s1.merlive.am:80/ntvpravo/index.m3u8
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/7069.png" group-title="Общероссийские",НТВ Стиль
+#EXTINF:-1 tvg-logo="http://pl.ottg.cc/icon/6190.png" group-title="Общероссийские",НТВ Стиль
 http://s1.merlive.am:80/ntvstil/index.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/3213.png" group-title="Общероссийские",НТВ Сериал
 https://cdn.ntv.ru/th_serial/index.m3u8
