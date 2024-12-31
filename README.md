@@ -521,7 +521,7 @@ https://dvrfl05.tulix.tv/gin-adjara/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2560.png" group-title="Зарубежные",1TV Georgia GE
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1 tvg-id="channel-11-il" tvg-logo="http://pl.ottg.app/icon/8247.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Зарубежные",11 Channel HD IL
+#EXTINF:-1 tvg-id="channel-11-il" tvg-logo="http://epg.one/img/2673.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Зарубежные",11 Channel HD IL
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-id="channel-12-il" tvg-logo="http://epg.one/img/2670.png" group-title="Зарубежные",12 Channel IL
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1732977596~acl=%2f*~data=hdntl~hmac=107393c6756aa2b354a7bd5f7921a630b22a85308d0f38cacc4d2be7c75019f6/profileManifest.m3u8?_uid=e222740e-9ad5-4b3b-9d9e-2bba7591ece3&rK=a2&_did=ceac49885fc164cc10012ab2d9bb0f28de7be35f
