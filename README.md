@@ -207,8 +207,6 @@ https://s1.merlive.am/vgostyaxuskazki/index.m3u8
 https://s1.merlive.am/2x2tv/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/XXNN6It.png" group-title="Мультфильмы",Nicktoons HD
 https://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tR9j2Qn.png" group-title="Мультфильмы",Мультимания
-http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 tvg-id="cartoon-network" tvg-logo="http://epg.one/img/601.png" group-title="Мультфильмы",Cartoon network
 http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="detskij-mir-hd" tvg-logo="http://epg.one/img/923.png" group-title="Мультфильмы",Детский мир
