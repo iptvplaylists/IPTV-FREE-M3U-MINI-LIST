@@ -1,14 +1,10 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru.xml.gz" catchup-type="shift"
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://epg.one/img/983.png" group-title="Общероссийские",Первый HD
 https://tv.streams.baikal-telecom.net/PerviyHD/index.m3u8
-#EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://epg.one/img/146.png" group-title="Общероссийские",Первый
-http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="http://epg.one/img/3025.png" group-title="Общероссийские",Первый канал +4
 http://stream02.vnet.am/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://epg.one/img/984.png" group-title="Общероссийские",Россия 1 HD
 http://stream02.vnet.am/Rossia1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://epg.one/img/711.png" group-title="Общероссийские",Россия 1
-http://s3.merlive.am:80/Rossia1/index.m3u8
 #EXTINF:-1 tvg-id="rossija-k-hd" tvg-rec="7" tvg-logo="http://epg.one/img/187.png" group-title="Общероссийские",Россия Культура
 http://flu.ttk.mx:90/Kultura/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="ntv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/2001.png" group-title="Общероссийские",НТВ HD
