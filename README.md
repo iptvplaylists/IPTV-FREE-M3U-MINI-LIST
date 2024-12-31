@@ -233,40 +233,8 @@ http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist_w424198474.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7hARI0.png" group-title="Музыкальные",Hits 360 HD
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PnwBe6B.png" group-title="Музыкальные",Baraza Music HD
-https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IjiQajc.png" group-title="Музыкальные",Clubbing TV HD
-https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-#EXTINF:-1 tvg-id="4673" tvg-logo="http://epg.one/img/4673.png" group-title="Музыкальные",Deejay TV HD
-https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-id="6625" tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="6627" tvg-logo="http://epg.one/img/6627.png" group-title="Музыкальные",Now 80s
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://epg.one/img/4653.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Kronehit HD
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m4IX3FR.png" group-title="Музыкальные",m2o TV HD
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/4672.png" group-title="Музыкальные",4Fun TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/4650.png" group-title="Музыкальные",91 NRG
-https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w241461456.m3u8
-#EXTINF:-1 tvg-id="no_epg_music" tvg-rec="0" tvg-logo="http://epg.one/img/8044.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-id="deluxedance-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/7z0eU41.png" group-title="Музыкальные",Deluxe Dance HD
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-id="inrating" tvg-rec="0" tvg-logo="http://epg.one/img/6011.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",INRATING TV HD
-http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="trace-urban" tvg-rec="0" tvg-logo="http://epg.one/img/5597.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Trace Urban HD
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="spirit-tv" tvg-rec="0" tvg-logo="http://epg.one/img/4657.png" group-title="Музыкальные",SPIRIT TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="zerouno-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5484.png" group-title="Музыкальные",Zerouno TV
-https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/chunklist_w891012176.m3u8
-#EXTINF:-1 tvg-id="retroplus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5380.png" group-title="Музыкальные",RETRO PLUS TV
-https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1570192527.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hX7t09l.png" group-title="Музыкальные",PMC TV
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="pulse-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/6C0wRq7.png" group-title="Музыкальные",PMC Royale
@@ -275,10 +243,6 @@ https://rohls.pmc.live/hls/stream.m3u8
 https://xite-samsung-de.amagi.tv/720p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="viva-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/dd3y0R9.png" group-title="Музыкальные",VIVO TV
 https://stream.vivotv.uy/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",VIVA Russia HD
-https://ssh101-fl.bozztv.com/ssh101/vivarussia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="beat-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5483.png" group-title="Музыкальные",Beat HD
-https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/O8hhoYD.png" group-title="Музыкальные",Reload TV
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 #EXTINF:-1 tvg-id="muzzikhiphop-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/4155q09.png" group-title="Музыкальные",MUZZIK HIP-HOP
@@ -289,6 +253,42 @@ https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 http://195.9.195.3:8080/hls/201891.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PYrGe5s.png" group-title="Музыкальные",AFROBEATS HD
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-rec="0" tvg-logo="http://epg.one/img/8044.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="deluxedance-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/7z0eU41.png" group-title="Музыкальные",Deluxe Dance HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PnwBe6B.png" group-title="Музыкальные",Baraza Music HD
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="6625" tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6627" tvg-logo="http://epg.one/img/6627.png" group-title="Музыкальные",Now 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IjiQajc.png" group-title="Музыкальные",Clubbing TV HD
+https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
+#EXTINF:-1 tvg-id="4673" tvg-logo="http://epg.one/img/4673.png" group-title="Музыкальные",Deejay TV HD
+https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://epg.one/img/4653.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/4672.png" group-title="Музыкальные",4Fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/4650.png" group-title="Музыкальные",91 NRG
+https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w241461456.m3u8
+#EXTINF:-1 tvg-id="spirit-tv" tvg-rec="0" tvg-logo="http://epg.one/img/4657.png" group-title="Музыкальные",SPIRIT TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="zerouno-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5484.png" group-title="Музыкальные",Zerouno TV
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/chunklist_w891012176.m3u8
+#EXTINF:-1 tvg-id="retroplus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5380.png" group-title="Музыкальные",RETRO PLUS TV
+https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1570192527.m3u8
+#EXTINF:-1 tvg-id="beat-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5483.png" group-title="Музыкальные",Beat HD
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1 tvg-id="inrating" tvg-rec="0" tvg-logo="http://epg.one/img/6011.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",INRATING TV HD
+http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="trace-urban" tvg-rec="0" tvg-logo="http://epg.one/img/5597.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Trace Urban HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",VIVA Russia HD
+https://ssh101-fl.bozztv.com/ssh101/vivarussia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="http://epg.one/img/382.png" group-title="Музыкальные",MTV Live HD
 http://stream01.vnet.am/Channel_117/mono.m3u8
 #EXTINF:-1 tvg-id="muz-tv" tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МузТВ
