@@ -143,6 +143,8 @@ http://stream01.vnet.am/AmediaPremium/mono.m3u8
 http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU
 #EXTINF:-1 tvg-logo="http://epg.one/img/1031.png" group-title="Кино",Fox
 https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/615.png" group-title="Кино",Fox Life
+http://stream01.vnet.am/KXLTV/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/516.png" group-title="Кино",Sci-Fi
 http://s1.merlive.am:80/Sci-Fi/index.m3u8
 #EXTINF:-1 tvg-id="star-cinema" tvg-logo="https://i.imgur.com/nkSUoYw.png" group-title="Кино",Star Cinema
