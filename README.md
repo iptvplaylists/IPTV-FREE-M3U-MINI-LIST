@@ -155,7 +155,7 @@ http://88.218.242.237:8000/play/a004
 http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 tvg-id="dom-kino" tvg-logo="http://epg.one/img/834.png" group-title="Кино",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
-#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="http://epg.one/img/2020.png" group-title="Кино",Дом кино Премиум
+#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="http://epg.one/img/2020.png" group-title="Кино",Дом кино Премиум HD 
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="http://epg.one/img/2447.png" group-title="Кино",Победа
 http://s3.merlive.am/pobeda/index.m3u8
@@ -407,7 +407,7 @@ http://stream01.vnet.am/Fightbox/mono.m3u8
 http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 tvg-id="Auto24" tvg-logo="https://i.imgur.com/LP8OMKh.png" group-title="Спортивные",Авто 24
 http://s3.merlive.am/avto24/index.m3u8
-#EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://i.imgur.com/HU7SaRd.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спортивные",Авто Плюс
+#EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://i.imgur.com/HU7SaRd.png" group-title="Спортивные",Авто Плюс
 http://s1.merlive.am:80/Avtoplus/index.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спортивные",viju+ Sport
 http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
@@ -433,7 +433,7 @@ https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 http://stream01.vnet.am/Channel_113/mono.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" tvg-logo="http://epg.one/img/1038.png" group-title="Спортивные",KHL Prime HD
 https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
-#EXTINF:-1 tvg-id="konny-mir" tvg-logo="http://epg.one/img/1679.png" group-title="Спортивные",Конный мир
+#EXTINF:-1 tvg-id="konny-mir" tvg-logo="http://epg.one/img/1679.png" group-title="Спортивные",Конный мир HD
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="h1-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2060.png" group-title="Армения",Առաջին Ալիք HD
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
