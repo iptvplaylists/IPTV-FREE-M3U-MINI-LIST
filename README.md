@@ -85,7 +85,7 @@ http://s3.merlive.am/black/index.m3u8
 http://s3.merlive.am/redhd/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="http://epg.one/img/3357.png" group-title="Кино",Мосфильм
 http://s3.merlive.am/mosfilm/index.m3u8
-#EXTINF:-1 tvg-id="tvxxi" tvg-logo="http://epg.one/img/309.png" group-title="Кино",TV XXI Век
+#EXTINF:-1 tvg-id="tvxxi" tvg-logo="http://epg.one/img/309.png" group-title="Кино",ТВ 21
 http://s3.merlive.am/tvxxi/index.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Cinema
 https://s1.merlive.am/sinemahd/index.m3u8
