@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml.gz" catchup-type="shift"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05oHCea.png" group-title="410013750436080"
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://epg.one/img/983.png" group-title="Общероссийские",Первый HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="http://epg.one/img/3025.png" group-title="Общероссийские",Первый канал +4
