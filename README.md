@@ -243,7 +243,7 @@ https://rohls.pmc.live/hls/stream.m3u8
 https://xite-samsung-de.amagi.tv/720p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/lSkplSv.png" group-title="Музыкальные",Reload Music
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
-#EXTINF:-1 tvg-id="muzzikhiphop-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/4155q09.png" group-title="Музыкальные",MUZZIK HIP-HOP
+#EXTINF:-1 tvg-id="muzzikhiphop-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/f4cE077.png" group-title="Музыкальные",MUZZIK HIP-HOP
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 tvg-id="popstar-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/47bZSqo.png" group-title="Музыкальные",POP STAR
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
