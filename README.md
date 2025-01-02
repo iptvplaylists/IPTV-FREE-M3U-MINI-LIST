@@ -395,6 +395,8 @@ http://s7.merlive.am/ktoestkto/index.m3u8
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnznutB.png" group-title="Познавательные",Just Vogue TV
+https://tivi191.ozelip.com:3873/stream/play.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://epg.one/img/2052.png" group-title="Спортивные",Eurosport 1 HD
 http://s1.merlive.am/eurosport1/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://epg.one/img/4313.png" group-title="Спортивные",Eurosport 2 HD
