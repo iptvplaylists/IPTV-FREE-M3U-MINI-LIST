@@ -235,7 +235,7 @@ https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist_w42419
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m4IX3FR.png" group-title="Музыкальные",m2o TV HD
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hX7t09l.png" group-title="Музыкальные",PMC TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2IVjwlK.png" group-title="Музыкальные",PMC TV
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="pulse-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/6C0wRq7.png" group-title="Музыкальные",PMC Royale
 https://rohls.pmc.live/hls/stream.m3u8
