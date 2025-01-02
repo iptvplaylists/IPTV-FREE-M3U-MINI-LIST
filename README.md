@@ -169,9 +169,9 @@ http://s1.merlive.am:80/Bollywood/index.m3u8
 http://88.218.242.237:8000/play/a00x
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кино",Видеокассета HD
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UUhf8W6.png" group-title="Кино",1Filmax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GojoKgE.png" group-title="Кино",1Filmax
 http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3U3HFgK.png" group-title="Кино",2Filmax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кино",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YeWpktR.png" group-title="Новости",TVP Info HD
 https://irylek.ct8.pl/stream/tvpinfo
