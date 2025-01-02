@@ -229,11 +229,11 @@ http://ott-cdn.ucom.am/s59/index.m3u8
 http://31.148.48.15/Ani/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="http://epg.one/img/929.png" group-title="Мультфильмы",Cartoonito HD
 http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mNWXIA7.png" group-title="Музыкальные",Piterpan TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bCNpgeF.png" group-title="Музыкальные",Piterpan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist_w424198474.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7hARI0.png" group-title="Музыкальные",Hits 360 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hLm2Pid.png" group-title="Музыкальные",Hits 360 HD
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m4IX3FR.png" group-title="Музыкальные",m2o TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ReU9da.png" group-title="Музыкальные",m2o TV HD
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2IVjwlK.png" group-title="Музыкальные",PMC TV
 https://hls.pmchd.live/hls/stream.m3u8
