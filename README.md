@@ -247,7 +247,7 @@ http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 tvg-id="popstar-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/47bZSqo.png" group-title="Музыкальные",POP STAR
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qGZ85jA.png" group-title="Музыкальные",TMF MUSIC HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zLnc6Jd.png" group-title="Музыкальные",TMF MUSIC HD
 http://195.9.195.3:8080/hls/201891.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PYrGe5s.png" group-title="Музыкальные",AFROBEATS HD
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
