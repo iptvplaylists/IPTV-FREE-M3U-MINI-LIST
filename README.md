@@ -277,7 +277,7 @@ https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w241461456.m3u8
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zerouno-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5484.png" group-title="Музыкальные",Zerouno TV
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/chunklist_w891012176.m3u8
-#EXTINF:-1 tvg-id="retroplus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5380.png" group-title="Музыкальные",RETRO PLUS TV
+#EXTINF:-1 tvg-id="retroplus-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/c8HT0sq.png" group-title="Музыкальные",RETRO PLUS TV
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1570192527.m3u8
 #EXTINF:-1 tvg-id="beat-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5483.png" group-title="Музыкальные",V2BEAT HD
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
