@@ -287,7 +287,7 @@ http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" group-title="Музыкальные",VIVA Russia HD
 https://ssh101-fl.bozztv.com/ssh101/vivarussia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2412.png" group-title="Музыкальные",O2TV
+#EXTINF:-1 tvg-logo="http://epg.one/img/2412.png" group-title="Музыкальные",O!2TV
 https://s3.merlive.am/o2tv/index.m3u8
 #EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="http://epg.one/img/156.png" group-title="Музыкальные",MTV 80s
 http://213.226.137.140:81/tl/l108/mpegts
