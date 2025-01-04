@@ -267,6 +267,12 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="http://epg.one/img/156.png" group-title="Музыкальные",MTV 80s
+http://213.226.137.140:81/tl/l108/mpegts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2235.png" group-title="Музыкальные",MTV 90s
+http://213.226.137.140:81/tl/l109/mpegts
+#EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="http://epg.one/img/382.png" group-title="Музыкальные",MTV Live HD
+http://stream01.vnet.am/Channel_117/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjiQajc.png" group-title="Музыкальные",Clubbing TV HD
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:-1 tvg-id="4673" tvg-logo="http://epg.one/img/4673.png" group-title="Музыкальные",Deejay TV HD
@@ -291,12 +297,6 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 https://ssh101-fl.bozztv.com/ssh101/vivarussia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2412.png" group-title="Музыкальные",O!2 TV
 https://s3.merlive.am/o2tv/index.m3u8
-#EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="http://epg.one/img/156.png" group-title="Музыкальные",MTV 80s
-http://213.226.137.140:81/tl/l108/mpegts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2235.png" group-title="Музыкальные",MTV 90s
-http://213.226.137.140:81/tl/l109/mpegts
-#EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="http://epg.one/img/382.png" group-title="Музыкальные",MTV Live HD
-http://stream01.vnet.am/Channel_117/mono.m3u8
 #EXTINF:-1 tvg-id="muz-tv" tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МузТВ
 http://s1.merlive.am:80/muztv/index.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-logo="http://epg.one/img/2277.png" group-title="Музыкальные",RU TV HD
