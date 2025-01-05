@@ -71,8 +71,6 @@ https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2/chunklist_w4860637
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694951_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
 http://stream01.vnet.am/Bober/index.m3u8
-#EXTINF:-1 tvg-id="gags-network" tvg-logo="http://epg.one/img/3551.png" group-title="Общероссийские",Gagsnetwork
-https://s3.merlive.am/gagsnetwork/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="http://epg.one/img/783.png" group-title="Общероссийские",Ностальгия
 http://s1.merlive.am:80/Nostalgia/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://epg.one/img/1620.png" group-title="Кино",Русская комедия
@@ -201,6 +199,8 @@ https://clck.ru/3F6ZUK
 http://dmi3y-tv.ru/hls/CH_RTDHD.m3u8
 #EXTINF:-1 tvg-id="dojd" tvg-rec="7" tvg-logo="http://epg.one/img/2399.png" group-title="Новости",ДОЖДЬ HD
 https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b8192000.m3u8
+#EXTINF:-1 tvg-id="gags-network" tvg-logo="http://epg.one/img/3551.png" group-title="Общероссийские",Gagsnetwork
+https://s3.merlive.am/gagsnetwork/index.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="http://epg.one/img/2027.png" group-title="Мультфильмы",В гостях у сказки
 https://s1.merlive.am/vgostyaxuskazki/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/gOfbuWJ.png" group-title="Мультфильмы",2x2
