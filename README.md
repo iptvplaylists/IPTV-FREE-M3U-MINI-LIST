@@ -255,6 +255,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PnwBe6B.png" group-title="Музыкальные",Baraza Music HD
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XSWLQh0.png" group-title="Музыкальные",Magic TV
+https://bss1.neterra.tv/magictv/stream_0.m3u8
 #EXTINF:-1 tvg-id="retroplus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5380.png" group-title="Музыкальные",RETRO TV
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="retroplus-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/c8HT0sq.png" group-title="Музыкальные",RETRO PLUS TV
