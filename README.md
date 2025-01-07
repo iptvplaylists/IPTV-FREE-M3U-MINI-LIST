@@ -165,6 +165,8 @@ https://stream01.vnet.am/ZeeTV/mono.m3u8
 http://s1.merlive.am:80/Bollywood/index.m3u8
 #EXTINF:-1 tvg-id="vhs-ка" tvg-logo="http://epg.one/img/9065.png" group-title="Кино",VHS-ка HD
 http://88.218.242.237:8000/play/a00x
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Видеокассета
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GojoKgE.png" group-title="Кино",1Filmax
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кино",2Filmax
