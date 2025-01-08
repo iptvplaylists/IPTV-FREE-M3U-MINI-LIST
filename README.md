@@ -77,6 +77,8 @@ http://stream01.vnet.am/Bober/index.m3u8
 http://s1.merlive.am:80/Nostalgia/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://epg.one/img/1620.png" group-title="Кино",Русская комедия
 https://s1.merlive.am/Komedia/index.m3u8
+#EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="http://epg.one/img/53.png" group-title="Кино",Русский Иллюзион
+http://86.57.178.105:10823
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="http://epg.one/img/1570.png" group-title="Кино",Русский детектив
 https://s3.merlive.am/ruskidetektiv/index.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="http://epg.one/img/935.png" group-title="Кино",Black
