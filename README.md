@@ -499,8 +499,8 @@ http://stream02.vnet.am/Kinoman/mono.m3u8
 http://ott-cdn.ucom.am/s53/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybig9oZ.png" group-title="Армения",ԼԱՎՖՀԱՔ
 http://ott-cdn.ucom.am/s48/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sHJ62mP/SGN-05-09-2022-1652041186732.png" group-title="Армения",Armenia Քոմեդի
-http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sHJ62mP/SGN-05-09-2022-1652041186732.png" group-title="Армения",Shant Premium HD
+http://5.188.172.179/Shant-PremiumHDAM/index.m3u8
 #EXTINF:-1 tvg-id="atv-cineman-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2394.png" group-title="Армения",Սինեման
 http://ott-cdn.ucom.am/s66/index.m3u8
 #EXTINF:-1 tvg-id="erkir-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/5921.png" group-title="Армения",Երկիր մեդիա
