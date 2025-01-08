@@ -171,8 +171,6 @@ https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AUS40F3.png" group-title="Кинозалы",Akudji TV
-https://clck.ru/3FdRGE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hqCDDql.png" group-title="Кинозалы",Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9iwuS2S.png" group-title="Кинозалы",КиноДетектив
