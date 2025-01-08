@@ -499,8 +499,6 @@ http://stream02.vnet.am/Kinoman/mono.m3u8
 http://ott-cdn.ucom.am/s53/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybig9oZ.png" group-title="Армения",ԼԱՎՖՀԱՔ
 http://ott-cdn.ucom.am/s48/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sHJ62mP/SGN-05-09-2022-1652041186732.png" group-title="Армения",Shant Premium HD
-http://5.188.172.179/Shant-PremiumHDAM/index.m3u8
 #EXTINF:-1 tvg-id="atv-cineman-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2394.png" group-title="Армения",Սինեման
 http://ott-cdn.ucom.am/s66/index.m3u8
 #EXTINF:-1 tvg-id="erkir-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/5921.png" group-title="Армения",Երկիր մեդիա
@@ -561,3 +559,49 @@ https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1
 https://reshet.g-mana.live/media/cdefce3a-14ec-46cc-a147-1275c4a8b9ed/profile/0/profileManifest.m3u8
 #EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="https://i.imgur.com/mYRoPWW.png" group-title="Зарубежные",14 Channel IL
 https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tmw7Kgm/SGN-12-18-2021-1639838992456.png" group-title="Арменія",Noor tv USA
+https://streamer1.connectto.com/Noor_275/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xS74qgH/SGN-12-18-2021-1639837346709.png" group-title="Арменія",Luys
+http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3vQVwUV.jpg" group-title="Арменія",Amga TV
+https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GVUIJiD.png" group-title="Арменія",Horizon Armenian
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WfZb7fS/icon.png" group-title="Арменія",Horizon TV
+http://5.254.76.34:17070/C441/tracks-v3a1/mono.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:-1 group-title="Арменія",H1 International
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Арменія",Radio Van 103.0 FM Yerevan
+http://stream.radiovan.fm/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYrv8Kw/SGN-03-25-2022-1648156980157.png" group-title="Арменія",AABC TV
+https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W2Qfw8N/SGN-08-28-2021-1630166352824.png" group-title="Арменія",Fresh TV
+https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSSFP98/SGN-04-08-2022-1649408532685.png" group-title="Арменія",Shant Premium USA
+http://5.188.172.179/ShantPremiumUSA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ph2RyKz/SGN-04-08-2022-1649407681704.png" group-title="Арменія",Shant Gumri
+http://5.188.172.179/Shant-Gumri/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nnP466N/SGN-04-08-2022-1649408263561.png" group-title="Арменія",Shant Music
+http://5.188.172.179/Shant-Music/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yy62tXH/SGN-04-08-2022-1649406805065.png" group-title="Арменія",Shant Serial HD
+http://5.188.172.179/Shant-SerialHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DVGddFT/SGN-04-08-2022-1649406274233.png" group-title="Арменія",Shant Premium HD
+http://5.188.172.179/Shant-PremiumHDAM/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9TshFzy/SGN-03-22-2022-1647975607317.png" group-title="Арменія",Shant Kids HD
+http://5.188.172.179/Shant-KidsHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7Rxs9J/SGN-03-22-2022-1647976102720.png" group-title="Арменія",Շանթ
+http://5.188.172.179/Shant/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7Rxs9J/SGN-03-22-2022-1647976102720.png" group-title="Арменія",Շանթ HD
+http://5.188.172.179/ShantFHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qgg5SFf/SGN-12-18-2021-1639836283204.png" group-title="Арменія",Kotayk TV
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/6036
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTvQnxs/SGN-04-16-2022-1650112921387.png" group-title="Арменія",Delta TV
+http://1.allnetcom.com:25461/live/0IoAFE867t/4pQ6zWQZh4/5846.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h86mtJK/SGN-04-13-2022-1649795145521.png" group-title="Арменія",Fortuna TV
+http://1.allnetcom.com:25461/live/0IoAFE867t/4pQ6zWQZh4/5850.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ncWhdgZ/SGN-03-25-2022-1648155600556.png" group-title="Арменія",Nur TV
+http://1.allnetcom.com:25461/live/0IoAFE867t/4pQ6zWQZh4/5853.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mbNfDT3/SGN-04-05-2022-1649186587952.png" group-title="Арменія",PanArmenian TV
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5385
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hg0xdCf/SGN-10-13-2021-1634149295017.png" group-title="Арменія",USArmenia
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
