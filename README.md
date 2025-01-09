@@ -171,20 +171,6 @@ https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hqCDDql.png" group-title="Кинозалы",Кошмар HD
-http://195.9.195.3:8080/hls/204709.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rPsF1eW.png" group-title="Кинозалы",Сити Эдем ТВ
-https://v2.catcast.tv/content/34246/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9iwuS2S.png" group-title="Кинозалы",КиноДетектив
-https://autopilot.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpqoaTY.png" group-title="Кинозалы",КиноКлассика
-https://autopilot.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IAb8s24.png" group-title="Кинозалы",КиноЭкшен
-https://autopilot.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BbKht4U.png" group-title="Кинозалы",КиноМистика
-https://autopilot.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FGGcmd4.png" group-title="Кинозалы",КиноКомедия
-https://autopilot.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YeWpktR.png" group-title="Новости",TVP Info HD
 https://irylek.ct8.pl/stream/tvpinfo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oyCGGmG.png" group-title="Новости",BBC NEWS
