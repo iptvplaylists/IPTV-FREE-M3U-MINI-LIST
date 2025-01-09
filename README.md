@@ -169,9 +169,15 @@ https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FZAMVzt.png" group-title="Кинозалы",КиноСезон
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QsbdnIm.png" group-title="Кинозалы",Film TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/163253.m3u8
+http://hls.goodgame.ru/hls/208133.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pfqvV25.png" group-title="Кинозалы",Film TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hls.goodgame.ru/hls/163253.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cx8oLO3.png" group-title="Кинозалы",Film TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/206510.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9iwuS2S.png" group-title="Кинозалы",КиноДетектив
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://autopilot.catcast.tv/content/41327/index.m3u8
