@@ -349,6 +349,8 @@ http://stream01.vnet.am/Telekafe/mono.m3u8
 http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2377.png" group-title="Познавательные",HGTV HD
 http://212.102.60.231/HGTV/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2311.png" group-title="Познавательные",Приключения HD
+http://stream01.vnet.am/PriklyucheniyaHd/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HtTBZLF.png" group-title="Познавательные",DocuBox HD
 http://2.57.217.197:8080/play/a093/index.m3u8
 #EXTINF:-1 tvg-id="tlc-blk" tvg-logo="https://i.imgur.com/eCXHL6H.png" group-title="Познавательные",TLC
