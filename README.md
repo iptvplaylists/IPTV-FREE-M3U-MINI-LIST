@@ -178,6 +178,9 @@ http://hls.goodgame.ru/hls/163253.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cx8oLO3.png" group-title="Кинозалы",Film TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/206510.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AUS40F3.png" group-title="Кинозалы",Akudji TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9iwuS2S.png" group-title="Кинозалы",КиноДетектив
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://autopilot.catcast.tv/content/41327/index.m3u8
@@ -193,9 +196,6 @@ https://autopilot.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGGcmd4.png" group-title="Кинозалы",КиноКомедия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://autopilot.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AUS40F3.png" group-title="Кинозалы",Akudji TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YeWpktR.png" group-title="Новости",TVP Info HD
 https://irylek.ct8.pl/stream/tvpinfo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oyCGGmG.png" group-title="Новости",BBC NEWS
