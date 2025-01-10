@@ -334,7 +334,7 @@ https://s3.merlive.am/jaratv/index.m3u8
 #EXTINF:-1 tvg-id="680" tvg-logo="http://epg.one/img/680.png" group-title="Музыкальные",ТНТ MUSIC
 http://stream01.vnet.am/Channel_122/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXrxb9l.png" group-title="Музыкальные",SONGTV Russia
-https://songtv.hls.iptvdc.com/web-russia/tracks-v3a1/mono.m3u8
+https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" tvg-logo="http://epg.one/img/151.png" group-title="Музыкальные",Bridge TV
 https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-logo="http://epg.one/img/4373.png" group-title="Музыкальные",Bridge TV Classic
@@ -352,7 +352,7 @@ http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://epg.one/img/2278.png" group-title="Музыкальные",Шансон ТВ
 https://stream01.vnet.am/ShansonTv/index.m3u8
 #EXTINF:-1 tvg-id="mezzo" tvg-logo="http://epg.one/img/575.png" group-title="Музыкальные",Mezzo
-https://s1.merlive.am/Mezzo/index.m3u8
+http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2521.png" group-title="Познавательные",Нано ТВ
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="http://epg.one/img/723.png" group-title="Познавательные",Наука 
