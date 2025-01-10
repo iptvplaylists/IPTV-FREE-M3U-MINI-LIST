@@ -264,8 +264,6 @@ https://hls.pmchd.live/hls/stream.m3u8
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="xite-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/3sJZiV5.png" group-title="Музыкальные",XITE
 https://xite-samsung-de.amagi.tv/720p-vtt/index.m3u8
-#EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/FfK10bE.png" group-title="Музыкальные",Reload TV
-http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 #EXTINF:-1 tvg-id="popstar-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/883tY0N.png" group-title="Музыкальные",POP STAR
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1 tvg-id="muzzikhiphop-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/Ix4SGNc.png" group-title="Музыкальные",Muzzik ZZ
