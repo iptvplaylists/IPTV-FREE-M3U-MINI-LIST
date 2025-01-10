@@ -285,7 +285,7 @@ https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9zOJm0C.png" group-title="Музыкальные",Magic TV
 https://bss1.neterra.tv/magictv/stream_0.m3u8
 #EXTINF:-1 tvg-id="retroplus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5380.png" group-title="Музыкальные",RETRO TV
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="retroplus-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/c8HT0sq.png" group-title="Музыкальные",RETRO PLUS TV
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1570192527.m3u8
 #EXTINF:-1 tvg-id="6625" tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
