@@ -317,6 +317,9 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" group-title="Музыкальные",VIVA Russia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/180805.m3u8
+#EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4654.png" group-title="Музыкальные",MIXM TV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/181490.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2412.png" group-title="Музыкальные",O!2 TV
 https://s3.merlive.am/o2tv/index.m3u8
 #EXTINF:-1 tvg-id="muz-tv" tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МузТВ
