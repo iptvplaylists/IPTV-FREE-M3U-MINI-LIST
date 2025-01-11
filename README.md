@@ -414,9 +414,9 @@ https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnznutB.png" group-title="Познавательные",Just Vogue TV
 https://tivi191.ozelip.com:3873/stream/play.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://epg.one/img/2052.png" group-title="Спортивные",Eurosport 1 HD
-http://45.93.46.27:8887/8013/video.m3u8
+http://135.181.115.81:8000/play/a01e/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://epg.one/img/4313.png" group-title="Спортивные",Eurosport 2 HD
-http://45.93.46.27:8887/8163/video.m3u8
+http://sc.id-tv.kz/Eurosport_2HD_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2541.png" group-title="Спортивные",Беларусь 5 HD
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1049318557_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/3792.png" group-title="Спортивные",FightBox
