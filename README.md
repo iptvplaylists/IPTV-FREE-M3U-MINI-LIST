@@ -109,8 +109,6 @@ http://s3.merlive.am/nashenovoekino/index.m3u8
 https://s3.merlive.am/iconcerthd/index.m3u8
 #EXTINF:-1 tvg-id="indiyskoe-kino" tvg-logo="http://epg.one/img/798.png" group-title="Кино",Индийское кино
 https://s1.merlive.am/Indiskoekino/index.m3u8
-#EXTINF:-1 tvg-id="kinouzhas-hd-orig" tvg-logo="http://epg.one/img/2493.png" group-title="Кино",Киноужас
-http://s1.merlive.am:80/Kinoujas/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="http://epg.one/img/518.png" group-title="Кино",НСТ
 http://stream01.vnet.am/Channel_125/mono.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="http://epg.one/img/1037.png" group-title="Кино",Кино ТВ HD
@@ -145,8 +143,6 @@ http://stream01.vnet.am/KXLTV/tracks-v1a2/mono.m3u8
 http://s1.merlive.am:80/Sci-Fi/index.m3u8
 #EXTINF:-1 tvg-id="star-cinema" tvg-logo="https://i.imgur.com/nkSUoYw.png" group-title="Кино",Star Cinema
 http://s1.merlive.am:80/starsinema/index.m3u8
-#EXTINF:-1 tvg-id="romance" tvg-logo="http://epg.one/img/9179.png" group-title="Кино",Romance HD
-http://88.218.242.237:8000/play/a004
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://epg.one/img/401.png" group-title="Кино",Русский роман
 http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 tvg-id="dom-kino" tvg-logo="http://epg.one/img/834.png" group-title="Кино",Дом Кино
@@ -161,8 +157,6 @@ http://stream01.vnet.am/Tekhno24/mono.m3u8
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1395.png" group-title="Кино",Bollywood HD
 http://s1.merlive.am:80/Bollywood/index.m3u8
-#EXTINF:-1 tvg-id="vhs-ка" tvg-logo="http://epg.one/img/9065.png" group-title="Кино",VHS-ка HD
-http://88.218.242.237:8000/play/a00x
 #EXTINF:-1 tvg-logo="http://epg.one/img/2359.png" group-title="Кинозалы",FAN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/157239.m3u8
