@@ -270,7 +270,7 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="trace-urban" tvg-rec="0" tvg-logo="http://epg.one/img/5597.png" group-title="Музыкальные",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" group-title="Музыкальные",VIVA Russia HD
+#EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" group-title="Музыкальные",VIVA RUSSIA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/180805.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4654.png" group-title="Музыкальные",MIXM TV HD 
