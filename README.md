@@ -121,8 +121,6 @@ http://s3.merlive.am/kinotvhd/index.m3u8
 http://s3.merlive.am/tv1000/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="http://epg.one/img/125.png" group-title="Кино",viju TV1000 Action
 http://s3.merlive.am/tv1000action/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/267.png" group-title="Кино",viju TV1000 Русское
-https://a.pokaz.me/b72xbFz4ZRlQU8U1eMUT0g/139/1736694615/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit-hd-orig" tvg-logo="http://epg.one/img/1012.png" group-title="Кино",viju+ Megahit HD
 http://2.57.217.197:8080/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy-hd-orig" tvg-logo="http://epg.one/img/1011.png" group-title="Кино",viju+ Comedy HD
