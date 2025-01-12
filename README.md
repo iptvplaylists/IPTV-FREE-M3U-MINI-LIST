@@ -369,7 +369,7 @@ http://s1.merlive.am:80/vijunature/index.m3u8
 #EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="http://epg.one/img/2432.png" group-title="Познавательные",Живая планета
 https://s3.merlive.am/jivayaplaneta/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
-http://stream01.vnet.am/ZooTv/mono.m3u8
+http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 tvg-id="zoopark" tvg-logo="http://epg.one/img/367.png" group-title="Познавательные",Зоопарк
 http://s3.merlive.am/zoopark/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet HD
