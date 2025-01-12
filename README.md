@@ -392,6 +392,8 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="http://epg.one/img/2250.png" group-title="Спортивные",Матч! Премьер
 http://s1.merlive.am/matchpremier/index.m3u8
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="http://epg.one/img/2782.png" group-title="Спортивные",Футбол
+https://s3.merlive.am/futboltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Fast Sports HD
 http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1 tvg-id="кхл" tvg-logo="http://epg.one/img/2048.png" group-title="Спортивные",KHL
