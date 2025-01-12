@@ -369,8 +369,6 @@ http://stream01.vnet.am/Channel_124/mono.m3u8
 https://s3.merlive.am/davinchi/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="home-4k" tvg-logo="http://epg.one/img/2745.png" group-title="Познавательные",Home 4K
-http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zhivaya-priroda" tvg-logo="http://epg.one/img/2495.png" group-title="Познавательные",Живая природа HD
 http://s3.merlive.am/jivayaprirodahd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2801.png" group-title="Познавательные",Love Nature 4k
