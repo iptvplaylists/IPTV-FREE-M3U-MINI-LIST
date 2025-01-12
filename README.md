@@ -166,7 +166,7 @@ https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AUS40F3.png" group-title="Кинозалы",Akudji TV
+#EXTINF:-1 tvg-logo="http://epg.one/img/5357.png" group-title="Кинозалы",Akudji TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FZAMVzt.png" group-title="Кинозалы",КиноСезон
