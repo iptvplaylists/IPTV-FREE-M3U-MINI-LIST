@@ -324,8 +324,6 @@ http://stream01.vnet.am/Evrika/mono.m3u8
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/614.png" group-title="Познавательные",Кухня ТВ
 http://stream01.vnet.am/KukhnyaTv/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2377.png" group-title="Познавательные",HGTV HD
-http://212.102.60.231/HGTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HtTBZLF.png" group-title="Познавательные",DocuBox HD
 http://2.57.217.197:8080/play/a093/index.m3u8
 #EXTINF:-1 tvg-id="tlc-blk" tvg-logo="https://i.imgur.com/eCXHL6H.png" group-title="Познавательные",TLC
@@ -344,12 +342,8 @@ http://stream01.vnet.am/Channel_126/mono.m3u8
 http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zOI6QgY.png" group-title="Познавательные",Da Vinci
 https://s3.merlive.am/davinchi/index.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
-https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="zhivaya-priroda" tvg-logo="http://epg.one/img/2495.png" group-title="Познавательные",Живая природа HD
 http://s3.merlive.am/jivayaprirodahd/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2801.png" group-title="Познавательные",Love Nature 4k
-https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные",viju Nature
 http://s1.merlive.am:80/vijunature/index.m3u8
 #EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="http://epg.one/img/2432.png" group-title="Познавательные",Живая планета
