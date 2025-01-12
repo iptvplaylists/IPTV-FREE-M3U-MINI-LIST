@@ -157,7 +157,7 @@ http://stream01.vnet.am/Tekhno24/mono.m3u8
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1395.png" group-title="Кино",Bollywood HD
 http://s1.merlive.am:80/Bollywood/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2359.png" group-title="Кинозалы",FAN HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/2359.png" group-title="Кино",FAN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета 
