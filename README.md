@@ -494,9 +494,6 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="3858" tvg-logo="http://epg.one/img/3858.png" group-title="Зарубежные",TRT AVAZ TR
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9kUe9bf.png" group-title="Зарубежные",Az TV HD AZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:-1 tvg-id="9144" tvg-logo="http://epg.one/img/9144.png" group-title="Зарубежные",Baku TV AZ
 https://rtmp.baku.tv/live/bakutv_720p.m3u8
 #EXTINF:-1 tvg-id="cbc-hd-az" tvg-logo="http://epg.one/img/2158.png" group-title="Зарубежные",CBC TV AZ
