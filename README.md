@@ -109,6 +109,10 @@ http://s3.merlive.am/nashenovoekino/index.m3u8
 https://s3.merlive.am/iconcerthd/index.m3u8
 #EXTINF:-1 tvg-id="indiyskoe-kino" tvg-logo="http://epg.one/img/798.png" group-title="Кино",Индийское кино
 https://s1.merlive.am/Indiskoekino/index.m3u8
+#EXTINF:-1 tvg-id="zee-tv" tvg-logo="http://epg.one/img/2233.png" group-title="Кино",Индия
+https://stream01.vnet.am/ZeeTV/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/1395.png" group-title="Кино",Bollywood HD
+http://s1.merlive.am:80/Bollywood/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="http://epg.one/img/518.png" group-title="Кино",НСТ
 http://stream01.vnet.am/Channel_125/mono.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="http://epg.one/img/1037.png" group-title="Кино",Кино ТВ HD
@@ -153,10 +157,6 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 http://s3.merlive.am/pobeda/index.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD
 http://stream01.vnet.am/Tekhno24/mono.m3u8
-#EXTINF:-1 tvg-id="zee-tv" tvg-logo="http://epg.one/img/2233.png" group-title="Кино",Индия
-https://stream01.vnet.am/ZeeTV/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/1395.png" group-title="Кино",Bollywood HD
-http://s1.merlive.am:80/Bollywood/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2359.png" group-title="Кино",FAN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/157239.m3u8
