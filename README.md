@@ -173,7 +173,7 @@ http://hls.goodgame.ru/hls/205072.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ily2wsg.png" group-title="Кинозалы",Fks Films HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/209426.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ily2wsg.png" group-title="Кинозалы",Katastroff HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xYSNpid.png" group-title="Кинозалы",Katastroff HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/208789.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JhhLfq.png" group-title="Новости",Настоящее время HD
