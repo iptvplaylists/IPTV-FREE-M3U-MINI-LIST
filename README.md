@@ -333,6 +333,8 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 https://stream01.vnet.am/365Dney/index.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" tvg-logo="http://epg.one/img/2508.png" group-title="Познавательные",Глазами туриста HD
 http://s3.merlive.am/glazamituristahd/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2377.png" group-title="Познавательные",HGTV HD
+http://213.226.137.140:81/tl/l1053/tracks-v1a2/mpegts
 #EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.one/img/2463.png" group-title="Познавательные",Загородный
 http://ott-cdn.ucom.am/s31/index.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные",Океан ТВ
@@ -397,6 +399,8 @@ https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1049318557_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://epg.one/img/2052.png" group-title="Спортивные",Eurosport 1 HD
 http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://epg.one/img/4313.png" group-title="Спортивные",Eurosport 2 HD
+http://178.219.128.68:64889/EURO2HD
 #EXTINF:-1 tvg-logo="http://epg.one/img/3792.png" group-title="Спортивные",FightBox
 http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2285.png" group-title="Спортивные",Бокс ТВ HD
@@ -415,6 +419,12 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="http://epg.one/img/2250.png" group-title="Спортивные",Матч! Премьер
 http://s1.merlive.am/matchpremier/index.m3u8
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2044.png" group-title="Спортивные",Матч! Футбол 1 HD
+http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/1042.png" group-title="Спортивные",Матч! Футбол 2 HD
+http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2005.png" group-title="Спортивные",Матч! Футбол 3 HD
+http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="http://epg.one/img/2782.png" group-title="Спортивные",Футбол
 https://s3.merlive.am/futboltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Fast Sports HD
