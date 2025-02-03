@@ -35,7 +35,7 @@ https://tv.streams.baikal-telecom.net/U/index.m3u8
 http://flu.ttk.mx:90/5kanal/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="domashnij-hd" tvg-logo="http://epg.one/img/304.png" group-title="Общероссийские",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="piatnica-hd" tvg-logo="http://pl.ottg.app/icon/3894.png" group-title="Общероссийские",Суббота
+#EXTINF:-1 tvg-id="piatnica-hd" tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="zvezda-hd" tvg-rec="7" tvg-logo="http://epg.one/img/405.png" group-title="Общероссийские",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
