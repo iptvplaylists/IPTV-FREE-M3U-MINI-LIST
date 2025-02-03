@@ -129,16 +129,8 @@ https://clck.ru/3F6ZUK
 http://dmi3y-tv.ru/hls/CH_RTDHD.m3u8
 #EXTINF:-1 tvg-id="dojd" tvg-rec="7" tvg-logo="http://epg.one/img/2399.png" group-title="Новости",ДОЖДЬ HD
 https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b8192000.m3u8
-#EXTINF:-1 tvg-id="gags-network" tvg-logo="http://epg.one/img/3551.png" group-title="Детский",Gagsnetwork
-https://s3.merlive.am/gagsnetwork/index.m3u8
-#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="http://epg.one/img/2027.png" group-title="Детский",В гостях у сказки
-https://s1.merlive.am/vgostyaxuskazki/index.m3u8
-#EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/gOfbuWJ.png" group-title="Детский",2x2
-https://s1.merlive.am/2x2tv/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/XXNN6It.png" group-title="Детский",Nicktoons HD
 https://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="http://epg.one/img/601.png" group-title="Детский",Cartoon network
-http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="detskij-mir-hd" tvg-logo="http://epg.one/img/923.png" group-title="Детский",Детский мир
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 #EXTINF:-1 tvg-id="ryzhij" tvg-logo="http://epg.one/img/2437.png" group-title="Детский",Рыжий
@@ -225,14 +217,8 @@ https://hls.goodgame.ru/hls/180805.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4654.png" group-title="Музыкальные",MIXM TV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/181490.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2412.png" group-title="Музыкальные",O!2 TV
-https://s3.merlive.am/o2tv/index.m3u8
-#EXTINF:-1 tvg-id="muz-tv" tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МузТВ
-http://s1.merlive.am:80/muztv/index.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-logo="http://epg.one/img/2277.png" group-title="Музыкальные",RU TV HD
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 tvg-id="zhara" tvg-logo="http://epg.one/img/165.png" group-title="Музыкальные",Жара TV
-https://s3.merlive.am/jaratv/index.m3u8
 #EXTINF:-1 tvg-id="680" tvg-logo="http://epg.one/img/680.png" group-title="Музыкальные",ТНТ MUSIC
 http://stream01.vnet.am/Channel_122/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXrxb9l.png" group-title="Музыкальные",SONGTV Russia
@@ -243,10 +229,6 @@ https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="http://epg.one/img/591.png" group-title="Музыкальные",BRIDGE Русский Хит
 http://stream01.vnet.am/Channel_115/mono.m3u8
-#EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="http://epg.one/img/681.png" group-title="Музыкальные",Europa Plus TV
-http://135.181.115.81:8000/play/a01d/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="muzyka-pervogo" tvg-logo="http://epg.one/img/715.png" group-title="Музыкальные",Музыка первого
-http://s3.merlive.am/roos-muzika1/index.m3u8
 #EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",Первый Музыкальный HD BY
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/jO3ZOfq.png" group-title="Музыкальные",Первый Музыкальный HD
@@ -261,50 +243,24 @@ http://ott-cdn.ucom.am/s98/04.m3u8
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://epg.one/img/675.png" group-title="Познавательные",Моя планета HD
 https://stream01.vnet.am/365Dney/index.m3u8
-#EXTINF:-1 tvg-id="glazami-turista" tvg-logo="http://epg.one/img/2508.png" group-title="Познавательные",Глазами туриста HD
-http://s3.merlive.am/glazamituristahd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2377.png" group-title="Познавательные",HGTV HD
 http://213.226.137.140:81/tl/l1053/tracks-v1a2/mpegts
 #EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.one/img/2463.png" group-title="Познавательные",Загородный
 http://ott-cdn.ucom.am/s31/index.m3u8
-#EXTINF:-1 tvg-id="ocean-tv" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные",Океан ТВ
-http://s1.merlive.am:80/oceantv/index.m3u8
-#EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="http://epg.one/img/2418.png" group-title="Познавательные",Galaxy
-https://s3.merlive.am/tainigalaktiki/index.m3u8
 #EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные",Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2304.png" group-title="Познавательные",Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/614.png" group-title="Познавательные",Кухня ТВ
 http://stream01.vnet.am/KukhnyaTv/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HtTBZLF.png" group-title="Познавательные",DocuBox HD
-http://2.57.217.197:8080/play/a093/index.m3u8
-#EXTINF:-1 tvg-id="tlc-blk" tvg-logo="https://i.imgur.com/eCXHL6H.png" group-title="Познавательные",TLC
-http://s5.merlive.am:80/tlc/index.m3u8
-#EXTINF:-1 tvg-id="terra-ru" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные",TERRA HD
-http://s3.merlive.am:80/Terrahd/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/648.png" group-title="Познавательные",RTG HD
-http://s3.merlive.am/rtghd/index.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные",История
 http://stream01.vnet.am/Istoria/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6GB2Y92.png" group-title="Познавательные",Дикая Охота HD
-http://s5.merlive.am:80/dikayaoxota/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Btffp.png" group-title="Познавательные",Дикая рыбалка HD
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zOI6QgY.png" group-title="Познавательные",Da Vinci
-https://s3.merlive.am/davinchi/index.m3u8
-#EXTINF:-1 tvg-id="zhivaya-priroda" tvg-logo="http://epg.one/img/2495.png" group-title="Познавательные",Живая природа HD
-http://s3.merlive.am/jivayaprirodahd/index.m3u8
-#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные",viju Nature
-http://s1.merlive.am:80/vijunature/index.m3u8
-#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="http://epg.one/img/2432.png" group-title="Познавательные",Живая планета
-https://s3.merlive.am/jivayaplaneta/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
-#EXTINF:-1 tvg-id="zoopark" tvg-logo="http://epg.one/img/367.png" group-title="Познавательные",Зоопарк
-http://s3.merlive.am/zoopark/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet HD
 http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные",Nat Geo Wild
@@ -315,10 +271,6 @@ http://stream02.vnet.am/NationalGeographic/index.m3u8
 http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
 #EXTINF:-1 tvg-id="discovery-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные",Discovery Channel HD
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="http://epg.one/img/2012.png" group-title="Познавательные",viju+ Planet HD
-http://s1.merlive.am:80/vijuplanet/index.m3u8
-#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="http://epg.one/img/521.png" group-title="Познавательные",viju Explore
-http://s3.merlive.am/viasatexplorer/index.m3u8
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные",Кто есть кто
 http://s7.merlive.am/ktoestkto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0goaGa.png" group-title="Познавательные",Fashion TV HD
@@ -335,10 +287,6 @@ http://178.219.128.68:64889/EURO2HD
 http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2285.png" group-title="Спортивные",Бокс ТВ HD
 http://stream01.vnet.am/BoksTv/mono.m3u8
-#EXTINF:-1 tvg-id="Auto24" tvg-logo="https://i.imgur.com/LP8OMKh.png" group-title="Спортивные",Авто 24
-http://s3.merlive.am/avto24/index.m3u8
-#EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://i.imgur.com/HU7SaRd.png" group-title="Спортивные",Авто Плюс
-http://s1.merlive.am:80/Avtoplus/index.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спортивные",viju+ Sport
 http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2051.png" group-title="Спортивные",Матч! HD
@@ -347,22 +295,10 @@ http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="http://epg.one/img/2043.png" group-title="Спортивные",Матч! Планета
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="match-premier" tvg-logo="http://epg.one/img/2250.png" group-title="Спортивные",Матч! Премьер
-http://s1.merlive.am/matchpremier/index.m3u8
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2044.png" group-title="Спортивные",Матч! Футбол 1 HD
-http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/1042.png" group-title="Спортивные",Матч! Футбол 2 HD
-http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2005.png" group-title="Спортивные",Матч! Футбол 3 HD
-http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
-#EXTINF:-1 tvg-id="match-premier" tvg-logo="http://epg.one/img/2782.png" group-title="Спортивные",Футбол
-https://s3.merlive.am/futboltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Fast Sports HD
 http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1 tvg-id="кхл" tvg-logo="http://epg.one/img/2048.png" group-title="Спортивные",KHL
 http://stream01.vnet.am/Channel_113/mono.m3u8
-#EXTINF:-1 tvg-id="kxl-hd" tvg-logo="http://epg.one/img/1038.png" group-title="Спортивные",KHL Prime HD
-https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 tvg-id="konny-mir" tvg-logo="http://epg.one/img/1679.png" group-title="Спортивные",Конный мир HD
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="h1-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2060.png" group-title="Армения",Առաջին Ալիք HD
