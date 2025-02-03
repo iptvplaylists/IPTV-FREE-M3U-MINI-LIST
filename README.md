@@ -20,23 +20,19 @@ http://s1.merlive.am:80/ntvstil/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1754.png" group-title="Общероссийские",НТВ Сериал
 https://cdn.ntv.ru/th_serial/index.m3u8
 #EXTINF:-1 tvg-id="mir-hd" tvg-rec="7" tvg-logo="http://epg.one/img/726.png" group-title="Общероссийские",Мир
-http://s1.merlive.am:80/Mir/index.m3u8
-#EXTINF:-1 tvg-id="8-kanal" tvg-logo="http://epg.one/img/4659.png" group-title="Общероссийские",8 канал
-http://s1.merlive.am:80/8Kanal/index.m3u8
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_mobil/playlist.m3u8
 #EXTINF:-1 tvg-id="ctc-hd" tvg-logo="http://epg.one/img/79.png" group-title="Общероссийские",СТС HD
-https://s1.merlive.am/stshd/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="http://epg.one/img/1322.png" group-title="Общероссийские",СТС Love
 http://s1.merlive.am:80/stslove/index.m3u8
 #EXTINF:-1 tvg-id="4e" tvg-logo="http://epg.one/img/1598.png" group-title="Общероссийские",Че
-https://s1.merlive.am/chetv/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="perec" tvg-logo="http://epg.one/img/5651.png" group-title="Общероссийские",Перец
 http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 tvg-id="tnt-hd" tvg-logo="http://epg.one/img/1767.png" group-title="Общероссийские",ТНТ HD
-https://s3.merlive.am/tnthd/index.m3u8
-#EXTINF:-1 tvg-id="tnt-pl4" tvg-logo="http://epg.one/img/3023.png" group-title="Общероссийские",ТНТ +4
-https://s3.merlive.am/tntplus4/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="tnt4-hd" tvg-logo="http://epg.one/img/1649.png" group-title="Общероссийские",ТНТ4
-https://s3.merlive.am/tnt4/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/18.png" group-title="Общероссийские",РЕН ТВ
 http://185.23.80.28:8080/REN/index.m3u8
 #EXTINF:-1 tvg-id="tvc-hd" tvg-logo="http://epg.one/img/649.png" group-title="Общероссийские",ТВЦ
@@ -48,9 +44,9 @@ https://tv.streams.baikal-telecom.net/U/index.m3u8
 #EXTINF:-1 tvg-id="5kanal" tvg-logo="http://epg.one/img/427.png" group-title="Общероссийские",5 канал
 http://flu.ttk.mx:90/5kanal/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="domashnij-hd" tvg-logo="http://epg.one/img/304.png" group-title="Общероссийские",Домашний
-https://s3.merlive.am/domashni/index.m3u8
-#EXTINF:-1 tvg-id="piatnica-hd" tvg-logo="http://epg.one/img/1003.png" group-title="Общероссийские",Пятница
-http://s1.merlive.am:80/Pyatnica/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="piatnica-hd" tvg-logo="http://pl.ottg.app/icon/4131.png" group-title="Общероссийские",Суббота
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="zvezda-hd" tvg-rec="7" tvg-logo="http://epg.one/img/405.png" group-title="Общероссийские",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus-hd" tvg-rec="7" tvg-logo="http://epg.one/img/6669.png" group-title="Общероссийские",Звезда Плюс
