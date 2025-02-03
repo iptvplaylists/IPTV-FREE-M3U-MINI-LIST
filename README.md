@@ -83,6 +83,10 @@ https://stream01.vnet.am/DomKino/mono.m3u8
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD
 http://stream01.vnet.am/Tekhno24/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GojoKgE.png" group-title="Кинозалы",1Filmax
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
+http://195.9.195.3:8080/hls/204717.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2359.png" group-title="Кинозалы",FAN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/157239.m3u8
