@@ -329,6 +329,10 @@ http://ott-cdn.ucom.am/s5/index.m3u8
 http://ott-cdn.ucom.am/s22/index.m3u8
 #EXTINF:-1 tvg-id="atv-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2067.png" group-title="Армения",ATV
 http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:-1 tvg-id="atv-am-hd-orig" tvg-rec="7" tvg-logo="https://i.ibb.co/WfTmqjs/V.png" group-title="H3"
+http://ott-cdn.ucom.am/s12/04.m3u8
+#EXTINF:-1 tvg-id="atv-am-hd-orig" tvg-rec="7" tvg-logo="https://i.ibb.co/WfTmqjs/V.png" group-title="Арарат",TV
+http://ott-cdn.ucom.am/s6/04.m3u8
 #EXTINF:-1 tvg-id="atv-am-hd-orig" tvg-rec="7" tvg-logo="https://i.ibb.co/9Nb8SMQ/V.png" group-title="Armenia Comedy
 http://ott-cdn.ucom.am/s32/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/82ri0JN.png" group-title="Армения",Բազմոց TV HD
