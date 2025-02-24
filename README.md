@@ -355,6 +355,8 @@ http://ott-cdn.ucom.am/s9/index.m3u8
 http://ott-cdn.ucom.am/s13/index.m3u8
 #EXTINF:-1 tvg-id="Luys-am" tvg-rec="7" tvg-logo="https://i.imgur.com/Rh6eS8L.png" group-title="Армения",Luys
 http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 group-title="Армения" tvg-logo="https://i.imgur.com/WTTAbAc.png",ARTN TV
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 #EXTINF:-1 tvg-id="song-tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/3360.png" group-title="Армения",SONGTV Armenia
 https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
 #EXTINF:-1 tvg-id="fresh-tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/5606.png" group-title="Армения",Fresh Armenia HD
