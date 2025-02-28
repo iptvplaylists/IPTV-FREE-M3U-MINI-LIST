@@ -54,7 +54,7 @@ https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
 http://stream01.vnet.am/Bober/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz-hd" tvg-logo="http://epg.one/img/2834.png" group-title="Кино",Кинопоказ HD
-http://31.184.197.124/KinopokazHD/mono.m3u8
+http://178.57.121.38:8080/kinopokaz/index.m3u8?token=test
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит
 http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/1584.png" group-title="Кино",Мужское кино
