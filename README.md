@@ -256,8 +256,8 @@ http://ott-cdn.ucom.am/s98/04.m3u8
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://epg.one/img/675.png" group-title="Познавательные",Моя планета HD
 https://stream01.vnet.am/365Dney/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2377.png" group-title="Познавательные",HGTV HD
-http://213.226.137.140:81/tl/l1053/tracks-v1a2/mpegts
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://epg.one/img/7642.png" group-title="Познавательные",History
+http://stream01.vnet.am/Channel_123/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.one/img/2463.png" group-title="Познавательные",Загородный
 http://ott-cdn.ucom.am/s31/index.m3u8
 #EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные",Первый космический HD
