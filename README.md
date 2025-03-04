@@ -127,7 +127,7 @@ https://hls.goodgame.ru/hls/208789.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v8DZcXJ.png" group-title="Кинозалы",KinoJam HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/manifest/210182_master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v8DZcXJ.png" group-title="Кинозалы",MGM HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B5CjYPc.png" group-title="Кинозалы",MGM HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://v2.catcast.tv/content/44051/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JhhLfq.png" group-title="Новости",Настоящее время HD
