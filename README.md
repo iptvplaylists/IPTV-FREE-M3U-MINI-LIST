@@ -130,6 +130,9 @@ https://hls.goodgame.ru/manifest/210182_master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B5CjYPc.png" group-title="Кинозалы",MGM HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://v2.catcast.tv/content/44051/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X76Jwq5.png" group-title="Кинозалы",PRO100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JhhLfq.png" group-title="Новости",Настоящее время HD
 https://clck.ru/3F6ZUq
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRWcCDP.png" group-title="Новости",Известия
