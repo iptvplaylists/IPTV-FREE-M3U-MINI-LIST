@@ -55,6 +55,8 @@ https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1/chunklist_w7495222
 https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2/chunklist_w486063721_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2540.png" group-title="Общероссийские",Беларусь 3 HD
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694951_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.imgur.com/KM8WFH9.png" group-title="Общероссийские",Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
 http://stream01.vnet.am/Bober/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/8883.png" group-title="Кино",Viasat Kino World
