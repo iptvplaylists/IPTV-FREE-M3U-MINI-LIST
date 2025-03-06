@@ -336,7 +336,7 @@ https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 #EXTINF:-1 tvg-id="h2-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2062.png" group-title="Армения",Հ2
 http://ott-cdn.ucom.am/s2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5934.png" group-title="Армения",USA Armenia HD
-https://usarmenia-tv.icdndhcp.com/hls/m3u8/USARMENIA_NET1080.m3u8
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
 #EXTINF:-1 tvg-id="armenia-tv" tvg-logo="https://i.imgur.com/ZaWExUo.png" group-title="Армения",Արմենիա TV HD
 http://ott-cdn.ucom.am/s4/index.m3u8
 #EXTINF:-1 tvg-id="armenia-premium-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2384.png" group-title="Армения",Armenia Premium HD
