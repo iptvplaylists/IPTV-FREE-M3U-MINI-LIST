@@ -179,6 +179,8 @@ http://ott-cdn.ucom.am/s59/index.m3u8
 http://31.148.48.15/Ani/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="http://epg.one/img/929.png" group-title="Детский",Cartoonito HD
 http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="http://epg.one/img/601.png" group-title="Детский",Cartoon Network HD
+http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLm2Pid.png" group-title="Музыкальные",Hits 360 HD
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ReU9da.png" group-title="Музыкальные",m2o TV HD
