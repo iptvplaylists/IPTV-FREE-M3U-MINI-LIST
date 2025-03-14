@@ -150,7 +150,7 @@ https://clck.ru/3F6ZUq
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRWcCDP.png" group-title="Новости",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2265.png" group-title="Новости",360
-http://dmi3y-tv.ru/hls/CH_360TV.m3u8
+https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/743.png" group-title="Новости",РБК HD
 http://dmi3y-tv.ru/hls/CH_RBKHD.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="http://epg.one/img/2078.png" group-title="Новости",МИР-24 HD
