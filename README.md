@@ -225,10 +225,6 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2235.png" group-title="Музыкальные",MTV Hits
-https://stream01.vnet.am/Channel_117/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2235.png" group-title="Музыкальные",AIVA TV
-https://stream2.cinerama.uz/1268/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="http://epg.one/img/382.png" group-title="Музыкальные",MTV Live HD
 http://stream01.vnet.am/Channel_117/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjiQajc.png" group-title="Музыкальные",Clubbing TV HD
