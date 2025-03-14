@@ -75,6 +75,8 @@ https://livetv.mylifeisgood.net.ru/channels/viju-premiere.m3u8
 https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/1011.png" group-title="Кино",Viju+ Comedy HD
 https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
+#EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/267.png" group-title="Кино",Viju TV1000 Русское HD
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/8883.png" group-title="Кино",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит
