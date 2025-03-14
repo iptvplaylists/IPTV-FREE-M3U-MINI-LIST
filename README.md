@@ -225,8 +225,8 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2235.png" group-title="Музыкальные",Evro Dance TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=39803&token=5d2fc0266e1472aee506492ddec3e2ff
+#EXTINF:-1 tvg-logo="http://epg.one/img/2235.png" group-title="Музыкальные",Euro Dance TV
+https://stream01.vnet.am/Channel_117/mono.m3u8
 #EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="http://epg.one/img/382.png" group-title="Музыкальные",MTV Live HD
 http://stream01.vnet.am/Channel_117/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjiQajc.png" group-title="Музыкальные",Clubbing TV HD
