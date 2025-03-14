@@ -214,7 +214,7 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_music" tvg-rec="0" tvg-logo="http://epg.one/img/8044.png" group-title="Музыкальные",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="deluxedance-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/vRfHVWR.png" group-title="Музыкальные",Deluxe Dance HD
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/67d340f787b58_13358809_2503130832_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PnwBe6B.png" group-title="Музыкальные",Baraza Music HD
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9zOJm0C.png" group-title="Музыкальные",Magic TV
