@@ -325,6 +325,8 @@ http://stream02.vnet.am/NationalGeographic/index.m3u8
 http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
 #EXTINF:-1 tvg-id="discovery-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные",Discovery Channel HD
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="discovery-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные",Terra HD
+http://130.193.73.10:8937/play/a01g
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные",Кто есть кто
 http://s7.merlive.am/ktoestkto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0goaGa.png" group-title="Познавательные",Fashion TV HD
