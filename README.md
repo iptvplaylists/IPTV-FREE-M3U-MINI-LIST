@@ -226,9 +226,9 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="http://epg.one/img/156.png" group-title="Музыкальные",MTV 80s
-http://146.59.85.40:89/MTV80s/mpegts
+https://d36tolctzl3cf9.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2235.png" group-title="Музыкальные",MTV 90s
-http://146.59.85.40:89/MTV90s/mpegts
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=39803&token=5d2fc0266e1472aee506492ddec3e2ff
 #EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="http://epg.one/img/382.png" group-title="Музыкальные",MTV Live HD
 http://stream01.vnet.am/Channel_117/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjiQajc.png" group-title="Музыкальные",Clubbing TV HD
@@ -341,8 +341,6 @@ http://stream01.vnet.am/BoksTv/mono.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7f7zax.png" group-title="Спортивные",Motor sport tv
 https://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спортивные",viju+ Sport
-http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2051.png" group-title="Спортивные",Матч! HD
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2044.png" group-title="Спортивные",Матч! Футбол 1 HD
