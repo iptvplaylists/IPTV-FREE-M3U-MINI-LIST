@@ -47,6 +47,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus-hd" tvg-rec="7" tvg-logo="http://epg.one/img/6669.png" group-title="Общероссийские",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="zvezda-plus-hd" tvg-rec="7" tvg-logo="http://epg.one/img/2476.png" group-title="Общероссийские",Красная линия
+https://smotret.tv/iframes/krasnaya-liniya.m3u8
 #EXTINF:-1 tvg-id="tv3-hd" tvg-logo="http://epg.one/img/698.png" group-title="Общероссийские",ТВ3
 http://stream01.vnet.am/Channel_121/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2543.png" group-title="Общероссийские",СТВ
