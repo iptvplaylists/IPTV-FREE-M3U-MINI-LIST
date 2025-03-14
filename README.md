@@ -69,6 +69,8 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://stream01.vnet.am/Bober/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/1037.png" group-title="Кино",Кино ТВ HD
 http://193.242.190.6:8099/88/index.m3u8
+#EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/1013.png" group-title="Кино",Viju+ Premiere HD
+https://livetv.mylifeisgood.net.ru/channels/viju-premiere.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/1012.png" group-title="Кино",Viju+ Megahit HD
 https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/1011.png" group-title="Кино",Viju+ Comedy HD
