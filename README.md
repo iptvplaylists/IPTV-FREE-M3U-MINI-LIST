@@ -339,6 +339,8 @@ http://178.219.128.68:64889/EURO2HD
 http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2285.png" group-title="Спортивные",Бокс ТВ HD
 http://stream01.vnet.am/BoksTv/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2285.png" group-title="Спортивные",UFA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спортивные",viju+ Sport
 http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2051.png" group-title="Спортивные",Матч! HD
