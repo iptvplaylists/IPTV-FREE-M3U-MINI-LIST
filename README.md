@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml.gz" catchup-type="shift"
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://epg.one/img/983.png" group-title="Общероссийские",Первый HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="http://epg.one/img/3025.png" group-title="Общероссийские",Первый канал HD +4 
+#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="http://epg.one/img/3025.png" group-title="Общероссийские",Первый канал HD +4
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="http://epg.one/img/3025.png" group-title="Общероссийские",Первый канал +4
 http://stream02.vnet.am/PerviyKanal/tracks-v1a1/mono.m3u8
