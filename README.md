@@ -297,6 +297,8 @@ http://stream01.vnet.am/TLC/tracks-v1a2/mono.m3u8
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="http://epg.one/img/723.png" group-title="Познавательные",Наука 
 http://ott-cdn.ucom.am/s98/04.m3u8
+#EXTINF:-1 tvg-id="nauka-20" tvg-logo="http://epg.one/img/415.png" group-title="Познавательные",HD Life
+http://fs2.persik.by/HDL/index.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru" tvg-logo="http://epg.one/img/2417.png" group-title="Познавательные",Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://epg.one/img/675.png" group-title="Познавательные",Моя планета HD
