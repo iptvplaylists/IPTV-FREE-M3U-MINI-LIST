@@ -32,7 +32,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-id="tvc-hd" tvg-logo="http://epg.one/img/649.png" group-title="Общероссийские",ТВЦ
 http://flu.ttk.mx:90/TVC/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="otp" tvg-logo="http://epg.one/img/1000.png" group-title="Общероссийские",ОТР
-https://streaming.televizor-24-tochka.ru/live/12.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 tvg-id="yu-tv" tvg-logo="http://epg.one/img/898.png" group-title="Общероссийские",Ю ТВ
 https://tv.streams.baikal-telecom.net/U/index.m3u8
 #EXTINF:-1 tvg-id="5kanal" tvg-logo="http://epg.one/img/427.png" group-title="Общероссийские",5 канал
